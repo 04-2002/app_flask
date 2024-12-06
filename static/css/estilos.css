@@ -1,0 +1,221 @@
+/* Estilo general para el cuerpo */
+body {
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #f5f5f5;
+    color: #333;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh; /* Garantiza que el body ocupe toda la altura de la pantalla */
+}
+
+/* Encabezado */
+header {
+    background-color: #1877F2;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 10;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+/* Selector superior con mejoras de interacción */
+
+.selector-superior {
+    position: absolute;
+    top: 20px;
+    right: 60px;
+
+}
+
+
+.selector-superior select {
+    padding: 10px;
+    font-size: 14px;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+    background-color: #ffffff;
+    cursor: pointer;
+    transition: var(--transicion-suave);
+    box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+}
+
+.selector-superior select:focus {
+    border-color: var(--color-primario);
+    outline: none;
+    box-shadow: 0 0 0 3px rgba(24, 119, 242, 0.2);
+}
+/* Contenedor principal */
+.contenedor-principal {
+    display: flex;
+    flex-direction: column;
+    margin-top: 80px;
+    flex: 1;
+    overflow-y: auto;
+}
+
+/* Contenedor de contenido */
+.contenedor-contenido {
+    display: flex;
+    flex-grow: 1;
+    flex-direction: row;
+    justify-content: center;
+    align-items: stretch;
+    gap: 20px;
+    padding: 20px;
+    height: calc(100vh - 100px); /* Ajuste dinámico según el header */
+    overflow: hidden;
+}
+
+/* Contenedor de filtros */
+.contenedor-filtros {
+    flex: 0 0 20%;
+    background-color: white;
+    padding: 20px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    overflow-y: auto;
+    gap: 10px;
+    height: 100%;
+}
+
+/* Filtros */
+.contenedor-filtros h2 {
+    margin-top: 0;
+    font-size: 1.5rem;
+    color: #333;
+}
+
+.contenedor-selectores label {
+    margin-bottom: 5px;
+    font-size: 14px;
+    color: #555;
+}
+
+.contenedor-selectores select {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    background-color: #F0F8FF;
+}
+
+.contenedor-selectores select:focus {
+    border-color: #1877F2;
+}
+
+#boton-generar-grafico {
+    background-color: #077907;
+    color: white;
+    padding: 12px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+#boton-generar-grafico:hover {
+    background-color: #228B22;
+}
+
+/* Contenedor del gráfico */
+.contenedor-grafico {
+    flex: 1;
+    background-color: white;
+    padding: 20px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    overflow: hidden;
+    width: 100%;
+    height: 100%;    /* Ajuste para que ocupe todo el alto disponible */
+    min-height: 400px; /* Altura mínima para asegurar visibilidad en pantallas pequeñas */
+}
+
+
+#contenedor-grafico .js-plotly-plot {
+    width: 100% !important;  /* Asegura que el gráfico ocupe todo el espacio disponible */
+    height: 100% !important; /* Ajusta la altura del gráfico */
+}
+
+
+.contenedor-grafico h2 {
+    margin: 0 0 20px 0;
+    font-size: 1.5rem;
+    color: #333;
+}
+
+/* Spinner de carga */
+.spinner-cargando {
+    display: none;
+    border: 4px solid #f3f3f3;
+    border-top: 4px solid #3498db;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+
+/* Responsividad */
+@media (max-width: 1024px) {
+    /* Disposición en columna para pantallas medianas */
+    .contenedor-contenido {
+        flex-direction: column;
+    }
+
+    .contenedor-filtros {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+
+    .contenedor-grafico {
+        width: 100%;
+        min-height: 300px; /* Asegurar que no se achique demasiado */
+    }
+
+    header h1 {
+        font-size: 1.25rem; /* Ajuste en el tamaño de fuente */
+    }
+}
+
+@media (max-width: 600px) {
+    /* Disposición en columna completa para pantallas pequeñas */
+    .contenedor-filtros {
+        width: 100%;
+        margin-bottom: 15px;
+    }
+
+    .contenedor-grafico {
+        width: 100%;
+        min-height: 200px; /* Asegurarse de que el gráfico no se haga demasiado pequeño */
+    }
+
+    .selector-superior {
+        top: 10px;
+        right: 20px;
+    }
+
+    header h1 {
+        font-size: 1.2rem;
+    }
+}

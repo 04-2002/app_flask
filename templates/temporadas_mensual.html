@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Generador de Gráfico de Cultivos</title>
+    <link
+      rel="stylesheet"
+      href="{{ url_for('static', filename='css/estilos.css') }}"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/nouislider@15.6.0/dist/nouislider.min.css"
+    />
+  </head>
+  <body>
+    <header class="header">
+      <h1>Generador de Gráfico de Cultivos</h1>
+      <div class="selector-superior">
+        <form id="page-selector-form" method="GET" action="{{ url_for('index') }}">
+          <select id="page-selector" name="page-selector" onchange="window.location.href=this.value;">
+            <option value="{{ url_for('index') }}" {% if request.endpoint == 'index' %} selected {% endif %}>
+              Anuario estadístico
+            </option>
+            <option value="{{ url_for('variacion_anual') }}" {% if request.endpoint == 'variacion_anual' %} selected {% endif %}>
+              Variación de cultivos
+            </option>
+            <option value="{{ url_for('temporadas_mensual') }}" {% if request.endpoint == 'temporadas_mensual' %} selected {% endif %}>
+              Temporadas Anuales
+            </option>
+          </select>
+        </form>
+      </div>
+    </header>
+
+    <div class="contenedor-principal">
+      <div class="contenedor-contenido">
+        <div class="contenedor-filtros">
+          <h2>Filtros de Selección</h2>
+          <form id="filters-form" class="contenedor-selectores">
+            <label for="años">Año:</label>
+            <select id="años" name="año">
+              {% for año in años %}
+              <option value="{{ año }}">{{ año }}</option>
+              {% endfor %}
+            </select>
+
+            <label for="municipio">Municipio:</label>
+            <select id="municipio" name="municipio">
+              {% for municipio in municipios %}
+              <option value="{{ municipio }}">{{ municipio }}</option>
+              {% endfor %}
+            </select>
+
+            <label for="temporada">Temporada:</label>
+            <select id="temporada" name="temporada">
+              <option value="">Todos</option>
+              {% for temporada in temporadas %}
+              <option value="{{ temporada }}">{{ temporada }}</option>
+              {% endfor %}
+            </select>
+
+            <label for="mes">Mes:</label>
+            <select id="mes" name="mes">
+              <option value="">Todos</option>
+              {% for mes in meses %}
+              <option value="{{ mes }}">{{ mes }}</option>
+              {% endfor %}
+            </select>
+
+            <label for="cultivo">Cultivo:</label>
+            <select id="cultivo" name="cultivo">
+              <option value="">Todos</option>
+              {% for cultivo in cultivos %}
+              <option value="{{ cultivo }}">{{ cultivo }}</option>
+              {% endfor %}
+            </select>
+
+            <button type="button" id="boton-generar-grafico">Generar Gráfico</button>
+          </form>
+        </div>
+
+        <div class="contenedor-grafico">
+          <h2>Gráfico de Temporadas</h2>
+          <div id="spinner" class="spinner-cargando"></div>
+          <div id="grafico"></div>
+        </div>
+      </div>
+    </div>
+
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+    <script>
+      $(document).ready(function () {
+        $('#boton-generar-grafico').click(function (event) {
+          event.preventDefault();
+          generarGraficoAnual();
+        });
+      });
+
+      function generarGraficoAnual() {
+        const año = $('#años').val();
+        const municipio = $('#municipio').val();
+        const temporada = $('#temporada').val();
+        const mes = $('#mes').val();
+        const cultivo = $('#cultivo').val();
+
+        console.log("Filtros aplicados:", año, municipio, temporada, mes, cultivo);
+
+        $('#spinner').show();
+        $('#grafico').empty();
+
+        $.get(
+          '/obtener_barras_temporal',
+          { año, municipio, temporada, mes, cultivo },
+          function (data) {
+            $('#spinner').hide();
+            if (data.success) {
+              $('#grafico').html(data.graph_html || '<p>No se encontraron datos para mostrar el gráfico.</p>');
+            } else {
+              $('#grafico').html('<p>' + data.error_message + '</p>');
+            }
+          }
+        ).fail(function () {
+          $('#spinner').hide();
+          $('#grafico').html('<p>Error al cargar los datos filtrados.</p>');
+        });
+      }
+    </script>
+  </body>
+</html>

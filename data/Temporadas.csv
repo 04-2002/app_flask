@@ -1,0 +1,2854 @@
+anio,municipio,temporada,mes,nomcultivo,sembrada
+2017,Jonuta,Norte,Enero,Chile verde,100
+2017,Jonuta,Norte,Enero,Frijol,30
+2017,Jonuta,Norte,Enero,Limón,5
+2017,Jonuta,Norte,Enero,Maíz grano,2500
+2017,Jonuta,Norte,Enero,Mango,10
+2017,Jonuta,Norte,Enero,Sorgo grano,570
+2017,Jonuta,Norte,Enero,Tomate rojo (jitomate),12
+2017,Jonuta,Norte,Febrero,Chile verde,100
+2017,Jonuta,Norte,Febrero,Frijol,30
+2017,Jonuta,Norte,Febrero,Limón,5
+2017,Jonuta,Norte,Febrero,Maíz grano,2500
+2017,Jonuta,Norte,Febrero,Mango,10
+2017,Jonuta,Norte,Febrero,Sorgo grano,350
+2017,Jonuta,Norte,Febrero,Tomate rojo (jitomate),12
+2017,Jonuta,Seca,Marzo,Chile verde,100
+2017,Jonuta,Seca,Marzo,Frijol,30
+2017,Jonuta,Seca,Marzo,Limón,5
+2017,Jonuta,Seca,Marzo,Maíz grano,2500
+2017,Jonuta,Seca,Marzo,Mango,10
+2017,Jonuta,Seca,Marzo,Sorgo grano,350
+2017,Jonuta,Seca,Marzo,Tomate rojo (jitomate),12
+2017,Jonuta,Seca,Abril,Chile verde,100
+2017,Jonuta,Seca,Abril,Frijol,50
+2017,Jonuta,Seca,Abril,Limón,5
+2017,Jonuta,Seca,Abril,Maíz grano,2500
+2017,Jonuta,Seca,Abril,Mango,10
+2017,Jonuta,Seca,Abril,Sorgo grano,350
+2017,Jonuta,Seca,Abril,Tomate rojo (jitomate),12
+2017,Jonuta,Seca,Mayo,Chile verde,100
+2017,Jonuta,Seca,Mayo,Frijol,50
+2017,Jonuta,Seca,Mayo,Limón,5
+2017,Jonuta,Seca,Mayo,Maíz grano,2500
+2017,Jonuta,Seca,Mayo,Mango,10
+2017,Jonuta,Seca,Mayo,Sorgo grano,350
+2017,Jonuta,Seca,Mayo,Tomate rojo (jitomate),12
+2017,Jonuta,Temporal,Junio,Chile verde,100
+2017,Jonuta,Temporal,Junio,Frijol,50
+2017,Jonuta,Temporal,Junio,Limón,5
+2017,Jonuta,Temporal,Junio,Maíz grano,3600
+2017,Jonuta,Temporal,Junio,Mango,10
+2017,Jonuta,Temporal,Junio,Sorgo grano,585
+2017,Jonuta,Temporal,Junio,Tomate rojo (jitomate),12
+2017,Jonuta,Temporal,Julio,Chile verde,250
+2017,Jonuta,Temporal,Julio,Frijol,50
+2017,Jonuta,Temporal,Julio,Limón,5
+2017,Jonuta,Temporal,Julio,Maíz grano,4606
+2017,Jonuta,Temporal,Julio,Mango,10
+2017,Jonuta,Temporal,Julio,Sorgo grano,650
+2017,Jonuta,Temporal,Julio,Tomate rojo (jitomate),12
+2017,Jonuta,Temporal,Agosto,Chile verde,250
+2017,Jonuta,Temporal,Agosto,Frijol,50
+2017,Jonuta,Temporal,Agosto,Limón,5
+2017,Jonuta,Temporal,Agosto,Maíz grano,4606
+2017,Jonuta,Temporal,Agosto,Mango,10
+2017,Jonuta,Temporal,Agosto,Sorgo grano,650
+2017,Jonuta,Temporal,Agosto,Tomate rojo (jitomate),12
+2017,Jonuta,Temporal,Septiembre,Chile verde,250
+2017,Jonuta,Temporal,Septiembre,Frijol,50
+2017,Jonuta,Temporal,Septiembre,Limón,5
+2017,Jonuta,Temporal,Septiembre,Maíz grano,4606
+2017,Jonuta,Temporal,Septiembre,Mango,10
+2017,Jonuta,Temporal,Septiembre,Sorgo grano,650
+2017,Jonuta,Temporal,Septiembre,Tomate rojo (jitomate),12
+2017,Jonuta,Norte,Octubre,Chile verde,250
+2017,Jonuta,Norte,Octubre,Frijol,50
+2017,Jonuta,Norte,Octubre,Limón,5
+2017,Jonuta,Norte,Octubre,Maíz grano,4606
+2017,Jonuta,Norte,Octubre,Mango,10
+2017,Jonuta,Norte,Octubre,Sorgo grano,650
+2017,Jonuta,Norte,Octubre,Tomate rojo (jitomate),12
+2017,Jonuta,Norte,Noviembre,Chile verde,250
+2017,Jonuta,Norte,Noviembre,Frijol,50
+2017,Jonuta,Norte,Noviembre,Limón,5
+2017,Jonuta,Norte,Noviembre,Maíz grano,4606
+2017,Jonuta,Norte,Noviembre,Mango,10
+2017,Jonuta,Norte,Noviembre,Sorgo grano,650
+2017,Jonuta,Norte,Noviembre,Tomate rojo (jitomate),12
+2017,Jonuta,Norte,Diciembre,Chile verde,250
+2017,Jonuta,Norte,Diciembre,Frijol,50
+2017,Jonuta,Norte,Diciembre,Limón,5
+2017,Jonuta,Norte,Diciembre,Maíz grano,4606
+2017,Jonuta,Norte,Diciembre,Mango,10
+2017,Jonuta,Norte,Diciembre,Sorgo grano,650
+2017,Jonuta,Norte,Diciembre,Tomate rojo (jitomate),12
+2017,Balancán,Norte,Enero,Caña de azucar,0
+2017,Balancán,Norte,Enero,Chile verde,60
+2017,Balancán,Norte,Enero,Frijol,342
+2017,Balancán,Norte,Enero,Maíz grano,5922
+2017,Balancán,Norte,Enero,Naranja,10
+2017,Balancán,Norte,Enero,Papaya,173
+2017,Balancán,Norte,Enero,Sandía,280
+2017,Balancán,Norte,Enero,Sorgo grano,2900
+2017,Balancán,Norte,Enero,Tomate rojo (jitomate),9
+2017,Balancán,Norte,Febrero,Caña de azucar,0
+2017,Balancán,Norte,Febrero,Chile verde,64
+2017,Balancán,Norte,Febrero,Frijol,432
+2017,Balancán,Norte,Febrero,Maíz grano,6422
+2017,Balancán,Norte,Febrero,Naranja,10
+2017,Balancán,Norte,Febrero,Papaya,173
+2017,Balancán,Norte,Febrero,Sandía,473
+2017,Balancán,Norte,Febrero,Sorgo grano,3800
+2017,Balancán,Norte,Febrero,Tomate rojo (jitomate),9
+2017,Balancán,Seca,Marzo,Caña de azucar,0
+2017,Balancán,Seca,Marzo,Chile verde,65
+2017,Balancán,Seca,Marzo,Frijol,434
+2017,Balancán,Seca,Marzo,Maíz grano,7206
+2017,Balancán,Seca,Marzo,Naranja,10
+2017,Balancán,Seca,Marzo,Papaya,173
+2017,Balancán,Seca,Marzo,Sandía,473
+2017,Balancán,Seca,Marzo,Sorgo grano,3950
+2017,Balancán,Seca,Marzo,Tomate rojo (jitomate),9
+2017,Balancán,Seca,Abril,Caña de azucar,0
+2017,Balancán,Seca,Abril,Chile verde,65
+2017,Balancán,Seca,Abril,Frijol,434
+2017,Balancán,Seca,Abril,Maíz grano,7206
+2017,Balancán,Seca,Abril,Naranja,10
+2017,Balancán,Seca,Abril,Papaya,173
+2017,Balancán,Seca,Abril,Sandía,473
+2017,Balancán,Seca,Abril,Sorgo grano,3950
+2017,Balancán,Seca,Abril,Tomate rojo (jitomate),9
+2017,Balancán,Seca,Mayo,Caña de azucar,0
+2017,Balancán,Seca,Mayo,Chile verde,65
+2017,Balancán,Seca,Mayo,Frijol,434
+2017,Balancán,Seca,Mayo,Maíz grano,8706
+2017,Balancán,Seca,Mayo,Naranja,10
+2017,Balancán,Seca,Mayo,Papaya,173
+2017,Balancán,Seca,Mayo,Sandía,473
+2017,Balancán,Seca,Mayo,Sorgo grano,3950
+2017,Balancán,Seca,Mayo,Tomate rojo (jitomate),9
+2017,Balancán,Temporal,Junio,Caña de azucar,0
+2017,Balancán,Temporal,Junio,Chile verde,80
+2017,Balancán,Temporal,Junio,Frijol,434
+2017,Balancán,Temporal,Junio,Maíz grano,11128
+2017,Balancán,Temporal,Junio,Naranja,10
+2017,Balancán,Temporal,Junio,Papaya,173
+2017,Balancán,Temporal,Junio,Sandía,554
+2017,Balancán,Temporal,Junio,Sorgo grano,4824
+2017,Balancán,Temporal,Junio,Tomate rojo (jitomate),12
+2017,Balancán,Temporal,Julio,Caña de azucar,0
+2017,Balancán,Temporal,Julio,Chile verde,81
+2017,Balancán,Temporal,Julio,Frijol,434
+2017,Balancán,Temporal,Julio,Maíz grano,15668
+2017,Balancán,Temporal,Julio,Naranja,10
+2017,Balancán,Temporal,Julio,Papaya,173
+2017,Balancán,Temporal,Julio,Sandía,673
+2017,Balancán,Temporal,Julio,Sorgo grano,5950
+2017,Balancán,Temporal,Julio,Tomate rojo (jitomate),12
+2017,Balancán,Temporal,Agosto,Caña de azucar,0
+2017,Balancán,Temporal,Agosto,Chile verde,84
+2017,Balancán,Temporal,Agosto,Frijol,434
+2017,Balancán,Temporal,Agosto,Maíz grano,17473
+2017,Balancán,Temporal,Agosto,Naranja,10
+2017,Balancán,Temporal,Agosto,Papaya,173
+2017,Balancán,Temporal,Agosto,Sandía,673
+2017,Balancán,Temporal,Agosto,Sorgo grano,6488
+2017,Balancán,Temporal,Agosto,Tomate rojo (jitomate),16
+2017,Balancán,Temporal,Septiembre,Caña de azucar,0
+2017,Balancán,Temporal,Septiembre,Chile verde,84
+2017,Balancán,Temporal,Septiembre,Frijol,434
+2017,Balancán,Temporal,Septiembre,Maíz grano,17473
+2017,Balancán,Temporal,Septiembre,Naranja,10
+2017,Balancán,Temporal,Septiembre,Papaya,173
+2017,Balancán,Temporal,Septiembre,Sandía,673
+2017,Balancán,Temporal,Septiembre,Sorgo grano,6488
+2017,Balancán,Temporal,Septiembre,Tomate rojo (jitomate),16
+2017,Balancán,Norte,Octubre,Caña de azucar,0
+2017,Balancán,Norte,Octubre,Chile verde,84
+2017,Balancán,Norte,Octubre,Frijol,434
+2017,Balancán,Norte,Octubre,Maíz grano,17473
+2017,Balancán,Norte,Octubre,Naranja,10
+2017,Balancán,Norte,Octubre,Papaya,173
+2017,Balancán,Norte,Octubre,Sandía,673
+2017,Balancán,Norte,Octubre,Sorgo grano,6488
+2017,Balancán,Norte,Octubre,Tomate rojo (jitomate),16
+2017,Balancán,Norte,Noviembre,Caña de azucar,0
+2017,Balancán,Norte,Noviembre,Chile verde,84
+2017,Balancán,Norte,Noviembre,Frijol,434
+2017,Balancán,Norte,Noviembre,Maíz grano,17473
+2017,Balancán,Norte,Noviembre,Naranja,10
+2017,Balancán,Norte,Noviembre,Papaya,173
+2017,Balancán,Norte,Noviembre,Sandía,673
+2017,Balancán,Norte,Noviembre,Sorgo grano,6488
+2017,Balancán,Norte,Noviembre,Tomate rojo (jitomate),16
+2017,Balancán,Norte,Diciembre,Caña de azucar,0
+2017,Balancán,Norte,Diciembre,Chile verde,84
+2017,Balancán,Norte,Diciembre,Frijol,434
+2017,Balancán,Norte,Diciembre,Maíz grano,17473
+2017,Balancán,Norte,Diciembre,Naranja,10
+2017,Balancán,Norte,Diciembre,Papaya,173
+2017,Balancán,Norte,Diciembre,Sandía,673
+2017,Balancán,Norte,Diciembre,Sorgo grano,6488
+2017,Balancán,Norte,Diciembre,Tomate rojo (jitomate),16
+2017,Emiliano Zapata,Norte,Enero,Chile verde,30
+2017,Emiliano Zapata,Norte,Enero,Frijol,135
+2017,Emiliano Zapata,Norte,Enero,Limón,8
+2017,Emiliano Zapata,Norte,Enero,Maíz grano,405
+2017,Emiliano Zapata,Norte,Enero,Naranja,6
+2017,Emiliano Zapata,Norte,Enero,Sandía,0
+2017,Emiliano Zapata,Norte,Enero,Sorgo grano,30
+2017,Emiliano Zapata,Norte,Enero,Tomate rojo (jitomate),3
+2017,Emiliano Zapata,Norte,Febrero,Chile verde,31
+2017,Emiliano Zapata,Norte,Febrero,Frijol,148
+2017,Emiliano Zapata,Norte,Febrero,Limón,8
+2017,Emiliano Zapata,Norte,Febrero,Maíz grano,1095
+2017,Emiliano Zapata,Norte,Febrero,Naranja,6
+2017,Emiliano Zapata,Norte,Febrero,Sandía,22
+2017,Emiliano Zapata,Norte,Febrero,Sorgo grano,385
+2017,Emiliano Zapata,Norte,Febrero,Tomate rojo (jitomate),4
+2017,Emiliano Zapata,Seca,Marzo,Chile verde,37
+2017,Emiliano Zapata,Seca,Marzo,Frijol,148
+2017,Emiliano Zapata,Seca,Marzo,Limón,8
+2017,Emiliano Zapata,Seca,Marzo,Maíz grano,1130
+2017,Emiliano Zapata,Seca,Marzo,Naranja,6
+2017,Emiliano Zapata,Seca,Marzo,Sandía,22
+2017,Emiliano Zapata,Seca,Marzo,Sorgo grano,385
+2017,Emiliano Zapata,Seca,Marzo,Tomate rojo (jitomate),4
+2017,Emiliano Zapata,Seca,Abril,Chile verde,37
+2017,Emiliano Zapata,Seca,Abril,Frijol,148
+2017,Emiliano Zapata,Seca,Abril,Limón,8
+2017,Emiliano Zapata,Seca,Abril,Maíz grano,1130
+2017,Emiliano Zapata,Seca,Abril,Naranja,6
+2017,Emiliano Zapata,Seca,Abril,Sandía,22
+2017,Emiliano Zapata,Seca,Abril,Sorgo grano,385
+2017,Emiliano Zapata,Seca,Abril,Tomate rojo (jitomate),4
+2017,Emiliano Zapata,Seca,Mayo,Arroz palay,650
+2017,Emiliano Zapata,Seca,Mayo,Chile verde,37
+2017,Emiliano Zapata,Seca,Mayo,Frijol,148
+2017,Emiliano Zapata,Seca,Mayo,Limón,8
+2017,Emiliano Zapata,Seca,Mayo,Maíz grano,1230
+2017,Emiliano Zapata,Seca,Mayo,Naranja,6
+2017,Emiliano Zapata,Seca,Mayo,Sandía,22
+2017,Emiliano Zapata,Seca,Mayo,Sorgo grano,385
+2017,Emiliano Zapata,Seca,Mayo,Tomate rojo (jitomate),4
+2017,Emiliano Zapata,Temporal,Junio,Arroz palay,650
+2017,Emiliano Zapata,Temporal,Junio,Chile verde,37
+2017,Emiliano Zapata,Temporal,Junio,Frijol,148
+2017,Emiliano Zapata,Temporal,Junio,Limón,8
+2017,Emiliano Zapata,Temporal,Junio,Maíz grano,1455
+2017,Emiliano Zapata,Temporal,Junio,Naranja,6
+2017,Emiliano Zapata,Temporal,Junio,Sandía,37
+2017,Emiliano Zapata,Temporal,Junio,Sorgo grano,385
+2017,Emiliano Zapata,Temporal,Junio,Tomate rojo (jitomate),4
+2017,Emiliano Zapata,Temporal,Julio,Arroz palay,911
+2017,Emiliano Zapata,Temporal,Julio,Chile verde,39
+2017,Emiliano Zapata,Temporal,Julio,Frijol,148
+2017,Emiliano Zapata,Temporal,Julio,Limón,8
+2017,Emiliano Zapata,Temporal,Julio,Maíz grano,2045
+2017,Emiliano Zapata,Temporal,Julio,Naranja,6
+2017,Emiliano Zapata,Temporal,Julio,Sandía,76
+2017,Emiliano Zapata,Temporal,Julio,Sorgo grano,424
+2017,Emiliano Zapata,Temporal,Julio,Tomate rojo (jitomate),4
+2017,Emiliano Zapata,Temporal,Agosto,Arroz palay,911
+2017,Emiliano Zapata,Temporal,Agosto,Chile verde,39
+2017,Emiliano Zapata,Temporal,Agosto,Frijol,148
+2017,Emiliano Zapata,Temporal,Agosto,Limón,8
+2017,Emiliano Zapata,Temporal,Agosto,Maíz grano,2175
+2017,Emiliano Zapata,Temporal,Agosto,Naranja,6
+2017,Emiliano Zapata,Temporal,Agosto,Sandía,170
+2017,Emiliano Zapata,Temporal,Agosto,Sorgo grano,683
+2017,Emiliano Zapata,Temporal,Agosto,Tomate rojo (jitomate),4
+2017,Emiliano Zapata,Temporal,Septiembre,Arroz palay,911
+2017,Emiliano Zapata,Temporal,Septiembre,Chile verde,39
+2017,Emiliano Zapata,Temporal,Septiembre,Frijol,148
+2017,Emiliano Zapata,Temporal,Septiembre,Limón,8
+2017,Emiliano Zapata,Temporal,Septiembre,Maíz grano,2175
+2017,Emiliano Zapata,Temporal,Septiembre,Naranja,6
+2017,Emiliano Zapata,Temporal,Septiembre,Sandía,170
+2017,Emiliano Zapata,Temporal,Septiembre,Sorgo grano,683
+2017,Emiliano Zapata,Temporal,Septiembre,Tomate rojo (jitomate),4
+2017,Emiliano Zapata,Norte,Octubre,Arroz palay,911
+2017,Emiliano Zapata,Norte,Octubre,Chile verde,39
+2017,Emiliano Zapata,Norte,Octubre,Frijol,148
+2017,Emiliano Zapata,Norte,Octubre,Limón,8
+2017,Emiliano Zapata,Norte,Octubre,Maíz grano,2175
+2017,Emiliano Zapata,Norte,Octubre,Naranja,6
+2017,Emiliano Zapata,Norte,Octubre,Sandía,170
+2017,Emiliano Zapata,Norte,Octubre,Sorgo grano,683
+2017,Emiliano Zapata,Norte,Octubre,Tomate rojo (jitomate),4
+2017,Emiliano Zapata,Norte,Noviembre,Arroz palay,911
+2017,Emiliano Zapata,Norte,Noviembre,Chile verde,39
+2017,Emiliano Zapata,Norte,Noviembre,Frijol,148
+2017,Emiliano Zapata,Norte,Noviembre,Limón,8
+2017,Emiliano Zapata,Norte,Noviembre,Maíz grano,2175
+2017,Emiliano Zapata,Norte,Noviembre,Naranja,6
+2017,Emiliano Zapata,Norte,Noviembre,Sandía,170
+2017,Emiliano Zapata,Norte,Noviembre,Sorgo grano,683
+2017,Emiliano Zapata,Norte,Noviembre,Tomate rojo (jitomate),4
+2017,Emiliano Zapata,Norte,Diciembre,Arroz palay,911
+2017,Emiliano Zapata,Norte,Diciembre,Chile verde,39
+2017,Emiliano Zapata,Norte,Diciembre,Frijol,148
+2017,Emiliano Zapata,Norte,Diciembre,Limón,8
+2017,Emiliano Zapata,Norte,Diciembre,Maíz grano,2175
+2017,Emiliano Zapata,Norte,Diciembre,Naranja,6
+2017,Emiliano Zapata,Norte,Diciembre,Sandía,170
+2017,Emiliano Zapata,Norte,Diciembre,Sorgo grano,683
+2017,Emiliano Zapata,Norte,Diciembre,Tomate rojo (jitomate),4
+2017,Tenosique,Norte,Enero,Caña de azucar,3650
+2017,Tenosique,Norte,Enero,Chile verde,17
+2017,Tenosique,Norte,Enero,Frijol,18
+2017,Tenosique,Norte,Enero,Maíz grano,1603
+2017,Tenosique,Norte,Enero,Mango,65
+2017,Tenosique,Norte,Enero,Sandía,0
+2017,Tenosique,Norte,Enero,Sorgo grano,260
+2017,Tenosique,Norte,Enero,Tomate rojo (jitomate),1
+2017,Tenosique,Norte,Febrero,Caña de azucar,3650
+2017,Tenosique,Norte,Febrero,Chile verde,17
+2017,Tenosique,Norte,Febrero,Frijol,37
+2017,Tenosique,Norte,Febrero,Maíz grano,2257
+2017,Tenosique,Norte,Febrero,Mango,65
+2017,Tenosique,Norte,Febrero,Sandía,13
+2017,Tenosique,Norte,Febrero,Sorgo grano,493
+2017,Tenosique,Norte,Febrero,Tomate rojo (jitomate),1
+2017,Tenosique,Seca,Marzo,Caña de azucar,3650
+2017,Tenosique,Seca,Marzo,Chile verde,17
+2017,Tenosique,Seca,Marzo,Frijol,37
+2017,Tenosique,Seca,Marzo,Maíz grano,2257
+2017,Tenosique,Seca,Marzo,Mango,65
+2017,Tenosique,Seca,Marzo,Sandía,13
+2017,Tenosique,Seca,Marzo,Sorgo grano,493
+2017,Tenosique,Seca,Marzo,Tomate rojo (jitomate),1
+2017,Tenosique,Seca,Abril,Caña de azucar,3650
+2017,Tenosique,Seca,Abril,Chile verde,17
+2017,Tenosique,Seca,Abril,Frijol,37
+2017,Tenosique,Seca,Abril,Maíz grano,2257
+2017,Tenosique,Seca,Abril,Mango,65
+2017,Tenosique,Seca,Abril,Sandía,13
+2017,Tenosique,Seca,Abril,Sorgo grano,493
+2017,Tenosique,Seca,Abril,Tomate rojo (jitomate),1
+2017,Tenosique,Seca,Mayo,Caña de azucar,3650
+2017,Tenosique,Seca,Mayo,Chile verde,17
+2017,Tenosique,Seca,Mayo,Frijol,37
+2017,Tenosique,Seca,Mayo,Maíz grano,2757
+2017,Tenosique,Seca,Mayo,Mango,65
+2017,Tenosique,Seca,Mayo,Sandía,13
+2017,Tenosique,Seca,Mayo,Sorgo grano,493
+2017,Tenosique,Seca,Mayo,Tomate rojo (jitomate),1
+2017,Tenosique,Temporal,Junio,Caña de azucar,3650
+2017,Tenosique,Temporal,Junio,Chile verde,17
+2017,Tenosique,Temporal,Junio,Frijol,37
+2017,Tenosique,Temporal,Junio,Maíz grano,3343
+2017,Tenosique,Temporal,Junio,Mango,65
+2017,Tenosique,Temporal,Junio,Sandía,13
+2017,Tenosique,Temporal,Junio,Sorgo grano,493
+2017,Tenosique,Temporal,Junio,Tomate rojo (jitomate),1
+2017,Tenosique,Temporal,Julio,Caña de azucar,3650
+2017,Tenosique,Temporal,Julio,Chile verde,17
+2017,Tenosique,Temporal,Julio,Frijol,37
+2017,Tenosique,Temporal,Julio,Maíz grano,5090
+2017,Tenosique,Temporal,Julio,Mango,65
+2017,Tenosique,Temporal,Julio,Sandía,13
+2017,Tenosique,Temporal,Julio,Sorgo grano,493
+2017,Tenosique,Temporal,Julio,Tomate rojo (jitomate),1
+2017,Tenosique,Temporal,Agosto,Caña de azucar,3650
+2017,Tenosique,Temporal,Agosto,Chile verde,17
+2017,Tenosique,Temporal,Agosto,Frijol,37
+2017,Tenosique,Temporal,Agosto,Maíz grano,5117
+2017,Tenosique,Temporal,Agosto,Mango,65
+2017,Tenosique,Temporal,Agosto,Sandía,13
+2017,Tenosique,Temporal,Agosto,Sorgo grano,493
+2017,Tenosique,Temporal,Agosto,Tomate rojo (jitomate),1
+2017,Tenosique,Temporal,Septiembre,Caña de azucar,3650
+2017,Tenosique,Temporal,Septiembre,Chile verde,17
+2017,Tenosique,Temporal,Septiembre,Frijol,37
+2017,Tenosique,Temporal,Septiembre,Maíz grano,5117
+2017,Tenosique,Temporal,Septiembre,Mango,65
+2017,Tenosique,Temporal,Septiembre,Sandía,13
+2017,Tenosique,Temporal,Septiembre,Sorgo grano,493
+2017,Tenosique,Temporal,Septiembre,Tomate rojo (jitomate),1
+2017,Tenosique,Norte,Octubre,Caña de azucar,3650
+2017,Tenosique,Norte,Octubre,Chile verde,17
+2017,Tenosique,Norte,Octubre,Frijol,37
+2017,Tenosique,Norte,Octubre,Maíz grano,5117
+2017,Tenosique,Norte,Octubre,Mango,65
+2017,Tenosique,Norte,Octubre,Sandía,13
+2017,Tenosique,Norte,Octubre,Sorgo grano,493
+2017,Tenosique,Norte,Octubre,Tomate rojo (jitomate),1
+2017,Tenosique,Norte,Noviembre,Caña de azucar,3650
+2017,Tenosique,Norte,Noviembre,Chile verde,17
+2017,Tenosique,Norte,Noviembre,Frijol,37
+2017,Tenosique,Norte,Noviembre,Maíz grano,5117
+2017,Tenosique,Norte,Noviembre,Mango,65
+2017,Tenosique,Norte,Noviembre,Sandía,13
+2017,Tenosique,Norte,Noviembre,Sorgo grano,493
+2017,Tenosique,Norte,Noviembre,Tomate rojo (jitomate),1
+2017,Tenosique,Norte,Diciembre,Caña de azucar,3650
+2017,Tenosique,Norte,Diciembre,Chile verde,17
+2017,Tenosique,Norte,Diciembre,Frijol,37
+2017,Tenosique,Norte,Diciembre,Maíz grano,5117
+2017,Tenosique,Norte,Diciembre,Mango,65
+2017,Tenosique,Norte,Diciembre,Sandía,13
+2017,Tenosique,Norte,Diciembre,Sorgo grano,493
+2017,Tenosique,Norte,Diciembre,Tomate rojo (jitomate),1
+2018,Jonuta,Norte,Enero,Chile verde,105
+2018,Jonuta,Norte,Enero,Frijol,230
+2018,Jonuta,Norte,Enero,Limón,5
+2018,Jonuta,Norte,Enero,Maíz grano,2507
+2018,Jonuta,Norte,Enero,Mango,10
+2018,Jonuta,Norte,Enero,Sorgo grano,240
+2018,Jonuta,Norte,Enero,Tomate rojo (jitomate),10
+2018,Jonuta,Norte,Febrero,Chile verde,105
+2018,Jonuta,Norte,Febrero,Frijol,230
+2018,Jonuta,Norte,Febrero,Limón,5
+2018,Jonuta,Norte,Febrero,Maíz grano,2507
+2018,Jonuta,Norte,Febrero,Mango,10
+2018,Jonuta,Norte,Febrero,Sorgo grano,240
+2018,Jonuta,Norte,Febrero,Tomate rojo (jitomate),10
+2018,Jonuta,Seca,Marzo,Chile verde,105
+2018,Jonuta,Seca,Marzo,Frijol,230
+2018,Jonuta,Seca,Marzo,Limón,5
+2018,Jonuta,Seca,Marzo,Maíz grano,2507
+2018,Jonuta,Seca,Marzo,Mango,10
+2018,Jonuta,Seca,Marzo,Sorgo grano,240
+2018,Jonuta,Seca,Marzo,Tomate rojo (jitomate),10
+2018,Jonuta,Seca,Abril,Chile verde,105
+2018,Jonuta,Seca,Abril,Frijol,230
+2018,Jonuta,Seca,Abril,Limón,5
+2018,Jonuta,Seca,Abril,Maíz grano,2507
+2018,Jonuta,Seca,Abril,Mango,10
+2018,Jonuta,Seca,Abril,Sorgo grano,240
+2018,Jonuta,Seca,Abril,Tomate rojo (jitomate),10
+2018,Jonuta,Seca,Mayo,Chile verde,105
+2018,Jonuta,Seca,Mayo,Frijol,230
+2018,Jonuta,Seca,Mayo,Limón,5
+2018,Jonuta,Seca,Mayo,Maíz grano,2507
+2018,Jonuta,Seca,Mayo,Mango,10
+2018,Jonuta,Seca,Mayo,Sorgo grano,240
+2018,Jonuta,Seca,Mayo,Tomate rojo (jitomate),10
+2018,Jonuta,Temporal,Junio,Chile verde,105
+2018,Jonuta,Temporal,Junio,Frijol,230
+2018,Jonuta,Temporal,Junio,Limón,5
+2018,Jonuta,Temporal,Junio,Maíz grano,3069
+2018,Jonuta,Temporal,Junio,Mango,10
+2018,Jonuta,Temporal,Junio,Sorgo grano,240
+2018,Jonuta,Temporal,Junio,Tomate rojo (jitomate),10
+2018,Jonuta,Temporal,Julio,Chile verde,237
+2018,Jonuta,Temporal,Julio,Frijol,230
+2018,Jonuta,Temporal,Julio,Limón,5
+2018,Jonuta,Temporal,Julio,Maíz grano,5492
+2018,Jonuta,Temporal,Julio,Mango,10
+2018,Jonuta,Temporal,Julio,Sorgo grano,240
+2018,Jonuta,Temporal,Julio,Tomate rojo (jitomate),10
+2018,Jonuta,Temporal,Agosto,Chile verde,237
+2018,Jonuta,Temporal,Agosto,Frijol,230
+2018,Jonuta,Temporal,Agosto,Limón,5
+2018,Jonuta,Temporal,Agosto,Maíz grano,5492
+2018,Jonuta,Temporal,Agosto,Mango,10
+2018,Jonuta,Temporal,Agosto,Sorgo grano,340
+2018,Jonuta,Temporal,Agosto,Tomate rojo (jitomate),10
+2018,Jonuta,Temporal,Septiembre,Chile verde,237
+2018,Jonuta,Temporal,Septiembre,Frijol,230
+2018,Jonuta,Temporal,Septiembre,Limón,5
+2018,Jonuta,Temporal,Septiembre,Maíz grano,5492
+2018,Jonuta,Temporal,Septiembre,Mango,10
+2018,Jonuta,Temporal,Septiembre,Sorgo grano,340
+2018,Jonuta,Temporal,Septiembre,Tomate rojo (jitomate),10
+2018,Jonuta,Norte,Octubre,Chile verde,237
+2018,Jonuta,Norte,Octubre,Frijol,230
+2018,Jonuta,Norte,Octubre,Limón,5
+2018,Jonuta,Norte,Octubre,Maíz grano,5492
+2018,Jonuta,Norte,Octubre,Mango,10
+2018,Jonuta,Norte,Octubre,Sorgo grano,340
+2018,Jonuta,Norte,Octubre,Tomate rojo (jitomate),10
+2018,Jonuta,Norte,Noviembre,Chile verde,237
+2018,Jonuta,Norte,Noviembre,Frijol,230
+2018,Jonuta,Norte,Noviembre,Limón,5
+2018,Jonuta,Norte,Noviembre,Maíz grano,5492
+2018,Jonuta,Norte,Noviembre,Mango,10
+2018,Jonuta,Norte,Noviembre,Sorgo grano,340
+2018,Jonuta,Norte,Noviembre,Tomate rojo (jitomate),10
+2018,Jonuta,Norte,Diciembre,Chile verde,237
+2018,Jonuta,Norte,Diciembre,Frijol,230
+2018,Jonuta,Norte,Diciembre,Limón,5
+2018,Jonuta,Norte,Diciembre,Maíz grano,5492
+2018,Jonuta,Norte,Diciembre,Mango,10
+2018,Jonuta,Norte,Diciembre,Sorgo grano,340
+2018,Jonuta,Norte,Diciembre,Tomate rojo (jitomate),10
+2018,Balancán,Norte,Enero,Caña de azucar,56
+2018,Balancán,Norte,Enero,Chile verde,61.5
+2018,Balancán,Norte,Enero,Frijol,348
+2018,Balancán,Norte,Enero,Maíz grano,7120
+2018,Balancán,Norte,Enero,Naranja,10
+2018,Balancán,Norte,Enero,Papaya,154
+2018,Balancán,Norte,Enero,Sandía,410
+2018,Balancán,Norte,Enero,Sorgo grano,3150
+2018,Balancán,Norte,Enero,Tomate rojo (jitomate),9.5
+2018,Balancán,Norte,Febrero,Caña de azucar,56
+2018,Balancán,Norte,Febrero,Chile verde,75.5
+2018,Balancán,Norte,Febrero,Frijol,361
+2018,Balancán,Norte,Febrero,Maíz grano,7577
+2018,Balancán,Norte,Febrero,Naranja,10
+2018,Balancán,Norte,Febrero,Papaya,154
+2018,Balancán,Norte,Febrero,Sandía,472
+2018,Balancán,Norte,Febrero,Sorgo grano,4025
+2018,Balancán,Norte,Febrero,Tomate rojo (jitomate),12
+2018,Balancán,Seca,Marzo,Caña de azucar,56
+2018,Balancán,Seca,Marzo,Chile verde,75.5
+2018,Balancán,Seca,Marzo,Frijol,376
+2018,Balancán,Seca,Marzo,Maíz grano,7577
+2018,Balancán,Seca,Marzo,Naranja,10
+2018,Balancán,Seca,Marzo,Papaya,154
+2018,Balancán,Seca,Marzo,Sandía,472
+2018,Balancán,Seca,Marzo,Sorgo grano,4025
+2018,Balancán,Seca,Marzo,Tomate rojo (jitomate),12
+2018,Balancán,Seca,Abril,Caña de azucar,56
+2018,Balancán,Seca,Abril,Chile verde,75.5
+2018,Balancán,Seca,Abril,Frijol,376
+2018,Balancán,Seca,Abril,Maíz grano,7577
+2018,Balancán,Seca,Abril,Naranja,10
+2018,Balancán,Seca,Abril,Papaya,154
+2018,Balancán,Seca,Abril,Sandía,472
+2018,Balancán,Seca,Abril,Sorgo grano,4025
+2018,Balancán,Seca,Abril,Tomate rojo (jitomate),12
+2018,Balancán,Seca,Mayo,Caña de azucar,56
+2018,Balancán,Seca,Mayo,Chile verde,75.5
+2018,Balancán,Seca,Mayo,Frijol,376
+2018,Balancán,Seca,Mayo,Maíz grano,9027
+2018,Balancán,Seca,Mayo,Naranja,10
+2018,Balancán,Seca,Mayo,Papaya,154
+2018,Balancán,Seca,Mayo,Sandía,472
+2018,Balancán,Seca,Mayo,Sorgo grano,4025
+2018,Balancán,Seca,Mayo,Tomate rojo (jitomate),12
+2018,Balancán,Temporal,Junio,Caña de azucar,56
+2018,Balancán,Temporal,Junio,Chile verde,86
+2018,Balancán,Temporal,Junio,Frijol,376
+2018,Balancán,Temporal,Junio,Maíz grano,11688
+2018,Balancán,Temporal,Junio,Naranja,10
+2018,Balancán,Temporal,Junio,Papaya,154
+2018,Balancán,Temporal,Junio,Sandía,557
+2018,Balancán,Temporal,Junio,Sorgo grano,4025
+2018,Balancán,Temporal,Junio,Tomate rojo (jitomate),14
+2018,Balancán,Temporal,Julio,Caña de azucar,56
+2018,Balancán,Temporal,Julio,Chile verde,90
+2018,Balancán,Temporal,Julio,Frijol,376
+2018,Balancán,Temporal,Julio,Maíz grano,15960.5
+2018,Balancán,Temporal,Julio,Naranja,10
+2018,Balancán,Temporal,Julio,Papaya,154
+2018,Balancán,Temporal,Julio,Sandía,664
+2018,Balancán,Temporal,Julio,Sorgo grano,4132
+2018,Balancán,Temporal,Julio,Tomate rojo (jitomate),18
+2018,Balancán,Temporal,Agosto,Caña de azucar,56
+2018,Balancán,Temporal,Agosto,Chile verde,99.5
+2018,Balancán,Temporal,Agosto,Frijol,376
+2018,Balancán,Temporal,Agosto,Maíz grano,19231
+2018,Balancán,Temporal,Agosto,Naranja,10
+2018,Balancán,Temporal,Agosto,Papaya,154
+2018,Balancán,Temporal,Agosto,Sandía,722
+2018,Balancán,Temporal,Agosto,Sorgo grano,4132
+2018,Balancán,Temporal,Agosto,Tomate rojo (jitomate),21
+2018,Balancán,Temporal,Septiembre,Caña de azucar,56
+2018,Balancán,Temporal,Septiembre,Chile verde,99.5
+2018,Balancán,Temporal,Septiembre,Frijol,376
+2018,Balancán,Temporal,Septiembre,Maíz grano,19231
+2018,Balancán,Temporal,Septiembre,Naranja,10
+2018,Balancán,Temporal,Septiembre,Papaya,154
+2018,Balancán,Temporal,Septiembre,Sandía,722
+2018,Balancán,Temporal,Septiembre,Sorgo grano,4132
+2018,Balancán,Temporal,Septiembre,Tomate rojo (jitomate),21
+2018,Balancán,Norte,Octubre,Caña de azucar,56
+2018,Balancán,Norte,Octubre,Chile verde,99.5
+2018,Balancán,Norte,Octubre,Frijol,376
+2018,Balancán,Norte,Octubre,Maíz grano,19231
+2018,Balancán,Norte,Octubre,Naranja,10
+2018,Balancán,Norte,Octubre,Papaya,154
+2018,Balancán,Norte,Octubre,Sandía,722
+2018,Balancán,Norte,Octubre,Sorgo grano,4132
+2018,Balancán,Norte,Octubre,Tomate rojo (jitomate),21
+2018,Balancán,Norte,Noviembre,Caña de azucar,56
+2018,Balancán,Norte,Noviembre,Chile verde,99.5
+2018,Balancán,Norte,Noviembre,Frijol,376
+2018,Balancán,Norte,Noviembre,Maíz grano,19231
+2018,Balancán,Norte,Noviembre,Naranja,10
+2018,Balancán,Norte,Noviembre,Papaya,154
+2018,Balancán,Norte,Noviembre,Sandía,722
+2018,Balancán,Norte,Noviembre,Sorgo grano,4132
+2018,Balancán,Norte,Noviembre,Tomate rojo (jitomate),21
+2018,Balancán,Norte,Diciembre,Caña de azucar,56
+2018,Balancán,Norte,Diciembre,Chile verde,99.5
+2018,Balancán,Norte,Diciembre,Frijol,376
+2018,Balancán,Norte,Diciembre,Maíz grano,19231
+2018,Balancán,Norte,Diciembre,Naranja,10
+2018,Balancán,Norte,Diciembre,Papaya,154
+2018,Balancán,Norte,Diciembre,Sandía,722
+2018,Balancán,Norte,Diciembre,Sorgo grano,4132
+2018,Balancán,Norte,Diciembre,Tomate rojo (jitomate),21
+2018,Emiliano Zapata,Norte,Enero,Chile verde,41.5
+2018,Emiliano Zapata,Norte,Enero,Frijol,152
+2018,Emiliano Zapata,Norte,Enero,Limón,9
+2018,Emiliano Zapata,Norte,Enero,Maíz grano,1045
+2018,Emiliano Zapata,Norte,Enero,Naranja,6
+2018,Emiliano Zapata,Norte,Enero,Sandía,15
+2018,Emiliano Zapata,Norte,Enero,Sorgo grano,148
+2018,Emiliano Zapata,Norte,Enero,Tomate rojo (jitomate),4.5
+2018,Emiliano Zapata,Norte,Febrero,Chile verde,50.5
+2018,Emiliano Zapata,Norte,Febrero,Frijol,152
+2018,Emiliano Zapata,Norte,Febrero,Limón,9
+2018,Emiliano Zapata,Norte,Febrero,Maíz grano,1340
+2018,Emiliano Zapata,Norte,Febrero,Naranja,6
+2018,Emiliano Zapata,Norte,Febrero,Sandía,32
+2018,Emiliano Zapata,Norte,Febrero,Sorgo grano,323
+2018,Emiliano Zapata,Norte,Febrero,Tomate rojo (jitomate),4.5
+2018,Emiliano Zapata,Seca,Marzo,Chile verde,50.5
+2018,Emiliano Zapata,Seca,Marzo,Frijol,152
+2018,Emiliano Zapata,Seca,Marzo,Limón,9
+2018,Emiliano Zapata,Seca,Marzo,Maíz grano,1340
+2018,Emiliano Zapata,Seca,Marzo,Naranja,6
+2018,Emiliano Zapata,Seca,Marzo,Sandía,32
+2018,Emiliano Zapata,Seca,Marzo,Sorgo grano,323
+2018,Emiliano Zapata,Seca,Marzo,Tomate rojo (jitomate),4.5
+2018,Emiliano Zapata,Seca,Abril,Chile verde,50.5
+2018,Emiliano Zapata,Seca,Abril,Frijol,152
+2018,Emiliano Zapata,Seca,Abril,Limón,9
+2018,Emiliano Zapata,Seca,Abril,Maíz grano,1340
+2018,Emiliano Zapata,Seca,Abril,Naranja,6
+2018,Emiliano Zapata,Seca,Abril,Sandía,32
+2018,Emiliano Zapata,Seca,Abril,Sorgo grano,323
+2018,Emiliano Zapata,Seca,Abril,Tomate rojo (jitomate),4.5
+2018,Emiliano Zapata,Seca,Mayo,Arroz palay,880
+2018,Emiliano Zapata,Seca,Mayo,Chile verde,50.5
+2018,Emiliano Zapata,Seca,Mayo,Frijol,152
+2018,Emiliano Zapata,Seca,Mayo,Limón,9
+2018,Emiliano Zapata,Seca,Mayo,Maíz grano,1461
+2018,Emiliano Zapata,Seca,Mayo,Naranja,6
+2018,Emiliano Zapata,Seca,Mayo,Sandía,72
+2018,Emiliano Zapata,Seca,Mayo,Sorgo grano,323
+2018,Emiliano Zapata,Seca,Mayo,Tomate rojo (jitomate),4.5
+2018,Emiliano Zapata,Temporal,Junio,Arroz palay,880
+2018,Emiliano Zapata,Temporal,Junio,Chile verde,50.5
+2018,Emiliano Zapata,Temporal,Junio,Frijol,152
+2018,Emiliano Zapata,Temporal,Junio,Limón,9
+2018,Emiliano Zapata,Temporal,Junio,Maíz grano,1461
+2018,Emiliano Zapata,Temporal,Junio,Naranja,6
+2018,Emiliano Zapata,Temporal,Junio,Sandía,147
+2018,Emiliano Zapata,Temporal,Junio,Sorgo grano,348
+2018,Emiliano Zapata,Temporal,Junio,Tomate rojo (jitomate),4.5
+2018,Emiliano Zapata,Temporal,Julio,Arroz palay,880
+2018,Emiliano Zapata,Temporal,Julio,Chile verde,52.5
+2018,Emiliano Zapata,Temporal,Julio,Frijol,152
+2018,Emiliano Zapata,Temporal,Julio,Limón,9
+2018,Emiliano Zapata,Temporal,Julio,Maíz grano,2357
+2018,Emiliano Zapata,Temporal,Julio,Naranja,6
+2018,Emiliano Zapata,Temporal,Julio,Sandía,157
+2018,Emiliano Zapata,Temporal,Julio,Sorgo grano,351
+2018,Emiliano Zapata,Temporal,Julio,Tomate rojo (jitomate),4.5
+2018,Emiliano Zapata,Temporal,Agosto,Arroz palay,880
+2018,Emiliano Zapata,Temporal,Agosto,Chile verde,53.5
+2018,Emiliano Zapata,Temporal,Agosto,Frijol,152
+2018,Emiliano Zapata,Temporal,Agosto,Limón,9
+2018,Emiliano Zapata,Temporal,Agosto,Maíz grano,2357
+2018,Emiliano Zapata,Temporal,Agosto,Naranja,6
+2018,Emiliano Zapata,Temporal,Agosto,Sandía,162
+2018,Emiliano Zapata,Temporal,Agosto,Sorgo grano,351
+2018,Emiliano Zapata,Temporal,Agosto,Tomate rojo (jitomate),4.5
+2018,Emiliano Zapata,Temporal,Septiembre,Arroz palay,880
+2018,Emiliano Zapata,Temporal,Septiembre,Chile verde,53.5
+2018,Emiliano Zapata,Temporal,Septiembre,Frijol,152
+2018,Emiliano Zapata,Temporal,Septiembre,Limón,9
+2018,Emiliano Zapata,Temporal,Septiembre,Maíz grano,2357
+2018,Emiliano Zapata,Temporal,Septiembre,Naranja,6
+2018,Emiliano Zapata,Temporal,Septiembre,Sandía,162
+2018,Emiliano Zapata,Temporal,Septiembre,Sorgo grano,351
+2018,Emiliano Zapata,Temporal,Septiembre,Tomate rojo (jitomate),4.5
+2018,Emiliano Zapata,Norte,Octubre,Arroz palay,880
+2018,Emiliano Zapata,Norte,Octubre,Chile verde,53.5
+2018,Emiliano Zapata,Norte,Octubre,Frijol,152
+2018,Emiliano Zapata,Norte,Octubre,Limón,9
+2018,Emiliano Zapata,Norte,Octubre,Maíz grano,2357
+2018,Emiliano Zapata,Norte,Octubre,Naranja,6
+2018,Emiliano Zapata,Norte,Octubre,Sandía,162
+2018,Emiliano Zapata,Norte,Octubre,Sorgo grano,351
+2018,Emiliano Zapata,Norte,Octubre,Tomate rojo (jitomate),4.5
+2018,Emiliano Zapata,Norte,Noviembre,Arroz palay,880
+2018,Emiliano Zapata,Norte,Noviembre,Chile verde,53.5
+2018,Emiliano Zapata,Norte,Noviembre,Frijol,152
+2018,Emiliano Zapata,Norte,Noviembre,Limón,9
+2018,Emiliano Zapata,Norte,Noviembre,Maíz grano,2357
+2018,Emiliano Zapata,Norte,Noviembre,Naranja,6
+2018,Emiliano Zapata,Norte,Noviembre,Sandía,162
+2018,Emiliano Zapata,Norte,Noviembre,Sorgo grano,351
+2018,Emiliano Zapata,Norte,Noviembre,Tomate rojo (jitomate),4.5
+2018,Emiliano Zapata,Norte,Diciembre,Arroz palay,880
+2018,Emiliano Zapata,Norte,Diciembre,Chile verde,53.5
+2018,Emiliano Zapata,Norte,Diciembre,Frijol,152
+2018,Emiliano Zapata,Norte,Diciembre,Limón,9
+2018,Emiliano Zapata,Norte,Diciembre,Maíz grano,2357
+2018,Emiliano Zapata,Norte,Diciembre,Naranja,6
+2018,Emiliano Zapata,Norte,Diciembre,Sandía,162
+2018,Emiliano Zapata,Norte,Diciembre,Sorgo grano,351
+2018,Emiliano Zapata,Norte,Diciembre,Tomate rojo (jitomate),4.5
+2018,Tenosique,Norte,Enero,Caña de azucar,3370
+2018,Tenosique,Norte,Enero,Chile verde,12
+2018,Tenosique,Norte,Enero,Frijol,19
+2018,Tenosique,Norte,Enero,Maíz grano,1553
+2018,Tenosique,Norte,Enero,Mango,65
+2018,Tenosique,Norte,Enero,Sandía,10
+2018,Tenosique,Norte,Enero,Sorgo grano,0
+2018,Tenosique,Norte,Enero,Tomate rojo (jitomate),0
+2018,Tenosique,Norte,Febrero,Caña de azucar,3370
+2018,Tenosique,Norte,Febrero,Chile verde,14
+2018,Tenosique,Norte,Febrero,Frijol,47
+2018,Tenosique,Norte,Febrero,Maíz grano,2146
+2018,Tenosique,Norte,Febrero,Mango,65
+2018,Tenosique,Norte,Febrero,Sandía,10
+2018,Tenosique,Norte,Febrero,Sorgo grano,339
+2018,Tenosique,Norte,Febrero,Tomate rojo (jitomate),0
+2018,Tenosique,Seca,Marzo,Caña de azucar,3370
+2018,Tenosique,Seca,Marzo,Chile verde,23
+2018,Tenosique,Seca,Marzo,Frijol,53
+2018,Tenosique,Seca,Marzo,Maíz grano,2146
+2018,Tenosique,Seca,Marzo,Mango,65
+2018,Tenosique,Seca,Marzo,Sandía,33
+2018,Tenosique,Seca,Marzo,Sorgo grano,339
+2018,Tenosique,Seca,Marzo,Tomate rojo (jitomate),5
+2018,Tenosique,Seca,Abril,Caña de azucar,3370
+2018,Tenosique,Seca,Abril,Chile verde,23
+2018,Tenosique,Seca,Abril,Frijol,53
+2018,Tenosique,Seca,Abril,Maíz grano,2146
+2018,Tenosique,Seca,Abril,Mango,65
+2018,Tenosique,Seca,Abril,Sandía,33
+2018,Tenosique,Seca,Abril,Sorgo grano,339
+2018,Tenosique,Seca,Abril,Tomate rojo (jitomate),5
+2018,Tenosique,Seca,Mayo,Caña de azucar,3370
+2018,Tenosique,Seca,Mayo,Chile verde,23
+2018,Tenosique,Seca,Mayo,Frijol,53
+2018,Tenosique,Seca,Mayo,Maíz grano,2666
+2018,Tenosique,Seca,Mayo,Mango,65
+2018,Tenosique,Seca,Mayo,Sandía,33
+2018,Tenosique,Seca,Mayo,Sorgo grano,339
+2018,Tenosique,Seca,Mayo,Tomate rojo (jitomate),5
+2018,Tenosique,Temporal,Junio,Caña de azucar,3370
+2018,Tenosique,Temporal,Junio,Chile verde,23
+2018,Tenosique,Temporal,Junio,Frijol,53
+2018,Tenosique,Temporal,Junio,Maíz grano,2940
+2018,Tenosique,Temporal,Junio,Mango,65
+2018,Tenosique,Temporal,Junio,Sandía,33
+2018,Tenosique,Temporal,Junio,Sorgo grano,339
+2018,Tenosique,Temporal,Junio,Tomate rojo (jitomate),5
+2018,Tenosique,Temporal,Julio,Caña de azucar,3370
+2018,Tenosique,Temporal,Julio,Chile verde,23
+2018,Tenosique,Temporal,Julio,Frijol,53
+2018,Tenosique,Temporal,Julio,Maíz grano,4449
+2018,Tenosique,Temporal,Julio,Mango,65
+2018,Tenosique,Temporal,Julio,Sandía,33
+2018,Tenosique,Temporal,Julio,Sorgo grano,339
+2018,Tenosique,Temporal,Julio,Tomate rojo (jitomate),5
+2018,Tenosique,Temporal,Agosto,Caña de azucar,3370
+2018,Tenosique,Temporal,Agosto,Chile verde,23
+2018,Tenosique,Temporal,Agosto,Frijol,53
+2018,Tenosique,Temporal,Agosto,Maíz grano,6408
+2018,Tenosique,Temporal,Agosto,Mango,65
+2018,Tenosique,Temporal,Agosto,Sandía,33
+2018,Tenosique,Temporal,Agosto,Sorgo grano,339
+2018,Tenosique,Temporal,Agosto,Tomate rojo (jitomate),5
+2018,Tenosique,Temporal,Septiembre,Caña de azucar,3370
+2018,Tenosique,Temporal,Septiembre,Chile verde,23
+2018,Tenosique,Temporal,Septiembre,Frijol,53
+2018,Tenosique,Temporal,Septiembre,Maíz grano,6408
+2018,Tenosique,Temporal,Septiembre,Mango,65
+2018,Tenosique,Temporal,Septiembre,Sandía,33
+2018,Tenosique,Temporal,Septiembre,Sorgo grano,339
+2018,Tenosique,Temporal,Septiembre,Tomate rojo (jitomate),5
+2018,Tenosique,Norte,Octubre,Caña de azucar,3370
+2018,Tenosique,Norte,Octubre,Chile verde,23
+2018,Tenosique,Norte,Octubre,Frijol,53
+2018,Tenosique,Norte,Octubre,Maíz grano,6408
+2018,Tenosique,Norte,Octubre,Mango,65
+2018,Tenosique,Norte,Octubre,Sandía,33
+2018,Tenosique,Norte,Octubre,Sorgo grano,339
+2018,Tenosique,Norte,Octubre,Tomate rojo (jitomate),5
+2018,Tenosique,Norte,Noviembre,Caña de azucar,3370
+2018,Tenosique,Norte,Noviembre,Chile verde,23
+2018,Tenosique,Norte,Noviembre,Frijol,53
+2018,Tenosique,Norte,Noviembre,Maíz grano,6408
+2018,Tenosique,Norte,Noviembre,Mango,65
+2018,Tenosique,Norte,Noviembre,Sandía,33
+2018,Tenosique,Norte,Noviembre,Sorgo grano,339
+2018,Tenosique,Norte,Noviembre,Tomate rojo (jitomate),5
+2018,Tenosique,Norte,Diciembre,Caña de azucar,3370
+2018,Tenosique,Norte,Diciembre,Chile verde,23
+2018,Tenosique,Norte,Diciembre,Frijol,53
+2018,Tenosique,Norte,Diciembre,Maíz grano,6408
+2018,Tenosique,Norte,Diciembre,Mango,65
+2018,Tenosique,Norte,Diciembre,Sandía,33
+2018,Tenosique,Norte,Diciembre,Sorgo grano,339
+2018,Tenosique,Norte,Diciembre,Tomate rojo (jitomate),5
+2019,Jonuta,Norte,Enero,Chile verde,23
+2019,Jonuta,Norte,Enero,Frijol,32
+2019,Jonuta,Norte,Enero,Limón,5
+2019,Jonuta,Norte,Enero,Maíz grano,1980
+2019,Jonuta,Norte,Enero,Mango,10
+2019,Jonuta,Norte,Enero,Sorgo grano,0
+2019,Jonuta,Norte,Enero,Tomate rojo (jitomate),0
+2019,Jonuta,Norte,Febrero,Chile verde,65
+2019,Jonuta,Norte,Febrero,Frijol,113
+2019,Jonuta,Norte,Febrero,Limón,5
+2019,Jonuta,Norte,Febrero,Maíz grano,2020
+2019,Jonuta,Norte,Febrero,Mango,10
+2019,Jonuta,Norte,Febrero,Sorgo grano,0
+2019,Jonuta,Norte,Febrero,Tomate rojo (jitomate),11
+2019,Jonuta,Seca,Marzo,Chile verde,97
+2019,Jonuta,Seca,Marzo,Frijol,156
+2019,Jonuta,Seca,Marzo,Limón,5
+2019,Jonuta,Seca,Marzo,Maíz grano,2703
+2019,Jonuta,Seca,Marzo,Mango,10
+2019,Jonuta,Seca,Marzo,Sorgo grano,0
+2019,Jonuta,Seca,Marzo,Tomate rojo (jitomate),14
+2019,Jonuta,Seca,Abril,Chile verde,97
+2019,Jonuta,Seca,Abril,Frijol,156
+2019,Jonuta,Seca,Abril,Limón,5
+2019,Jonuta,Seca,Abril,Maíz grano,2703
+2019,Jonuta,Seca,Abril,Mango,10
+2019,Jonuta,Seca,Abril,Tomate rojo (jitomate),14
+2019,Jonuta,Seca,Mayo,Chile verde,97
+2019,Jonuta,Seca,Mayo,Frijol,156
+2019,Jonuta,Seca,Mayo,Limón,5
+2019,Jonuta,Seca,Mayo,Maíz grano,2703
+2019,Jonuta,Seca,Mayo,Mango,10
+2019,Jonuta,Seca,Mayo,Tomate rojo (jitomate),14
+2019,Jonuta,Temporal,Junio,Chile verde,148
+2019,Jonuta,Temporal,Junio,Frijol,156
+2019,Jonuta,Temporal,Junio,Limón,5
+2019,Jonuta,Temporal,Junio,Maíz grano,3249
+2019,Jonuta,Temporal,Junio,Mango,10
+2019,Jonuta,Temporal,Junio,Tomate rojo (jitomate),14
+2019,Jonuta,Temporal,Julio,Chile verde,148
+2019,Jonuta,Temporal,Julio,Frijol,156
+2019,Jonuta,Temporal,Julio,Limón,5
+2019,Jonuta,Temporal,Julio,Maíz grano,5305
+2019,Jonuta,Temporal,Julio,Mango,10
+2019,Jonuta,Temporal,Julio,Tomate rojo (jitomate),14
+2019,Jonuta,Temporal,Agosto,Chile verde,203
+2019,Jonuta,Temporal,Agosto,Frijol,156
+2019,Jonuta,Temporal,Agosto,Limón,5
+2019,Jonuta,Temporal,Agosto,Maíz grano,5515
+2019,Jonuta,Temporal,Agosto,Mango,10
+2019,Jonuta,Temporal,Agosto,Tomate rojo (jitomate),14
+2019,Jonuta,Temporal,Septiembre,Chile verde,203
+2019,Jonuta,Temporal,Septiembre,Frijol,156
+2019,Jonuta,Temporal,Septiembre,Limón,5
+2019,Jonuta,Temporal,Septiembre,Maíz grano,5515
+2019,Jonuta,Temporal,Septiembre,Mango,10
+2019,Jonuta,Temporal,Septiembre,Tomate rojo (jitomate),14
+2019,Jonuta,Norte,Octubre,Chile verde,203
+2019,Jonuta,Norte,Octubre,Frijol,156
+2019,Jonuta,Norte,Octubre,Limón,5
+2019,Jonuta,Norte,Octubre,Maíz grano,5515
+2019,Jonuta,Norte,Octubre,Mango,10
+2019,Jonuta,Norte,Octubre,Tomate rojo (jitomate),14
+2019,Jonuta,Norte,Noviembre,Chile verde,203
+2019,Jonuta,Norte,Noviembre,Frijol,156
+2019,Jonuta,Norte,Noviembre,Limón,5
+2019,Jonuta,Norte,Noviembre,Maíz grano,5515
+2019,Jonuta,Norte,Noviembre,Mango,10
+2019,Jonuta,Norte,Noviembre,Tomate rojo (jitomate),14
+2019,Jonuta,Norte,Diciembre,Chile verde,203
+2019,Jonuta,Norte,Diciembre,Frijol,156
+2019,Jonuta,Norte,Diciembre,Limón,5
+2019,Jonuta,Norte,Diciembre,Maíz grano,5515
+2019,Jonuta,Norte,Diciembre,Mango,10
+2019,Jonuta,Norte,Diciembre,Tomate rojo (jitomate),14
+2019,Balancán,Norte,Enero,Caña de azucar,60
+2019,Balancán,Norte,Enero,Chile verde,19
+2019,Balancán,Norte,Enero,Frijol,84
+2019,Balancán,Norte,Enero,Maíz grano,4886.5
+2019,Balancán,Norte,Enero,Naranja,10
+2019,Balancán,Norte,Enero,Papaya,125
+2019,Balancán,Norte,Enero,Sandía,229
+2019,Balancán,Norte,Enero,Sorgo grano,250
+2019,Balancán,Norte,Enero,Tomate rojo (jitomate),7
+2019,Balancán,Norte,Febrero,Caña de azucar,60
+2019,Balancán,Norte,Febrero,Chile verde,82
+2019,Balancán,Norte,Febrero,Frijol,270.5
+2019,Balancán,Norte,Febrero,Maíz grano,7614
+2019,Balancán,Norte,Febrero,Naranja,10
+2019,Balancán,Norte,Febrero,Papaya,125
+2019,Balancán,Norte,Febrero,Sandía,395
+2019,Balancán,Norte,Febrero,Sorgo grano,3003
+2019,Balancán,Norte,Febrero,Tomate rojo (jitomate),14
+2019,Balancán,Seca,Marzo,Caña de azucar,60
+2019,Balancán,Seca,Marzo,Chile verde,90
+2019,Balancán,Seca,Marzo,Frijol,375.5
+2019,Balancán,Seca,Marzo,Maíz grano,7926
+2019,Balancán,Seca,Marzo,Naranja,10
+2019,Balancán,Seca,Marzo,Papaya,125
+2019,Balancán,Seca,Marzo,Sandía,395
+2019,Balancán,Seca,Marzo,Sorgo grano,3872
+2019,Balancán,Seca,Marzo,Tomate rojo (jitomate),14
+2019,Balancán,Seca,Abril,Caña de azucar,60
+2019,Balancán,Seca,Abril,Chile verde,90
+2019,Balancán,Seca,Abril,Frijol,375.5
+2019,Balancán,Seca,Abril,Maíz grano,7926
+2019,Balancán,Seca,Abril,Naranja,10
+2019,Balancán,Seca,Abril,Papaya,125
+2019,Balancán,Seca,Abril,Sandía,395
+2019,Balancán,Seca,Abril,Sorgo grano,3872
+2019,Balancán,Seca,Abril,Tomate rojo (jitomate),14
+2019,Balancán,Seca,Mayo,Caña de azucar,60
+2019,Balancán,Seca,Mayo,Chile verde,90
+2019,Balancán,Seca,Mayo,Frijol,375.5
+2019,Balancán,Seca,Mayo,Maíz grano,7958
+2019,Balancán,Seca,Mayo,Naranja,10
+2019,Balancán,Seca,Mayo,Papaya,125
+2019,Balancán,Seca,Mayo,Sandía,395
+2019,Balancán,Seca,Mayo,Sorgo grano,3872
+2019,Balancán,Seca,Mayo,Tomate rojo (jitomate),14
+2019,Balancán,Temporal,Junio,Caña de azucar,60
+2019,Balancán,Temporal,Junio,Chile verde,99
+2019,Balancán,Temporal,Junio,Frijol,375.5
+2019,Balancán,Temporal,Junio,Maíz grano,11883
+2019,Balancán,Temporal,Junio,Naranja,10
+2019,Balancán,Temporal,Junio,Papaya,125
+2019,Balancán,Temporal,Junio,Sandía,425
+2019,Balancán,Temporal,Junio,Sorgo grano,3872
+2019,Balancán,Temporal,Junio,Tomate rojo (jitomate),18
+2019,Balancán,Temporal,Julio,Caña de azucar,60
+2019,Balancán,Temporal,Julio,Chile verde,104
+2019,Balancán,Temporal,Julio,Frijol,375.5
+2019,Balancán,Temporal,Julio,Maíz grano,17414
+2019,Balancán,Temporal,Julio,Naranja,10
+2019,Balancán,Temporal,Julio,Papaya,125
+2019,Balancán,Temporal,Julio,Sandía,504
+2019,Balancán,Temporal,Julio,Sorgo grano,3934
+2019,Balancán,Temporal,Julio,Tomate rojo (jitomate),19
+2019,Balancán,Temporal,Agosto,Caña de azucar,60
+2019,Balancán,Temporal,Agosto,Chile verde,108
+2019,Balancán,Temporal,Agosto,Frijol,375.5
+2019,Balancán,Temporal,Agosto,Maíz grano,19283
+2019,Balancán,Temporal,Agosto,Naranja,10
+2019,Balancán,Temporal,Agosto,Papaya,125
+2019,Balancán,Temporal,Agosto,Sandía,598
+2019,Balancán,Temporal,Agosto,Sorgo grano,5478
+2019,Balancán,Temporal,Agosto,Tomate rojo (jitomate),19
+2019,Balancán,Temporal,Septiembre,Caña de azucar,60
+2019,Balancán,Temporal,Septiembre,Chile verde,108
+2019,Balancán,Temporal,Septiembre,Frijol,375.5
+2019,Balancán,Temporal,Septiembre,Maíz grano,19283
+2019,Balancán,Temporal,Septiembre,Naranja,10
+2019,Balancán,Temporal,Septiembre,Papaya,125
+2019,Balancán,Temporal,Septiembre,Sandía,598
+2019,Balancán,Temporal,Septiembre,Sorgo grano,5478
+2019,Balancán,Temporal,Septiembre,Tomate rojo (jitomate),19
+2019,Balancán,Norte,Octubre,Caña de azucar,60
+2019,Balancán,Norte,Octubre,Chile verde,108
+2019,Balancán,Norte,Octubre,Frijol,375.5
+2019,Balancán,Norte,Octubre,Maíz grano,19283
+2019,Balancán,Norte,Octubre,Naranja,10
+2019,Balancán,Norte,Octubre,Papaya,125
+2019,Balancán,Norte,Octubre,Sandía,598
+2019,Balancán,Norte,Octubre,Sorgo grano,5478
+2019,Balancán,Norte,Octubre,Tomate rojo (jitomate),19
+2019,Balancán,Norte,Noviembre,Caña de azucar,60
+2019,Balancán,Norte,Noviembre,Chile verde,108
+2019,Balancán,Norte,Noviembre,Frijol,375.5
+2019,Balancán,Norte,Noviembre,Maíz grano,19283
+2019,Balancán,Norte,Noviembre,Naranja,10
+2019,Balancán,Norte,Noviembre,Papaya,125
+2019,Balancán,Norte,Noviembre,Sandía,598
+2019,Balancán,Norte,Noviembre,Sorgo grano,5478
+2019,Balancán,Norte,Noviembre,Tomate rojo (jitomate),19
+2019,Balancán,Norte,Diciembre,Caña de azucar,60
+2019,Balancán,Norte,Diciembre,Chile verde,108
+2019,Balancán,Norte,Diciembre,Frijol,375.5
+2019,Balancán,Norte,Diciembre,Maíz grano,19283
+2019,Balancán,Norte,Diciembre,Naranja,10
+2019,Balancán,Norte,Diciembre,Papaya,125
+2019,Balancán,Norte,Diciembre,Sandía,598
+2019,Balancán,Norte,Diciembre,Sorgo grano,5478
+2019,Balancán,Norte,Diciembre,Tomate rojo (jitomate),19
+2019,Emiliano Zapata,Norte,Enero,Arroz palay,0
+2019,Emiliano Zapata,Norte,Enero,Chile verde,27
+2019,Emiliano Zapata,Norte,Enero,Frijol,122
+2019,Emiliano Zapata,Norte,Enero,Limón,9
+2019,Emiliano Zapata,Norte,Enero,Maíz grano,1160
+2019,Emiliano Zapata,Norte,Enero,Naranja,6
+2019,Emiliano Zapata,Norte,Enero,Sandía,10
+2019,Emiliano Zapata,Norte,Enero,Sorgo grano,351
+2019,Emiliano Zapata,Norte,Enero,Tomate rojo (jitomate),2
+2019,Emiliano Zapata,Norte,Febrero,Arroz palay,0
+2019,Emiliano Zapata,Norte,Febrero,Chile verde,27
+2019,Emiliano Zapata,Norte,Febrero,Frijol,145
+2019,Emiliano Zapata,Norte,Febrero,Limón,9
+2019,Emiliano Zapata,Norte,Febrero,Maíz grano,1310
+2019,Emiliano Zapata,Norte,Febrero,Naranja,6
+2019,Emiliano Zapata,Norte,Febrero,Sandía,20
+2019,Emiliano Zapata,Norte,Febrero,Sorgo grano,95
+2019,Emiliano Zapata,Norte,Febrero,Tomate rojo (jitomate),2
+2019,Emiliano Zapata,Seca,Marzo,Arroz palay,0
+2019,Emiliano Zapata,Seca,Marzo,Chile verde,27
+2019,Emiliano Zapata,Seca,Marzo,Frijol,145
+2019,Emiliano Zapata,Seca,Marzo,Limón,9
+2019,Emiliano Zapata,Seca,Marzo,Maíz grano,1370
+2019,Emiliano Zapata,Seca,Marzo,Naranja,6
+2019,Emiliano Zapata,Seca,Marzo,Sandía,27
+2019,Emiliano Zapata,Seca,Marzo,Sorgo grano,95
+2019,Emiliano Zapata,Seca,Marzo,Tomate rojo (jitomate),2
+2019,Emiliano Zapata,Seca,Abril,Chile verde,27
+2019,Emiliano Zapata,Seca,Abril,Frijol,145
+2019,Emiliano Zapata,Seca,Abril,Limón,9
+2019,Emiliano Zapata,Seca,Abril,Maíz grano,1370
+2019,Emiliano Zapata,Seca,Abril,Naranja,6
+2019,Emiliano Zapata,Seca,Abril,Sandía,27
+2019,Emiliano Zapata,Seca,Abril,Sorgo grano,95
+2019,Emiliano Zapata,Seca,Abril,Tomate rojo (jitomate),2
+2019,Emiliano Zapata,Seca,Mayo,Arroz palay,881
+2019,Emiliano Zapata,Seca,Mayo,Chile verde,27
+2019,Emiliano Zapata,Seca,Mayo,Frijol,145
+2019,Emiliano Zapata,Seca,Mayo,Limón,9
+2019,Emiliano Zapata,Seca,Mayo,Maíz grano,1386
+2019,Emiliano Zapata,Seca,Mayo,Naranja,6
+2019,Emiliano Zapata,Seca,Mayo,Sandía,33
+2019,Emiliano Zapata,Seca,Mayo,Sorgo grano,95
+2019,Emiliano Zapata,Seca,Mayo,Tomate rojo (jitomate),2
+2019,Emiliano Zapata,Temporal,Junio,Arroz palay,881
+2019,Emiliano Zapata,Temporal,Junio,Chile verde,27
+2019,Emiliano Zapata,Temporal,Junio,Frijol,145
+2019,Emiliano Zapata,Temporal,Junio,Limón,9
+2019,Emiliano Zapata,Temporal,Junio,Maíz grano,1533
+2019,Emiliano Zapata,Temporal,Junio,Naranja,6
+2019,Emiliano Zapata,Temporal,Junio,Sandía,37
+2019,Emiliano Zapata,Temporal,Junio,Sorgo grano,95
+2019,Emiliano Zapata,Temporal,Junio,Tomate rojo (jitomate),2
+2019,Emiliano Zapata,Temporal,Julio,Arroz palay,881
+2019,Emiliano Zapata,Temporal,Julio,Chile verde,27
+2019,Emiliano Zapata,Temporal,Julio,Frijol,145
+2019,Emiliano Zapata,Temporal,Julio,Limón,9
+2019,Emiliano Zapata,Temporal,Julio,Maíz grano,2357
+2019,Emiliano Zapata,Temporal,Julio,Naranja,6
+2019,Emiliano Zapata,Temporal,Julio,Sandía,59
+2019,Emiliano Zapata,Temporal,Julio,Sorgo grano,125
+2019,Emiliano Zapata,Temporal,Julio,Tomate rojo (jitomate),2
+2019,Emiliano Zapata,Temporal,Agosto,Arroz palay,881
+2019,Emiliano Zapata,Temporal,Agosto,Chile verde,31
+2019,Emiliano Zapata,Temporal,Agosto,Frijol,145
+2019,Emiliano Zapata,Temporal,Agosto,Limón,9
+2019,Emiliano Zapata,Temporal,Agosto,Maíz grano,2480
+2019,Emiliano Zapata,Temporal,Agosto,Naranja,6
+2019,Emiliano Zapata,Temporal,Agosto,Sandía,82
+2019,Emiliano Zapata,Temporal,Agosto,Sorgo grano,145
+2019,Emiliano Zapata,Temporal,Agosto,Tomate rojo (jitomate),2
+2019,Emiliano Zapata,Temporal,Septiembre,Arroz palay,881
+2019,Emiliano Zapata,Temporal,Septiembre,Chile verde,31
+2019,Emiliano Zapata,Temporal,Septiembre,Frijol,145
+2019,Emiliano Zapata,Temporal,Septiembre,Limón,9
+2019,Emiliano Zapata,Temporal,Septiembre,Maíz grano,2545
+2019,Emiliano Zapata,Temporal,Septiembre,Naranja,6
+2019,Emiliano Zapata,Temporal,Septiembre,Sandía,102
+2019,Emiliano Zapata,Temporal,Septiembre,Sorgo grano,145
+2019,Emiliano Zapata,Temporal,Septiembre,Tomate rojo (jitomate),2
+2019,Emiliano Zapata,Norte,Octubre,Arroz palay,881
+2019,Emiliano Zapata,Norte,Octubre,Chile verde,31
+2019,Emiliano Zapata,Norte,Octubre,Frijol,145
+2019,Emiliano Zapata,Norte,Octubre,Limón,9
+2019,Emiliano Zapata,Norte,Octubre,Maíz grano,2545
+2019,Emiliano Zapata,Norte,Octubre,Naranja,6
+2019,Emiliano Zapata,Norte,Octubre,Sandía,102
+2019,Emiliano Zapata,Norte,Octubre,Sorgo grano,145
+2019,Emiliano Zapata,Norte,Octubre,Tomate rojo (jitomate),4.5
+2019,Emiliano Zapata,Norte,Noviembre,Arroz palay,881
+2019,Emiliano Zapata,Norte,Noviembre,Chile verde,31
+2019,Emiliano Zapata,Norte,Noviembre,Frijol,145
+2019,Emiliano Zapata,Norte,Noviembre,Limón,9
+2019,Emiliano Zapata,Norte,Noviembre,Maíz grano,2545
+2019,Emiliano Zapata,Norte,Noviembre,Naranja,6
+2019,Emiliano Zapata,Norte,Noviembre,Sandía,102
+2019,Emiliano Zapata,Norte,Noviembre,Sorgo grano,145
+2019,Emiliano Zapata,Norte,Noviembre,Tomate rojo (jitomate),2
+2019,Emiliano Zapata,Norte,Diciembre,Arroz palay,881
+2019,Emiliano Zapata,Norte,Diciembre,Chile verde,31
+2019,Emiliano Zapata,Norte,Diciembre,Frijol,145
+2019,Emiliano Zapata,Norte,Diciembre,Limón,9
+2019,Emiliano Zapata,Norte,Diciembre,Maíz grano,2545
+2019,Emiliano Zapata,Norte,Diciembre,Naranja,6
+2019,Emiliano Zapata,Norte,Diciembre,Sandía,102
+2019,Emiliano Zapata,Norte,Diciembre,Sorgo grano,145
+2019,Emiliano Zapata,Norte,Diciembre,Tomate rojo (jitomate),2
+2019,Tenosique,Norte,Enero,Caña de azucar,3530
+2019,Tenosique,Norte,Enero,Chile verde,10
+2019,Tenosique,Norte,Enero,Frijol,23
+2019,Tenosique,Norte,Enero,Maíz grano,488
+2019,Tenosique,Norte,Enero,Mango,60
+2019,Tenosique,Norte,Enero,Sandía,33
+2019,Tenosique,Norte,Enero,Sorgo grano,339
+2019,Tenosique,Norte,Enero,Tomate rojo (jitomate),5
+2019,Tenosique,Norte,Febrero,Caña de azucar,3530
+2019,Tenosique,Norte,Febrero,Chile verde,32
+2019,Tenosique,Norte,Febrero,Frijol,70
+2019,Tenosique,Norte,Febrero,Maíz grano,1738
+2019,Tenosique,Norte,Febrero,Mango,60
+2019,Tenosique,Norte,Febrero,Sandía,32
+2019,Tenosique,Norte,Febrero,Sorgo grano,262
+2019,Tenosique,Norte,Febrero,Tomate rojo (jitomate),5
+2019,Tenosique,Seca,Marzo,Caña de azucar,3530
+2019,Tenosique,Seca,Marzo,Chile verde,32
+2019,Tenosique,Seca,Marzo,Frijol,70
+2019,Tenosique,Seca,Marzo,Maíz grano,1738
+2019,Tenosique,Seca,Marzo,Mango,60
+2019,Tenosique,Seca,Marzo,Sandía,32
+2019,Tenosique,Seca,Marzo,Sorgo grano,262
+2019,Tenosique,Seca,Marzo,Tomate rojo (jitomate),5
+2019,Tenosique,Seca,Abril,Caña de azucar,3530
+2019,Tenosique,Seca,Abril,Chile verde,32
+2019,Tenosique,Seca,Abril,Frijol,70
+2019,Tenosique,Seca,Abril,Maíz grano,1738
+2019,Tenosique,Seca,Abril,Mango,60
+2019,Tenosique,Seca,Abril,Sandía,32
+2019,Tenosique,Seca,Abril,Sorgo grano,262
+2019,Tenosique,Seca,Mayo,Caña de azucar,3530
+2019,Tenosique,Seca,Mayo,Chile verde,32
+2019,Tenosique,Seca,Mayo,Frijol,70
+2019,Tenosique,Seca,Mayo,Maíz grano,2093
+2019,Tenosique,Seca,Mayo,Mango,60
+2019,Tenosique,Seca,Mayo,Sandía,32
+2019,Tenosique,Seca,Mayo,Sorgo grano,262
+2019,Tenosique,Temporal,Junio,Caña de azucar,3530
+2019,Tenosique,Temporal,Junio,Chile verde,32
+2019,Tenosique,Temporal,Junio,Frijol,70
+2019,Tenosique,Temporal,Junio,Maíz grano,3314
+2019,Tenosique,Temporal,Junio,Mango,60
+2019,Tenosique,Temporal,Junio,Sandía,32
+2019,Tenosique,Temporal,Junio,Sorgo grano,262
+2019,Tenosique,Temporal,Julio,Caña de azucar,3530
+2019,Tenosique,Temporal,Julio,Chile verde,32
+2019,Tenosique,Temporal,Julio,Frijol,70
+2019,Tenosique,Temporal,Julio,Maíz grano,4382
+2019,Tenosique,Temporal,Julio,Mango,60
+2019,Tenosique,Temporal,Julio,Sandía,32
+2019,Tenosique,Temporal,Julio,Sorgo grano,262
+2019,Tenosique,Temporal,Agosto,Caña de azucar,3530
+2019,Tenosique,Temporal,Agosto,Chile verde,32
+2019,Tenosique,Temporal,Agosto,Frijol,70
+2019,Tenosique,Temporal,Agosto,Maíz grano,6043
+2019,Tenosique,Temporal,Agosto,Mango,60
+2019,Tenosique,Temporal,Agosto,Sandía,32
+2019,Tenosique,Temporal,Agosto,Sorgo grano,382
+2019,Tenosique,Temporal,Septiembre,Caña de azucar,3530
+2019,Tenosique,Temporal,Septiembre,Chile verde,32
+2019,Tenosique,Temporal,Septiembre,Frijol,70
+2019,Tenosique,Temporal,Septiembre,Maíz grano,6043
+2019,Tenosique,Temporal,Septiembre,Mango,60
+2019,Tenosique,Temporal,Septiembre,Sandía,32
+2019,Tenosique,Temporal,Septiembre,Sorgo grano,382
+2019,Tenosique,Norte,Octubre,Caña de azucar,3530
+2019,Tenosique,Norte,Octubre,Chile verde,32
+2019,Tenosique,Norte,Octubre,Frijol,70
+2019,Tenosique,Norte,Octubre,Maíz grano,6043
+2019,Tenosique,Norte,Octubre,Mango,60
+2019,Tenosique,Norte,Octubre,Sandía,32
+2019,Tenosique,Norte,Octubre,Sorgo grano,382
+2019,Tenosique,Norte,Noviembre,Caña de azucar,3530
+2019,Tenosique,Norte,Noviembre,Chile verde,32
+2019,Tenosique,Norte,Noviembre,Frijol,70
+2019,Tenosique,Norte,Noviembre,Maíz grano,6043
+2019,Tenosique,Norte,Noviembre,Mango,60
+2019,Tenosique,Norte,Noviembre,Sandía,32
+2019,Tenosique,Norte,Noviembre,Sorgo grano,382
+2019,Tenosique,Norte,Diciembre,Caña de azucar,3530
+2019,Tenosique,Norte,Diciembre,Chile verde,32
+2019,Tenosique,Norte,Diciembre,Frijol,70
+2019,Tenosique,Norte,Diciembre,Maíz grano,6043
+2019,Tenosique,Norte,Diciembre,Mango,60
+2019,Tenosique,Norte,Diciembre,Sandía,32
+2019,Tenosique,Norte,Diciembre,Sorgo grano,382
+2020,Jonuta,Norte,Enero,Chile verde,144
+2020,Jonuta,Norte,Enero,Frijol,52
+2020,Jonuta,Norte,Enero,Limón,5
+2020,Jonuta,Norte,Enero,Maíz grano,655
+2020,Jonuta,Norte,Enero,Mango,10
+2020,Jonuta,Norte,Enero,Tomate rojo (jitomate),5
+2020,Jonuta,Norte,Febrero,Chile verde,164
+2020,Jonuta,Norte,Febrero,Frijol,106
+2020,Jonuta,Norte,Febrero,Limón,5
+2020,Jonuta,Norte,Febrero,Maíz grano,2688
+2020,Jonuta,Norte,Febrero,Mango,10
+2020,Jonuta,Norte,Febrero,Tomate rojo (jitomate),12
+2020,Jonuta,Seca,Marzo,Chile verde,164
+2020,Jonuta,Seca,Marzo,Frijol,142
+2020,Jonuta,Seca,Marzo,Limón,5
+2020,Jonuta,Seca,Marzo,Maíz grano,2814
+2020,Jonuta,Seca,Marzo,Mango,10
+2020,Jonuta,Seca,Marzo,Tomate rojo (jitomate),12
+2020,Jonuta,Seca,Abril,Chile verde,164
+2020,Jonuta,Seca,Abril,Frijol,142
+2020,Jonuta,Seca,Abril,Limón,5
+2020,Jonuta,Seca,Abril,Maíz grano,2814
+2020,Jonuta,Seca,Abril,Mango,10
+2020,Jonuta,Seca,Abril,Tomate rojo (jitomate),12
+2020,Jonuta,Seca,Mayo,Chile verde,164
+2020,Jonuta,Seca,Mayo,Frijol,142
+2020,Jonuta,Seca,Mayo,Limón,5
+2020,Jonuta,Seca,Mayo,Maíz grano,2814
+2020,Jonuta,Seca,Mayo,Mango,10
+2020,Jonuta,Seca,Mayo,Tomate rojo (jitomate),12
+2020,Jonuta,Temporal,Junio,Chile verde,178
+2020,Jonuta,Temporal,Junio,Frijol,142
+2020,Jonuta,Temporal,Junio,Limón,5
+2020,Jonuta,Temporal,Junio,Maíz grano,3552
+2020,Jonuta,Temporal,Junio,Mango,10
+2020,Jonuta,Temporal,Junio,Tomate rojo (jitomate),12
+2020,Jonuta,Temporal,Julio,Chile verde,231
+2020,Jonuta,Temporal,Julio,Frijol,142
+2020,Jonuta,Temporal,Julio,Limón,5
+2020,Jonuta,Temporal,Julio,Maíz grano,5448
+2020,Jonuta,Temporal,Julio,Mango,10
+2020,Jonuta,Temporal,Julio,Tomate rojo (jitomate),12
+2020,Jonuta,Temporal,Agosto,Chile verde,332
+2020,Jonuta,Temporal,Agosto,Frijol,142
+2020,Jonuta,Temporal,Agosto,Limón,5
+2020,Jonuta,Temporal,Agosto,Maíz grano,5730
+2020,Jonuta,Temporal,Agosto,Mango,10
+2020,Jonuta,Temporal,Agosto,Tomate rojo (jitomate),12
+2020,Jonuta,Temporal,Septiembre,Chile verde,332
+2020,Jonuta,Temporal,Septiembre,Frijol,142
+2020,Jonuta,Temporal,Septiembre,Limón,5
+2020,Jonuta,Temporal,Septiembre,Maíz grano,5730
+2020,Jonuta,Temporal,Septiembre,Mango,10
+2020,Jonuta,Temporal,Septiembre,Tomate rojo (jitomate),12
+2020,Jonuta,Norte,Octubre,Chile verde,332
+2020,Jonuta,Norte,Octubre,Frijol,142
+2020,Jonuta,Norte,Octubre,Limón,5
+2020,Jonuta,Norte,Octubre,Maíz grano,5730
+2020,Jonuta,Norte,Octubre,Mango,10
+2020,Jonuta,Norte,Octubre,Tomate rojo (jitomate),12
+2020,Jonuta,Norte,Noviembre,Chile verde,332
+2020,Jonuta,Norte,Noviembre,Frijol,142
+2020,Jonuta,Norte,Noviembre,Limón,5
+2020,Jonuta,Norte,Noviembre,Maíz grano,5730
+2020,Jonuta,Norte,Noviembre,Mango,10
+2020,Jonuta,Norte,Noviembre,Tomate rojo (jitomate),12
+2020,Jonuta,Norte,Diciembre,Chile verde,332
+2020,Jonuta,Norte,Diciembre,Frijol,142
+2020,Jonuta,Norte,Diciembre,Limón,5
+2020,Jonuta,Norte,Diciembre,Maíz grano,5730
+2020,Jonuta,Norte,Diciembre,Mango,10
+2020,Jonuta,Norte,Diciembre,Tomate rojo (jitomate),12
+2020,Balancán,Norte,Enero,Chile verde,12
+2020,Balancán,Norte,Enero,Frijol,126
+2020,Balancán,Norte,Enero,Maíz grano,5318
+2020,Balancán,Norte,Enero,Naranja,10
+2020,Balancán,Norte,Enero,Papaya,155
+2020,Balancán,Norte,Enero,Sandía,417
+2020,Balancán,Norte,Enero,Sorgo grano,860
+2020,Balancán,Norte,Enero,Tomate rojo (jitomate),10
+2020,Balancán,Norte,Febrero,Chile verde,41
+2020,Balancán,Norte,Febrero,Frijol,353
+2020,Balancán,Norte,Febrero,Maíz grano,6500
+2020,Balancán,Norte,Febrero,Naranja,10
+2020,Balancán,Norte,Febrero,Papaya,155
+2020,Balancán,Norte,Febrero,Sandía,421
+2020,Balancán,Norte,Febrero,Sorgo grano,2869
+2020,Balancán,Norte,Febrero,Tomate rojo (jitomate),10
+2020,Balancán,Seca,Marzo,Chile verde,72
+2020,Balancán,Seca,Marzo,Frijol,401
+2020,Balancán,Seca,Marzo,Maíz grano,8086
+2020,Balancán,Seca,Marzo,Naranja,10
+2020,Balancán,Seca,Marzo,Papaya,155
+2020,Balancán,Seca,Marzo,Sandía,438
+2020,Balancán,Seca,Marzo,Sorgo grano,3972
+2020,Balancán,Seca,Marzo,Tomate rojo (jitomate),10
+2020,Balancán,Seca,Abril,Chile verde,72
+2020,Balancán,Seca,Abril,Frijol,401
+2020,Balancán,Seca,Abril,Maíz grano,8086
+2020,Balancán,Seca,Abril,Naranja,10
+2020,Balancán,Seca,Abril,Papaya,155
+2020,Balancán,Seca,Abril,Sandía,438
+2020,Balancán,Seca,Abril,Sorgo grano,3972
+2020,Balancán,Seca,Abril,Tomate rojo (jitomate),10
+2020,Balancán,Seca,Mayo,Chile verde,72
+2020,Balancán,Seca,Mayo,Frijol,401
+2020,Balancán,Seca,Mayo,Maíz grano,8124
+2020,Balancán,Seca,Mayo,Naranja,10
+2020,Balancán,Seca,Mayo,Papaya,155
+2020,Balancán,Seca,Mayo,Sandía,438
+2020,Balancán,Seca,Mayo,Sorgo grano,3972
+2020,Balancán,Seca,Mayo,Tomate rojo (jitomate),10
+2020,Balancán,Temporal,Junio,Chile verde,113
+2020,Balancán,Temporal,Junio,Frijol,401
+2020,Balancán,Temporal,Junio,Maíz grano,12071
+2020,Balancán,Temporal,Junio,Naranja,10
+2020,Balancán,Temporal,Junio,Papaya,155
+2020,Balancán,Temporal,Junio,Sandía,515
+2020,Balancán,Temporal,Junio,Sorgo grano,3972
+2020,Balancán,Temporal,Junio,Tomate rojo (jitomate),11
+2020,Balancán,Temporal,Julio,Chile verde,113
+2020,Balancán,Temporal,Julio,Frijol,401
+2020,Balancán,Temporal,Julio,Maíz grano,17497
+2020,Balancán,Temporal,Julio,Naranja,10
+2020,Balancán,Temporal,Julio,Papaya,155
+2020,Balancán,Temporal,Julio,Sandía,561
+2020,Balancán,Temporal,Julio,Sorgo grano,4032
+2020,Balancán,Temporal,Julio,Tomate rojo (jitomate),14
+2020,Balancán,Temporal,Agosto,Chile verde,113
+2020,Balancán,Temporal,Agosto,Frijol,401
+2020,Balancán,Temporal,Agosto,Maíz grano,19889
+2020,Balancán,Temporal,Agosto,Naranja,10
+2020,Balancán,Temporal,Agosto,Papaya,155
+2020,Balancán,Temporal,Agosto,Sandía,646
+2020,Balancán,Temporal,Agosto,Sorgo grano,4037
+2020,Balancán,Temporal,Agosto,Tomate rojo (jitomate),17
+2020,Balancán,Temporal,Septiembre,Chile verde,113
+2020,Balancán,Temporal,Septiembre,Frijol,401
+2020,Balancán,Temporal,Septiembre,Maíz grano,19895
+2020,Balancán,Temporal,Septiembre,Naranja,10
+2020,Balancán,Temporal,Septiembre,Papaya,155
+2020,Balancán,Temporal,Septiembre,Sandía,646
+2020,Balancán,Temporal,Septiembre,Sorgo grano,4037
+2020,Balancán,Temporal,Septiembre,Tomate rojo (jitomate),17
+2020,Balancán,Norte,Octubre,Chile verde,113
+2020,Balancán,Norte,Octubre,Frijol,401
+2020,Balancán,Norte,Octubre,Maíz grano,19895
+2020,Balancán,Norte,Octubre,Naranja,10
+2020,Balancán,Norte,Octubre,Papaya,155
+2020,Balancán,Norte,Octubre,Sandía,646
+2020,Balancán,Norte,Octubre,Sorgo grano,4037
+2020,Balancán,Norte,Octubre,Tomate rojo (jitomate),17
+2020,Balancán,Norte,Noviembre,Chile verde,113
+2020,Balancán,Norte,Noviembre,Frijol,401
+2020,Balancán,Norte,Noviembre,Maíz grano,19895
+2020,Balancán,Norte,Noviembre,Naranja,10
+2020,Balancán,Norte,Noviembre,Papaya,155
+2020,Balancán,Norte,Noviembre,Sandía,646
+2020,Balancán,Norte,Noviembre,Sorgo grano,4037
+2020,Balancán,Norte,Noviembre,Tomate rojo (jitomate),17
+2020,Balancán,Norte,Diciembre,Chile verde,113
+2020,Balancán,Norte,Diciembre,Frijol,401
+2020,Balancán,Norte,Diciembre,Maíz grano,19895
+2020,Balancán,Norte,Diciembre,Naranja,10
+2020,Balancán,Norte,Diciembre,Papaya,155
+2020,Balancán,Norte,Diciembre,Sandía,646
+2020,Balancán,Norte,Diciembre,Sorgo grano,4037
+2020,Balancán,Norte,Diciembre,Tomate rojo (jitomate),17
+2020,Emiliano Zapata,Norte,Enero,Chile verde,7
+2020,Emiliano Zapata,Norte,Enero,Frijol,72
+2020,Emiliano Zapata,Norte,Enero,Limón,9
+2020,Emiliano Zapata,Norte,Enero,Maíz grano,885
+2020,Emiliano Zapata,Norte,Enero,Naranja,6
+2020,Emiliano Zapata,Norte,Enero,Sandía,102
+2020,Emiliano Zapata,Norte,Enero,Sorgo grano,145
+2020,Emiliano Zapata,Norte,Enero,Tomate rojo (jitomate),3
+2020,Emiliano Zapata,Norte,Febrero,Chile verde,29
+2020,Emiliano Zapata,Norte,Febrero,Frijol,132
+2020,Emiliano Zapata,Norte,Febrero,Limón,9
+2020,Emiliano Zapata,Norte,Febrero,Maíz grano,1313
+2020,Emiliano Zapata,Norte,Febrero,Naranja,6
+2020,Emiliano Zapata,Norte,Febrero,Sandía,22
+2020,Emiliano Zapata,Norte,Febrero,Sorgo grano,145
+2020,Emiliano Zapata,Norte,Febrero,Tomate rojo (jitomate),3
+2020,Emiliano Zapata,Seca,Marzo,Chile verde,42
+2020,Emiliano Zapata,Seca,Marzo,Frijol,148
+2020,Emiliano Zapata,Seca,Marzo,Limón,9
+2020,Emiliano Zapata,Seca,Marzo,Maíz grano,1425
+2020,Emiliano Zapata,Seca,Marzo,Naranja,6
+2020,Emiliano Zapata,Seca,Marzo,Sandía,28
+2020,Emiliano Zapata,Seca,Marzo,Sorgo grano,115
+2020,Emiliano Zapata,Seca,Marzo,Tomate rojo (jitomate),3
+2020,Emiliano Zapata,Seca,Abril,Chile verde,42
+2020,Emiliano Zapata,Seca,Abril,Frijol,148
+2020,Emiliano Zapata,Seca,Abril,Limón,9
+2020,Emiliano Zapata,Seca,Abril,Maíz grano,1425
+2020,Emiliano Zapata,Seca,Abril,Naranja,6
+2020,Emiliano Zapata,Seca,Abril,Sandía,28
+2020,Emiliano Zapata,Seca,Abril,Sorgo grano,115
+2020,Emiliano Zapata,Seca,Abril,Tomate rojo (jitomate),3
+2020,Emiliano Zapata,Seca,Mayo,Arroz palay,930
+2020,Emiliano Zapata,Seca,Mayo,Chile verde,42
+2020,Emiliano Zapata,Seca,Mayo,Frijol,148
+2020,Emiliano Zapata,Seca,Mayo,Limón,9
+2020,Emiliano Zapata,Seca,Mayo,Maíz grano,1457
+2020,Emiliano Zapata,Seca,Mayo,Naranja,6
+2020,Emiliano Zapata,Seca,Mayo,Sandía,35
+2020,Emiliano Zapata,Seca,Mayo,Sorgo grano,115
+2020,Emiliano Zapata,Seca,Mayo,Tomate rojo (jitomate),3
+2020,Emiliano Zapata,Temporal,Junio,Arroz palay,930
+2020,Emiliano Zapata,Temporal,Junio,Chile verde,42
+2020,Emiliano Zapata,Temporal,Junio,Frijol,148
+2020,Emiliano Zapata,Temporal,Junio,Limón,9
+2020,Emiliano Zapata,Temporal,Junio,Maíz grano,2242
+2020,Emiliano Zapata,Temporal,Junio,Naranja,6
+2020,Emiliano Zapata,Temporal,Junio,Sandía,40
+2020,Emiliano Zapata,Temporal,Junio,Sorgo grano,115
+2020,Emiliano Zapata,Temporal,Junio,Tomate rojo (jitomate),3
+2020,Emiliano Zapata,Temporal,Julio,Arroz palay,930
+2020,Emiliano Zapata,Temporal,Julio,Chile verde,46
+2020,Emiliano Zapata,Temporal,Julio,Frijol,148
+2020,Emiliano Zapata,Temporal,Julio,Limón,9
+2020,Emiliano Zapata,Temporal,Julio,Maíz grano,2537
+2020,Emiliano Zapata,Temporal,Julio,Naranja,6
+2020,Emiliano Zapata,Temporal,Julio,Sandía,72
+2020,Emiliano Zapata,Temporal,Julio,Sorgo grano,150
+2020,Emiliano Zapata,Temporal,Julio,Tomate rojo (jitomate),3
+2020,Emiliano Zapata,Temporal,Agosto,Arroz palay,930
+2020,Emiliano Zapata,Temporal,Agosto,Chile verde,48
+2020,Emiliano Zapata,Temporal,Agosto,Frijol,148
+2020,Emiliano Zapata,Temporal,Agosto,Limón,9
+2020,Emiliano Zapata,Temporal,Agosto,Maíz grano,2605
+2020,Emiliano Zapata,Temporal,Agosto,Naranja,6
+2020,Emiliano Zapata,Temporal,Agosto,Sandía,148
+2020,Emiliano Zapata,Temporal,Agosto,Sorgo grano,191
+2020,Emiliano Zapata,Temporal,Agosto,Tomate rojo (jitomate),3
+2020,Emiliano Zapata,Temporal,Septiembre,Arroz palay,930
+2020,Emiliano Zapata,Temporal,Septiembre,Chile verde,48
+2020,Emiliano Zapata,Temporal,Septiembre,Frijol,148
+2020,Emiliano Zapata,Temporal,Septiembre,Limón,9
+2020,Emiliano Zapata,Temporal,Septiembre,Maíz grano,2605
+2020,Emiliano Zapata,Temporal,Septiembre,Naranja,6
+2020,Emiliano Zapata,Temporal,Septiembre,Sandía,148
+2020,Emiliano Zapata,Temporal,Septiembre,Sorgo grano,191
+2020,Emiliano Zapata,Temporal,Septiembre,Tomate rojo (jitomate),3
+2020,Emiliano Zapata,Norte,Octubre,Arroz palay,930
+2020,Emiliano Zapata,Norte,Octubre,Chile verde,48
+2020,Emiliano Zapata,Norte,Octubre,Frijol,148
+2020,Emiliano Zapata,Norte,Octubre,Limón,9
+2020,Emiliano Zapata,Norte,Octubre,Maíz grano,2605
+2020,Emiliano Zapata,Norte,Octubre,Naranja,6
+2020,Emiliano Zapata,Norte,Octubre,Sandía,148
+2020,Emiliano Zapata,Norte,Octubre,Sorgo grano,191
+2020,Emiliano Zapata,Norte,Octubre,Tomate rojo (jitomate),3
+2020,Emiliano Zapata,Norte,Noviembre,Arroz palay,930
+2020,Emiliano Zapata,Norte,Noviembre,Chile verde,48
+2020,Emiliano Zapata,Norte,Noviembre,Frijol,148
+2020,Emiliano Zapata,Norte,Noviembre,Limón,9
+2020,Emiliano Zapata,Norte,Noviembre,Maíz grano,2605
+2020,Emiliano Zapata,Norte,Noviembre,Naranja,6
+2020,Emiliano Zapata,Norte,Noviembre,Sandía,148
+2020,Emiliano Zapata,Norte,Noviembre,Sorgo grano,191
+2020,Emiliano Zapata,Norte,Noviembre,Tomate rojo (jitomate),3
+2020,Emiliano Zapata,Norte,Diciembre,Arroz palay,930
+2020,Emiliano Zapata,Norte,Diciembre,Chile verde,48
+2020,Emiliano Zapata,Norte,Diciembre,Frijol,148
+2020,Emiliano Zapata,Norte,Diciembre,Limón,9
+2020,Emiliano Zapata,Norte,Diciembre,Maíz grano,2605
+2020,Emiliano Zapata,Norte,Diciembre,Naranja,6
+2020,Emiliano Zapata,Norte,Diciembre,Sandía,148
+2020,Emiliano Zapata,Norte,Diciembre,Sorgo grano,191
+2020,Emiliano Zapata,Norte,Diciembre,Tomate rojo (jitomate),3
+2020,Tenosique,Norte,Enero,Chile verde,5
+2020,Tenosique,Norte,Enero,Frijol,45
+2020,Tenosique,Norte,Enero,Maíz grano,1722
+2020,Tenosique,Norte,Enero,Mango,60
+2020,Tenosique,Norte,Enero,Sandía,32
+2020,Tenosique,Norte,Enero,Sorgo grano,120
+2020,Tenosique,Norte,Febrero,Chile verde,18
+2020,Tenosique,Norte,Febrero,Frijol,53
+2020,Tenosique,Norte,Febrero,Maíz grano,2223
+2020,Tenosique,Norte,Febrero,Mango,60
+2020,Tenosique,Norte,Febrero,Sandía,21
+2020,Tenosique,Norte,Febrero,Sorgo grano,250
+2020,Tenosique,Seca,Marzo,Chile verde,35
+2020,Tenosique,Seca,Marzo,Frijol,66
+2020,Tenosique,Seca,Marzo,Maíz grano,2485
+2020,Tenosique,Seca,Marzo,Mango,60
+2020,Tenosique,Seca,Marzo,Sandía,29
+2020,Tenosique,Seca,Marzo,Sorgo grano,412
+2020,Tenosique,Seca,Marzo,Tomate rojo (jitomate),4
+2020,Tenosique,Seca,Abril,Chile verde,35
+2020,Tenosique,Seca,Abril,Frijol,66
+2020,Tenosique,Seca,Abril,Maíz grano,2485
+2020,Tenosique,Seca,Abril,Mango,60
+2020,Tenosique,Seca,Abril,Sandía,29
+2020,Tenosique,Seca,Abril,Sorgo grano,412
+2020,Tenosique,Seca,Abril,Tomate rojo (jitomate),4
+2020,Tenosique,Seca,Mayo,Chile verde,35
+2020,Tenosique,Seca,Mayo,Frijol,66
+2020,Tenosique,Seca,Mayo,Maíz grano,2823
+2020,Tenosique,Seca,Mayo,Mango,60
+2020,Tenosique,Seca,Mayo,Sandía,29
+2020,Tenosique,Seca,Mayo,Sorgo grano,412
+2020,Tenosique,Seca,Mayo,Tomate rojo (jitomate),4
+2020,Tenosique,Temporal,Junio,Chile verde,35
+2020,Tenosique,Temporal,Junio,Frijol,66
+2020,Tenosique,Temporal,Junio,Maíz grano,3581
+2020,Tenosique,Temporal,Junio,Mango,60
+2020,Tenosique,Temporal,Junio,Sandía,29
+2020,Tenosique,Temporal,Junio,Sorgo grano,412
+2020,Tenosique,Temporal,Junio,Tomate rojo (jitomate),4
+2020,Tenosique,Temporal,Julio,Chile verde,35
+2020,Tenosique,Temporal,Julio,Frijol,66
+2020,Tenosique,Temporal,Julio,Maíz grano,5092
+2020,Tenosique,Temporal,Julio,Mango,60
+2020,Tenosique,Temporal,Julio,Sandía,29
+2020,Tenosique,Temporal,Julio,Sorgo grano,412
+2020,Tenosique,Temporal,Julio,Tomate rojo (jitomate),4
+2020,Tenosique,Temporal,Agosto,Chile verde,35
+2020,Tenosique,Temporal,Agosto,Frijol,66
+2020,Tenosique,Temporal,Agosto,Maíz grano,6822
+2020,Tenosique,Temporal,Agosto,Mango,60
+2020,Tenosique,Temporal,Agosto,Sandía,29
+2020,Tenosique,Temporal,Agosto,Sorgo grano,534
+2020,Tenosique,Temporal,Agosto,Tomate rojo (jitomate),4
+2020,Tenosique,Temporal,Septiembre,Chile verde,35
+2020,Tenosique,Temporal,Septiembre,Frijol,66
+2020,Tenosique,Temporal,Septiembre,Maíz grano,6835
+2020,Tenosique,Temporal,Septiembre,Mango,60
+2020,Tenosique,Temporal,Septiembre,Sandía,29
+2020,Tenosique,Temporal,Septiembre,Sorgo grano,534
+2020,Tenosique,Temporal,Septiembre,Tomate rojo (jitomate),4
+2020,Tenosique,Norte,Octubre,Chile verde,35
+2020,Tenosique,Norte,Octubre,Frijol,66
+2020,Tenosique,Norte,Octubre,Maíz grano,6835
+2020,Tenosique,Norte,Octubre,Mango,60
+2020,Tenosique,Norte,Octubre,Sandía,29
+2020,Tenosique,Norte,Octubre,Sorgo grano,534
+2020,Tenosique,Norte,Octubre,Tomate rojo (jitomate),4
+2020,Tenosique,Norte,Noviembre,Chile verde,35
+2020,Tenosique,Norte,Noviembre,Frijol,66
+2020,Tenosique,Norte,Noviembre,Maíz grano,6835
+2020,Tenosique,Norte,Noviembre,Mango,60
+2020,Tenosique,Norte,Noviembre,Sandía,29
+2020,Tenosique,Norte,Noviembre,Sorgo grano,534
+2020,Tenosique,Norte,Noviembre,Tomate rojo (jitomate),4
+2020,Tenosique,Norte,Diciembre,Chile verde,35
+2020,Tenosique,Norte,Diciembre,Frijol,66
+2020,Tenosique,Norte,Diciembre,Maíz grano,6835
+2020,Tenosique,Norte,Diciembre,Mango,60
+2020,Tenosique,Norte,Diciembre,Sandía,29
+2020,Tenosique,Norte,Diciembre,Sorgo grano,534
+2020,Tenosique,Norte,Diciembre,Tomate rojo (jitomate),4
+2021,Jonuta,Norte,Enero,Chile verde,16
+2021,Jonuta,Norte,Enero,Frijol,42
+2021,Jonuta,Norte,Enero,Limón,5
+2021,Jonuta,Norte,Enero,Maíz grano,834
+2021,Jonuta,Norte,Enero,Mango,10
+2021,Jonuta,Norte,Enero,Tomate rojo (jitomate),3
+2021,Jonuta,Norte,Febrero,Chile verde,67
+2021,Jonuta,Norte,Febrero,Frijol,211
+2021,Jonuta,Norte,Febrero,Limón,5
+2021,Jonuta,Norte,Febrero,Maíz grano,2731
+2021,Jonuta,Norte,Febrero,Mango,10
+2021,Jonuta,Norte,Febrero,Tomate rojo (jitomate),13
+2021,Jonuta,Seca,Marzo,Chile verde,112
+2021,Jonuta,Seca,Marzo,Frijol,211
+2021,Jonuta,Seca,Marzo,Limón,5
+2021,Jonuta,Seca,Marzo,Maíz grano,2878
+2021,Jonuta,Seca,Marzo,Mango,10
+2021,Jonuta,Seca,Marzo,Tomate rojo (jitomate),15
+2021,Jonuta,Seca,Abril,Chile verde,112
+2021,Jonuta,Seca,Abril,Frijol,211
+2021,Jonuta,Seca,Abril,Limón,5
+2021,Jonuta,Seca,Abril,Maíz grano,2878
+2021,Jonuta,Seca,Abril,Mango,10
+2021,Jonuta,Seca,Abril,Tomate rojo (jitomate),15
+2021,Jonuta,Seca,Mayo,Chile verde,112
+2021,Jonuta,Seca,Mayo,Frijol,211
+2021,Jonuta,Seca,Mayo,Limón,5
+2021,Jonuta,Seca,Mayo,Maíz grano,2878
+2021,Jonuta,Seca,Mayo,Mango,10
+2021,Jonuta,Seca,Mayo,Tomate rojo (jitomate),15
+2021,Jonuta,Temporal,Junio,Chile verde,128
+2021,Jonuta,Temporal,Junio,Frijol,211
+2021,Jonuta,Temporal,Junio,Limón,5
+2021,Jonuta,Temporal,Junio,Maíz grano,3493
+2021,Jonuta,Temporal,Junio,Mango,10
+2021,Jonuta,Temporal,Junio,Tomate rojo (jitomate),15
+2021,Jonuta,Temporal,Julio,Chile verde,229
+2021,Jonuta,Temporal,Julio,Frijol,211
+2021,Jonuta,Temporal,Julio,Limón,5
+2021,Jonuta,Temporal,Julio,Maíz grano,5531
+2021,Jonuta,Temporal,Julio,Mango,10
+2021,Jonuta,Temporal,Julio,Tomate rojo (jitomate),15
+2021,Jonuta,Temporal,Agosto,Chile verde,254
+2021,Jonuta,Temporal,Agosto,Frijol,211
+2021,Jonuta,Temporal,Agosto,Limón,5
+2021,Jonuta,Temporal,Agosto,Maíz grano,5781
+2021,Jonuta,Temporal,Agosto,Mango,10
+2021,Jonuta,Temporal,Agosto,Tomate rojo (jitomate),15
+2021,Jonuta,Temporal,Septiembre,Chile verde,286
+2021,Jonuta,Temporal,Septiembre,Frijol,211
+2021,Jonuta,Temporal,Septiembre,Limón,5
+2021,Jonuta,Temporal,Septiembre,Maíz grano,5899
+2021,Jonuta,Temporal,Septiembre,Mango,10
+2021,Jonuta,Temporal,Septiembre,Tomate rojo (jitomate),15
+2021,Jonuta,Norte,Octubre,Chile verde,286
+2021,Jonuta,Norte,Octubre,Frijol,211
+2021,Jonuta,Norte,Octubre,Limón,5
+2021,Jonuta,Norte,Octubre,Maíz grano,5899
+2021,Jonuta,Norte,Octubre,Mango,10
+2021,Jonuta,Norte,Octubre,Tomate rojo (jitomate),15
+2021,Jonuta,Norte,Noviembre,Chile verde,286
+2021,Jonuta,Norte,Noviembre,Frijol,211
+2021,Jonuta,Norte,Noviembre,Limón,5
+2021,Jonuta,Norte,Noviembre,Maíz grano,5899
+2021,Jonuta,Norte,Noviembre,Mango,10
+2021,Jonuta,Norte,Noviembre,Tomate rojo (jitomate),15
+2021,Jonuta,Norte,Diciembre,Chile verde,286
+2021,Jonuta,Norte,Diciembre,Frijol,211
+2021,Jonuta,Norte,Diciembre,Limón,5
+2021,Jonuta,Norte,Diciembre,Maíz grano,5899
+2021,Jonuta,Norte,Diciembre,Mango,10
+2021,Jonuta,Norte,Diciembre,Tomate rojo (jitomate),15
+2021,Balancán,Norte,Enero,Chile verde,25
+2021,Balancán,Norte,Enero,Frijol,137
+2021,Balancán,Norte,Enero,Maíz grano,5412
+2021,Balancán,Norte,Enero,Naranja,10
+2021,Balancán,Norte,Enero,Papaya,155
+2021,Balancán,Norte,Enero,Sandía,348
+2021,Balancán,Norte,Enero,Sorgo grano,733
+2021,Balancán,Norte,Enero,Tomate rojo (jitomate),7
+2021,Balancán,Norte,Febrero,Chile verde,59
+2021,Balancán,Norte,Febrero,Frijol,435
+2021,Balancán,Norte,Febrero,Maíz grano,7848
+2021,Balancán,Norte,Febrero,Naranja,10
+2021,Balancán,Norte,Febrero,Papaya,155
+2021,Balancán,Norte,Febrero,Sandía,435
+2021,Balancán,Norte,Febrero,Sorgo grano,3152
+2021,Balancán,Norte,Febrero,Tomate rojo (jitomate),11
+2021,Balancán,Seca,Marzo,Chile verde,84
+2021,Balancán,Seca,Marzo,Frijol,439
+2021,Balancán,Seca,Marzo,Maíz grano,8262
+2021,Balancán,Seca,Marzo,Naranja,10
+2021,Balancán,Seca,Marzo,Papaya,155
+2021,Balancán,Seca,Marzo,Sandía,462
+2021,Balancán,Seca,Marzo,Sorgo grano,4005
+2021,Balancán,Seca,Marzo,Tomate rojo (jitomate),16
+2021,Balancán,Seca,Abril,Chile verde,84
+2021,Balancán,Seca,Abril,Frijol,439
+2021,Balancán,Seca,Abril,Maíz grano,8262
+2021,Balancán,Seca,Abril,Naranja,10
+2021,Balancán,Seca,Abril,Papaya,155
+2021,Balancán,Seca,Abril,Sandía,462
+2021,Balancán,Seca,Abril,Sorgo grano,4005
+2021,Balancán,Seca,Abril,Tomate rojo (jitomate),16
+2021,Balancán,Seca,Mayo,Chile verde,84
+2021,Balancán,Seca,Mayo,Frijol,439
+2021,Balancán,Seca,Mayo,Maíz grano,8327
+2021,Balancán,Seca,Mayo,Naranja,10
+2021,Balancán,Seca,Mayo,Papaya,155
+2021,Balancán,Seca,Mayo,Sandía,462
+2021,Balancán,Seca,Mayo,Sorgo grano,4005
+2021,Balancán,Seca,Mayo,Tomate rojo (jitomate),16
+2021,Balancán,Temporal,Junio,Chile verde,105
+2021,Balancán,Temporal,Junio,Frijol,439
+2021,Balancán,Temporal,Junio,Maíz grano,12277
+2021,Balancán,Temporal,Junio,Naranja,10
+2021,Balancán,Temporal,Junio,Papaya,155
+2021,Balancán,Temporal,Junio,Sandía,526
+2021,Balancán,Temporal,Junio,Sorgo grano,4005
+2021,Balancán,Temporal,Junio,Tomate rojo (jitomate),19
+2021,Balancán,Temporal,Julio,Chile verde,111
+2021,Balancán,Temporal,Julio,Frijol,439
+2021,Balancán,Temporal,Julio,Maíz grano,17615
+2021,Balancán,Temporal,Julio,Naranja,10
+2021,Balancán,Temporal,Julio,Papaya,155
+2021,Balancán,Temporal,Julio,Sandía,638
+2021,Balancán,Temporal,Julio,Sorgo grano,4075
+2021,Balancán,Temporal,Julio,Tomate rojo (jitomate),23
+2021,Balancán,Temporal,Agosto,Chile verde,113
+2021,Balancán,Temporal,Agosto,Frijol,439
+2021,Balancán,Temporal,Agosto,Maíz grano,19949
+2021,Balancán,Temporal,Agosto,Naranja,10
+2021,Balancán,Temporal,Agosto,Papaya,155
+2021,Balancán,Temporal,Agosto,Sandía,672
+2021,Balancán,Temporal,Agosto,Sorgo grano,4075
+2021,Balancán,Temporal,Agosto,Tomate rojo (jitomate),24
+2021,Balancán,Temporal,Septiembre,Chile verde,113
+2021,Balancán,Temporal,Septiembre,Frijol,439
+2021,Balancán,Temporal,Septiembre,Maíz grano,20168
+2021,Balancán,Temporal,Septiembre,Naranja,10
+2021,Balancán,Temporal,Septiembre,Papaya,155
+2021,Balancán,Temporal,Septiembre,Sandía,672
+2021,Balancán,Temporal,Septiembre,Sorgo grano,4075
+2021,Balancán,Temporal,Septiembre,Tomate rojo (jitomate),24
+2021,Balancán,Norte,Octubre,Chile verde,113
+2021,Balancán,Norte,Octubre,Frijol,439
+2021,Balancán,Norte,Octubre,Maíz grano,20168
+2021,Balancán,Norte,Octubre,Naranja,10
+2021,Balancán,Norte,Octubre,Papaya,155
+2021,Balancán,Norte,Octubre,Sandía,672
+2021,Balancán,Norte,Octubre,Sorgo grano,4075
+2021,Balancán,Norte,Octubre,Tomate rojo (jitomate),24
+2021,Balancán,Norte,Noviembre,Chile verde,113
+2021,Balancán,Norte,Noviembre,Frijol,439
+2021,Balancán,Norte,Noviembre,Maíz grano,20168
+2021,Balancán,Norte,Noviembre,Naranja,10
+2021,Balancán,Norte,Noviembre,Papaya,155
+2021,Balancán,Norte,Noviembre,Sandía,672
+2021,Balancán,Norte,Noviembre,Sorgo grano,4075
+2021,Balancán,Norte,Noviembre,Tomate rojo (jitomate),24
+2021,Balancán,Norte,Diciembre,Chile verde,113
+2021,Balancán,Norte,Diciembre,Frijol,439
+2021,Balancán,Norte,Diciembre,Maíz grano,20168
+2021,Balancán,Norte,Diciembre,Naranja,10
+2021,Balancán,Norte,Diciembre,Papaya,155
+2021,Balancán,Norte,Diciembre,Sandía,672
+2021,Balancán,Norte,Diciembre,Sorgo grano,4075
+2021,Balancán,Norte,Diciembre,Tomate rojo (jitomate),24
+2021,Emiliano Zapata,Norte,Enero,Chile verde,23
+2021,Emiliano Zapata,Norte,Enero,Frijol,68
+2021,Emiliano Zapata,Norte,Enero,Limón,9
+2021,Emiliano Zapata,Norte,Enero,Maíz grano,934
+2021,Emiliano Zapata,Norte,Enero,Naranja,6
+2021,Emiliano Zapata,Norte,Enero,Sandía,21
+2021,Emiliano Zapata,Norte,Enero,Sorgo grano,0
+2021,Emiliano Zapata,Norte,Enero,Tomate rojo (jitomate),2
+2021,Emiliano Zapata,Norte,Febrero,Chile verde,44
+2021,Emiliano Zapata,Norte,Febrero,Frijol,157
+2021,Emiliano Zapata,Norte,Febrero,Limón,9
+2021,Emiliano Zapata,Norte,Febrero,Maíz grano,1360
+2021,Emiliano Zapata,Norte,Febrero,Naranja,6
+2021,Emiliano Zapata,Norte,Febrero,Sandía,31
+2021,Emiliano Zapata,Norte,Febrero,Sorgo grano,191
+2021,Emiliano Zapata,Norte,Febrero,Tomate rojo (jitomate),5
+2021,Emiliano Zapata,Seca,Marzo,Chile verde,54
+2021,Emiliano Zapata,Seca,Marzo,Frijol,159
+2021,Emiliano Zapata,Seca,Marzo,Limón,9
+2021,Emiliano Zapata,Seca,Marzo,Maíz grano,1550
+2021,Emiliano Zapata,Seca,Marzo,Naranja,6
+2021,Emiliano Zapata,Seca,Marzo,Sandía,38
+2021,Emiliano Zapata,Seca,Marzo,Sorgo grano,52
+2021,Emiliano Zapata,Seca,Marzo,Tomate rojo (jitomate),5
+2021,Emiliano Zapata,Seca,Abril,Chile verde,54
+2021,Emiliano Zapata,Seca,Abril,Frijol,159
+2021,Emiliano Zapata,Seca,Abril,Limón,9
+2021,Emiliano Zapata,Seca,Abril,Maíz grano,1550
+2021,Emiliano Zapata,Seca,Abril,Naranja,6
+2021,Emiliano Zapata,Seca,Abril,Sandía,38
+2021,Emiliano Zapata,Seca,Abril,Sorgo grano,52
+2021,Emiliano Zapata,Seca,Abril,Tomate rojo (jitomate),5
+2021,Emiliano Zapata,Seca,Mayo,Arroz palay,915
+2021,Emiliano Zapata,Seca,Mayo,Chile verde,54
+2021,Emiliano Zapata,Seca,Mayo,Frijol,159
+2021,Emiliano Zapata,Seca,Mayo,Limón,9
+2021,Emiliano Zapata,Seca,Mayo,Maíz grano,1586
+2021,Emiliano Zapata,Seca,Mayo,Naranja,6
+2021,Emiliano Zapata,Seca,Mayo,Sandía,48
+2021,Emiliano Zapata,Seca,Mayo,Sorgo grano,52
+2021,Emiliano Zapata,Seca,Mayo,Tomate rojo (jitomate),5
+2021,Emiliano Zapata,Temporal,Junio,Arroz palay,915
+2021,Emiliano Zapata,Temporal,Junio,Chile verde,54
+2021,Emiliano Zapata,Temporal,Junio,Frijol,159
+2021,Emiliano Zapata,Temporal,Junio,Limón,9
+2021,Emiliano Zapata,Temporal,Junio,Maíz grano,1917
+2021,Emiliano Zapata,Temporal,Junio,Naranja,6
+2021,Emiliano Zapata,Temporal,Junio,Sandía,48
+2021,Emiliano Zapata,Temporal,Junio,Sorgo grano,52
+2021,Emiliano Zapata,Temporal,Junio,Tomate rojo (jitomate),5
+2021,Emiliano Zapata,Temporal,Julio,Arroz palay,915
+2021,Emiliano Zapata,Temporal,Julio,Chile verde,59
+2021,Emiliano Zapata,Temporal,Julio,Frijol,159
+2021,Emiliano Zapata,Temporal,Julio,Limón,9
+2021,Emiliano Zapata,Temporal,Julio,Maíz grano,2628
+2021,Emiliano Zapata,Temporal,Julio,Naranja,6
+2021,Emiliano Zapata,Temporal,Julio,Sandía,142
+2021,Emiliano Zapata,Temporal,Julio,Sorgo grano,99
+2021,Emiliano Zapata,Temporal,Julio,Tomate rojo (jitomate),5
+2021,Emiliano Zapata,Temporal,Agosto,Arroz palay,915
+2021,Emiliano Zapata,Temporal,Agosto,Chile verde,59
+2021,Emiliano Zapata,Temporal,Agosto,Frijol,159
+2021,Emiliano Zapata,Temporal,Agosto,Limón,9
+2021,Emiliano Zapata,Temporal,Agosto,Maíz grano,2701
+2021,Emiliano Zapata,Temporal,Agosto,Naranja,6
+2021,Emiliano Zapata,Temporal,Agosto,Sandía,154
+2021,Emiliano Zapata,Temporal,Agosto,Sorgo grano,131
+2021,Emiliano Zapata,Temporal,Agosto,Tomate rojo (jitomate),5
+2021,Emiliano Zapata,Temporal,Septiembre,Arroz palay,915
+2021,Emiliano Zapata,Temporal,Septiembre,Chile verde,61
+2021,Emiliano Zapata,Temporal,Septiembre,Frijol,159
+2021,Emiliano Zapata,Temporal,Septiembre,Limón,9
+2021,Emiliano Zapata,Temporal,Septiembre,Maíz grano,2739
+2021,Emiliano Zapata,Temporal,Septiembre,Naranja,6
+2021,Emiliano Zapata,Temporal,Septiembre,Sandía,154
+2021,Emiliano Zapata,Temporal,Septiembre,Sorgo grano,132
+2021,Emiliano Zapata,Temporal,Septiembre,Tomate rojo (jitomate),5
+2021,Emiliano Zapata,Norte,Octubre,Arroz palay,915
+2021,Emiliano Zapata,Norte,Octubre,Chile verde,61
+2021,Emiliano Zapata,Norte,Octubre,Frijol,159
+2021,Emiliano Zapata,Norte,Octubre,Limón,9
+2021,Emiliano Zapata,Norte,Octubre,Maíz grano,2739
+2021,Emiliano Zapata,Norte,Octubre,Naranja,6
+2021,Emiliano Zapata,Norte,Octubre,Sandía,154
+2021,Emiliano Zapata,Norte,Octubre,Sorgo grano,132
+2021,Emiliano Zapata,Norte,Octubre,Tomate rojo (jitomate),5
+2021,Emiliano Zapata,Norte,Noviembre,Arroz palay,915
+2021,Emiliano Zapata,Norte,Noviembre,Chile verde,61
+2021,Emiliano Zapata,Norte,Noviembre,Frijol,159
+2021,Emiliano Zapata,Norte,Noviembre,Limón,9
+2021,Emiliano Zapata,Norte,Noviembre,Maíz grano,2739
+2021,Emiliano Zapata,Norte,Noviembre,Naranja,6
+2021,Emiliano Zapata,Norte,Noviembre,Sandía,154
+2021,Emiliano Zapata,Norte,Noviembre,Sorgo grano,132
+2021,Emiliano Zapata,Norte,Noviembre,Tomate rojo (jitomate),5
+2021,Emiliano Zapata,Norte,Diciembre,Arroz palay,915
+2021,Emiliano Zapata,Norte,Diciembre,Chile verde,61
+2021,Emiliano Zapata,Norte,Diciembre,Frijol,159
+2021,Emiliano Zapata,Norte,Diciembre,Limón,9
+2021,Emiliano Zapata,Norte,Diciembre,Maíz grano,2739
+2021,Emiliano Zapata,Norte,Diciembre,Naranja,6
+2021,Emiliano Zapata,Norte,Diciembre,Sandía,154
+2021,Emiliano Zapata,Norte,Diciembre,Sorgo grano,132
+2021,Emiliano Zapata,Norte,Diciembre,Tomate rojo (jitomate),5
+2021,Tenosique,Norte,Enero,Chile verde,15
+2021,Tenosique,Norte,Enero,Frijol,57
+2021,Tenosique,Norte,Enero,Maíz grano,1503
+2021,Tenosique,Norte,Enero,Mango,60
+2021,Tenosique,Norte,Enero,Sandía,16
+2021,Tenosique,Norte,Enero,Sorgo grano,44
+2021,Tenosique,Norte,Enero,Tomate rojo (jitomate),2
+2021,Tenosique,Norte,Febrero,Chile verde,23
+2021,Tenosique,Norte,Febrero,Frijol,88
+2021,Tenosique,Norte,Febrero,Maíz grano,2339
+2021,Tenosique,Norte,Febrero,Mango,60
+2021,Tenosique,Norte,Febrero,Sandía,23
+2021,Tenosique,Norte,Febrero,Sorgo grano,180
+2021,Tenosique,Norte,Febrero,Tomate rojo (jitomate),5
+2021,Tenosique,Seca,Marzo,Chile verde,40
+2021,Tenosique,Seca,Marzo,Frijol,92
+2021,Tenosique,Seca,Marzo,Maíz grano,2705
+2021,Tenosique,Seca,Marzo,Mango,60
+2021,Tenosique,Seca,Marzo,Sandía,40
+2021,Tenosique,Seca,Marzo,Sorgo grano,208
+2021,Tenosique,Seca,Marzo,Tomate rojo (jitomate),6
+2021,Tenosique,Seca,Abril,Chile verde,40
+2021,Tenosique,Seca,Abril,Frijol,92
+2021,Tenosique,Seca,Abril,Maíz grano,2705
+2021,Tenosique,Seca,Abril,Mango,60
+2021,Tenosique,Seca,Abril,Sandía,40
+2021,Tenosique,Seca,Abril,Sorgo grano,208
+2021,Tenosique,Seca,Abril,Tomate rojo (jitomate),6
+2021,Tenosique,Seca,Mayo,Chile verde,40
+2021,Tenosique,Seca,Mayo,Frijol,92
+2021,Tenosique,Seca,Mayo,Maíz grano,3057
+2021,Tenosique,Seca,Mayo,Mango,60
+2021,Tenosique,Seca,Mayo,Sandía,45
+2021,Tenosique,Seca,Mayo,Sorgo grano,250
+2021,Tenosique,Seca,Mayo,Tomate rojo (jitomate),6
+2021,Tenosique,Temporal,Junio,Chile verde,40
+2021,Tenosique,Temporal,Junio,Frijol,92
+2021,Tenosique,Temporal,Junio,Maíz grano,3860
+2021,Tenosique,Temporal,Junio,Mango,60
+2021,Tenosique,Temporal,Junio,Sandía,47
+2021,Tenosique,Temporal,Junio,Sorgo grano,268
+2021,Tenosique,Temporal,Junio,Tomate rojo (jitomate),6
+2021,Tenosique,Temporal,Julio,Chile verde,40
+2021,Tenosique,Temporal,Julio,Frijol,92
+2021,Tenosique,Temporal,Julio,Maíz grano,5325
+2021,Tenosique,Temporal,Julio,Mango,60
+2021,Tenosique,Temporal,Julio,Sandía,50
+2021,Tenosique,Temporal,Julio,Sorgo grano,305
+2021,Tenosique,Temporal,Julio,Tomate rojo (jitomate),6
+2021,Tenosique,Temporal,Agosto,Chile verde,40
+2021,Tenosique,Temporal,Agosto,Frijol,92
+2021,Tenosique,Temporal,Agosto,Maíz grano,6980
+2021,Tenosique,Temporal,Agosto,Mango,60
+2021,Tenosique,Temporal,Agosto,Sandía,50
+2021,Tenosique,Temporal,Agosto,Sorgo grano,326
+2021,Tenosique,Temporal,Agosto,Tomate rojo (jitomate),6
+2021,Tenosique,Temporal,Septiembre,Chile verde,40
+2021,Tenosique,Temporal,Septiembre,Frijol,92
+2021,Tenosique,Temporal,Septiembre,Maíz grano,7160
+2021,Tenosique,Temporal,Septiembre,Mango,60
+2021,Tenosique,Temporal,Septiembre,Sandía,50
+2021,Tenosique,Temporal,Septiembre,Sorgo grano,333
+2021,Tenosique,Temporal,Septiembre,Tomate rojo (jitomate),6
+2021,Tenosique,Norte,Octubre,Cacao,34.9
+2021,Tenosique,Norte,Octubre,Chile verde,40
+2021,Tenosique,Norte,Octubre,Frijol,92
+2021,Tenosique,Norte,Octubre,Maíz grano,7160
+2021,Tenosique,Norte,Octubre,Mango,60
+2021,Tenosique,Norte,Octubre,Sandía,50
+2021,Tenosique,Norte,Octubre,Sorgo grano,333
+2021,Tenosique,Norte,Octubre,Tomate rojo (jitomate),6
+2021,Tenosique,Norte,Noviembre,Cacao,34.9
+2021,Tenosique,Norte,Noviembre,Chile verde,40
+2021,Tenosique,Norte,Noviembre,Frijol,92
+2021,Tenosique,Norte,Noviembre,Maíz grano,7160
+2021,Tenosique,Norte,Noviembre,Mango,60
+2021,Tenosique,Norte,Noviembre,Sandía,50
+2021,Tenosique,Norte,Noviembre,Sorgo grano,333
+2021,Tenosique,Norte,Noviembre,Tomate rojo (jitomate),6
+2021,Tenosique,Norte,Diciembre,Cacao,34.9
+2021,Tenosique,Norte,Diciembre,Chile verde,40
+2021,Tenosique,Norte,Diciembre,Frijol,92
+2021,Tenosique,Norte,Diciembre,Maíz grano,7160
+2021,Tenosique,Norte,Diciembre,Mango,60
+2021,Tenosique,Norte,Diciembre,Sandía,50
+2021,Tenosique,Norte,Diciembre,Sorgo grano,333
+2021,Tenosique,Norte,Diciembre,Tomate rojo (jitomate),6
+2022,Jonuta,Norte,Enero,Chile verde,61
+2022,Jonuta,Norte,Enero,Frijol,68
+2022,Jonuta,Norte,Enero,Limón,5
+2022,Jonuta,Norte,Enero,Maíz grano,847
+2022,Jonuta,Norte,Enero,Mango,10
+2022,Jonuta,Norte,Enero,Tomate rojo (jitomate),7
+2022,Jonuta,Norte,Febrero,Chile verde,74
+2022,Jonuta,Norte,Febrero,Frijol,203
+2022,Jonuta,Norte,Febrero,Limón,5
+2022,Jonuta,Norte,Febrero,Maíz grano,2726
+2022,Jonuta,Norte,Febrero,Mango,10
+2022,Jonuta,Norte,Febrero,Tomate rojo (jitomate),10
+2022,Jonuta,Seca,Marzo,Chile verde,115
+2022,Jonuta,Seca,Marzo,Frijol,208
+2022,Jonuta,Seca,Marzo,Limón,5
+2022,Jonuta,Seca,Marzo,Maíz grano,2870
+2022,Jonuta,Seca,Marzo,Mango,10
+2022,Jonuta,Seca,Marzo,Tomate rojo (jitomate),13
+2022,Jonuta,Seca,Abril,Chile verde,115
+2022,Jonuta,Seca,Abril,Frijol,208
+2022,Jonuta,Seca,Abril,Limón,5
+2022,Jonuta,Seca,Abril,Maíz grano,2870
+2022,Jonuta,Seca,Abril,Mango,10
+2022,Jonuta,Seca,Abril,Tomate rojo (jitomate),13
+2022,Jonuta,Seca,Mayo,Chile verde,115
+2022,Jonuta,Seca,Mayo,Frijol,208
+2022,Jonuta,Seca,Mayo,Limón,5
+2022,Jonuta,Seca,Mayo,Maíz grano,2870
+2022,Jonuta,Seca,Mayo,Mango,10
+2022,Jonuta,Seca,Mayo,Tomate rojo (jitomate),13
+2022,Jonuta,Temporal,Junio,Chile verde,138
+2022,Jonuta,Temporal,Junio,Frijol,208
+2022,Jonuta,Temporal,Junio,Limón,5
+2022,Jonuta,Temporal,Junio,Maíz grano,3499
+2022,Jonuta,Temporal,Junio,Mango,10
+2022,Jonuta,Temporal,Junio,Tomate rojo (jitomate),13
+2022,Jonuta,Temporal,Julio,Chile verde,1999
+2022,Jonuta,Temporal,Julio,Frijol,208
+2022,Jonuta,Temporal,Julio,Limón,5
+2022,Jonuta,Temporal,Julio,Maíz grano,5515
+2022,Jonuta,Temporal,Julio,Mango,10
+2022,Jonuta,Temporal,Julio,Tomate rojo (jitomate),13
+2022,Jonuta,Temporal,Agosto,Chile verde,292
+2022,Jonuta,Temporal,Agosto,Frijol,208
+2022,Jonuta,Temporal,Agosto,Limón,5
+2022,Jonuta,Temporal,Agosto,Maíz grano,5715
+2022,Jonuta,Temporal,Agosto,Mango,10
+2022,Jonuta,Temporal,Agosto,Tomate rojo (jitomate),13
+2022,Jonuta,Temporal,Septiembre,Chile verde,292
+2022,Jonuta,Temporal,Septiembre,Frijol,208
+2022,Jonuta,Temporal,Septiembre,Limón,5
+2022,Jonuta,Temporal,Septiembre,Maíz grano,5715
+2022,Jonuta,Temporal,Septiembre,Mango,10
+2022,Jonuta,Temporal,Septiembre,Tomate rojo (jitomate),13
+2022,Jonuta,Norte,Octubre,Chile verde,292
+2022,Jonuta,Norte,Octubre,Frijol,208
+2022,Jonuta,Norte,Octubre,Limón,5
+2022,Jonuta,Norte,Octubre,Maíz grano,5715
+2022,Jonuta,Norte,Octubre,Mango,10
+2022,Jonuta,Norte,Octubre,Tomate rojo (jitomate),13
+2022,Jonuta,Norte,Noviembre,Chile verde,292
+2022,Jonuta,Norte,Noviembre,Frijol,208
+2022,Jonuta,Norte,Noviembre,Limón,5
+2022,Jonuta,Norte,Noviembre,Maíz grano,5715
+2022,Jonuta,Norte,Noviembre,Mango,10
+2022,Jonuta,Norte,Noviembre,Tomate rojo (jitomate),13
+2022,Jonuta,Norte,Diciembre,Chile verde,292
+2022,Jonuta,Norte,Diciembre,Frijol,208
+2022,Jonuta,Norte,Diciembre,Limón,5
+2022,Jonuta,Norte,Diciembre,Maíz grano,5715
+2022,Jonuta,Norte,Diciembre,Mango,10
+2022,Jonuta,Norte,Diciembre,Tomate rojo (jitomate),13
+2022,Balancán,Norte,Enero,Chile verde,38
+2022,Balancán,Norte,Enero,Frijol,172
+2022,Balancán,Norte,Enero,Maíz grano,5495
+2022,Balancán,Norte,Enero,Naranja,10
+2022,Balancán,Norte,Enero,Papaya,158
+2022,Balancán,Norte,Enero,Sandía,364
+2022,Balancán,Norte,Enero,Sorgo grano,779
+2022,Balancán,Norte,Enero,Tomate rojo (jitomate),9
+2022,Balancán,Norte,Febrero,Chile verde,53
+2022,Balancán,Norte,Febrero,Frijol,423
+2022,Balancán,Norte,Febrero,Maíz grano,7709
+2022,Balancán,Norte,Febrero,Naranja,10
+2022,Balancán,Norte,Febrero,Papaya,158
+2022,Balancán,Norte,Febrero,Sandía,423
+2022,Balancán,Norte,Febrero,Sorgo grano,2978
+2022,Balancán,Norte,Febrero,Tomate rojo (jitomate),12
+2022,Balancán,Seca,Marzo,Chile verde,83
+2022,Balancán,Seca,Marzo,Frijol,427
+2022,Balancán,Seca,Marzo,Maíz grano,8240
+2022,Balancán,Seca,Marzo,Naranja,10
+2022,Balancán,Seca,Marzo,Papaya,158
+2022,Balancán,Seca,Marzo,Sandía,446
+2022,Balancán,Seca,Marzo,Sorgo grano,3981
+2022,Balancán,Seca,Marzo,Tomate rojo (jitomate),12
+2022,Balancán,Seca,Abril,Chile verde,83
+2022,Balancán,Seca,Abril,Frijol,427
+2022,Balancán,Seca,Abril,Maíz grano,8240
+2022,Balancán,Seca,Abril,Naranja,10
+2022,Balancán,Seca,Abril,Papaya,158
+2022,Balancán,Seca,Abril,Sandía,446
+2022,Balancán,Seca,Abril,Sorgo grano,3981
+2022,Balancán,Seca,Abril,Tomate rojo (jitomate),12
+2022,Balancán,Seca,Mayo,Chile verde,83
+2022,Balancán,Seca,Mayo,Frijol,427
+2022,Balancán,Seca,Mayo,Maíz grano,8264
+2022,Balancán,Seca,Mayo,Naranja,10
+2022,Balancán,Seca,Mayo,Papaya,158
+2022,Balancán,Seca,Mayo,Sandía,446
+2022,Balancán,Seca,Mayo,Sorgo grano,3981
+2022,Balancán,Seca,Mayo,Tomate rojo (jitomate),12
+2022,Balancán,Temporal,Junio,Chile verde,104
+2022,Balancán,Temporal,Junio,Frijol,427
+2022,Balancán,Temporal,Junio,Maíz grano,12229
+2022,Balancán,Temporal,Junio,Naranja,10
+2022,Balancán,Temporal,Junio,Papaya,158
+2022,Balancán,Temporal,Junio,Sandía,514
+2022,Balancán,Temporal,Junio,Sorgo grano,3981
+2022,Balancán,Temporal,Junio,Tomate rojo (jitomate),17
+2022,Balancán,Temporal,Julio,Chile verde,115
+2022,Balancán,Temporal,Julio,Frijol,427
+2022,Balancán,Temporal,Julio,Maíz grano,17473
+2022,Balancán,Temporal,Julio,Naranja,10
+2022,Balancán,Temporal,Julio,Papaya,158
+2022,Balancán,Temporal,Julio,Sandía,587
+2022,Balancán,Temporal,Julio,Sorgo grano,3981
+2022,Balancán,Temporal,Julio,Tomate rojo (jitomate),20
+2022,Balancán,Temporal,Agosto,Chile verde,115
+2022,Balancán,Temporal,Agosto,Frijol,427
+2022,Balancán,Temporal,Agosto,Maíz grano,19815
+2022,Balancán,Temporal,Agosto,Naranja,10
+2022,Balancán,Temporal,Agosto,Papaya,158
+2022,Balancán,Temporal,Agosto,Sandía,652
+2022,Balancán,Temporal,Agosto,Sorgo grano,3981
+2022,Balancán,Temporal,Agosto,Tomate rojo (jitomate),21
+2022,Balancán,Temporal,Septiembre,Chile verde,115
+2022,Balancán,Temporal,Septiembre,Frijol,427
+2022,Balancán,Temporal,Septiembre,Maíz grano,19815
+2022,Balancán,Temporal,Septiembre,Naranja,10
+2022,Balancán,Temporal,Septiembre,Papaya,158
+2022,Balancán,Temporal,Septiembre,Sandía,652
+2022,Balancán,Temporal,Septiembre,Sorgo grano,3981
+2022,Balancán,Temporal,Septiembre,Tomate rojo (jitomate),21
+2022,Balancán,Norte,Octubre,Chile verde,115
+2022,Balancán,Norte,Octubre,Frijol,427
+2022,Balancán,Norte,Octubre,Maíz grano,19815
+2022,Balancán,Norte,Octubre,Naranja,10
+2022,Balancán,Norte,Octubre,Papaya,158
+2022,Balancán,Norte,Octubre,Sandía,652
+2022,Balancán,Norte,Octubre,Sorgo grano,3981
+2022,Balancán,Norte,Octubre,Tomate rojo (jitomate),21
+2022,Balancán,Norte,Noviembre,Chile verde,115
+2022,Balancán,Norte,Noviembre,Frijol,427
+2022,Balancán,Norte,Noviembre,Maíz grano,19815
+2022,Balancán,Norte,Noviembre,Naranja,10
+2022,Balancán,Norte,Noviembre,Papaya,158
+2022,Balancán,Norte,Noviembre,Sandía,652
+2022,Balancán,Norte,Noviembre,Sorgo grano,3981
+2022,Balancán,Norte,Noviembre,Tomate rojo (jitomate),21
+2022,Balancán,Norte,Diciembre,Chile verde,115
+2022,Balancán,Norte,Diciembre,Frijol,427
+2022,Balancán,Norte,Diciembre,Maíz grano,19815
+2022,Balancán,Norte,Diciembre,Naranja,10
+2022,Balancán,Norte,Diciembre,Papaya,158
+2022,Balancán,Norte,Diciembre,Sandía,652
+2022,Balancán,Norte,Diciembre,Sorgo grano,652
+2022,Balancán,Norte,Diciembre,Tomate rojo (jitomate),21
+2022,Emiliano Zapata,Norte,Enero,Chile verde,30
+2022,Emiliano Zapata,Norte,Enero,Frijol,97
+2022,Emiliano Zapata,Norte,Enero,Limón,9
+2022,Emiliano Zapata,Norte,Enero,Maíz grano,922
+2022,Emiliano Zapata,Norte,Enero,Naranja,6
+2022,Emiliano Zapata,Norte,Enero,Sandía,18
+2022,Emiliano Zapata,Norte,Enero,Tomate rojo (jitomate),4
+2022,Emiliano Zapata,Norte,Febrero,Chile verde,41
+2022,Emiliano Zapata,Norte,Febrero,Frijol,154
+2022,Emiliano Zapata,Norte,Febrero,Limón,9
+2022,Emiliano Zapata,Norte,Febrero,Maíz grano,1362
+2022,Emiliano Zapata,Norte,Febrero,Naranja,6
+2022,Emiliano Zapata,Norte,Febrero,Sandía,30
+2022,Emiliano Zapata,Norte,Febrero,Tomate rojo (jitomate),5
+2022,Emiliano Zapata,Seca,Marzo,Chile verde,50
+2022,Emiliano Zapata,Seca,Marzo,Frijol,154
+2022,Emiliano Zapata,Seca,Marzo,Limón,9
+2022,Emiliano Zapata,Seca,Marzo,Maíz grano,1543
+2022,Emiliano Zapata,Seca,Marzo,Naranja,6
+2022,Emiliano Zapata,Seca,Marzo,Sandía,34
+2022,Emiliano Zapata,Seca,Marzo,Tomate rojo (jitomate),5
+2022,Emiliano Zapata,Seca,Abril,Chile verde,50
+2022,Emiliano Zapata,Seca,Abril,Frijol,154
+2022,Emiliano Zapata,Seca,Abril,Limón,9
+2022,Emiliano Zapata,Seca,Abril,Maíz grano,1543
+2022,Emiliano Zapata,Seca,Abril,Naranja,6
+2022,Emiliano Zapata,Seca,Abril,Sandía,34
+2022,Emiliano Zapata,Seca,Abril,Tomate rojo (jitomate),5
+2022,Emiliano Zapata,Seca,Mayo,Chile verde,50
+2022,Emiliano Zapata,Seca,Mayo,Frijol,154
+2022,Emiliano Zapata,Seca,Mayo,Limón,9
+2022,Emiliano Zapata,Seca,Mayo,Maíz grano,1570
+2022,Emiliano Zapata,Seca,Mayo,Naranja,6
+2022,Emiliano Zapata,Seca,Mayo,Sandía,42
+2022,Emiliano Zapata,Seca,Mayo,Tomate rojo (jitomate),5
+2022,Emiliano Zapata,Temporal,Junio,Arroz palay,350
+2022,Emiliano Zapata,Temporal,Junio,Chile verde,58
+2022,Emiliano Zapata,Temporal,Junio,Frijol,154
+2022,Emiliano Zapata,Temporal,Junio,Limón,9
+2022,Emiliano Zapata,Temporal,Junio,Maíz grano,1903
+2022,Emiliano Zapata,Temporal,Junio,Naranja,6
+2022,Emiliano Zapata,Temporal,Junio,Sandía,45
+2022,Emiliano Zapata,Temporal,Junio,Tomate rojo (jitomate),5
+2022,Emiliano Zapata,Temporal,Julio,Arroz palay,350
+2022,Emiliano Zapata,Temporal,Julio,Chile verde,58
+2022,Emiliano Zapata,Temporal,Julio,Frijol,154
+2022,Emiliano Zapata,Temporal,Julio,Limón,9
+2022,Emiliano Zapata,Temporal,Julio,Maíz grano,2599
+2022,Emiliano Zapata,Temporal,Julio,Naranja,6
+2022,Emiliano Zapata,Temporal,Julio,Sandía,121
+2022,Emiliano Zapata,Temporal,Julio,Tomate rojo (jitomate),5
+2022,Emiliano Zapata,Temporal,Agosto,Arroz palay,350
+2022,Emiliano Zapata,Temporal,Agosto,Chile verde,58
+2022,Emiliano Zapata,Temporal,Agosto,Frijol,154
+2022,Emiliano Zapata,Temporal,Agosto,Limón,9
+2022,Emiliano Zapata,Temporal,Agosto,Maíz grano,2675
+2022,Emiliano Zapata,Temporal,Agosto,Naranja,6
+2022,Emiliano Zapata,Temporal,Agosto,Sandía,148
+2022,Emiliano Zapata,Temporal,Agosto,Tomate rojo (jitomate),5
+2022,Emiliano Zapata,Temporal,Septiembre,Arroz palay,350
+2022,Emiliano Zapata,Temporal,Septiembre,Chile verde,58
+2022,Emiliano Zapata,Temporal,Septiembre,Frijol,154
+2022,Emiliano Zapata,Temporal,Septiembre,Limón,9
+2022,Emiliano Zapata,Temporal,Septiembre,Maíz grano,2675
+2022,Emiliano Zapata,Temporal,Septiembre,Naranja,6
+2022,Emiliano Zapata,Temporal,Septiembre,Sandía,148
+2022,Emiliano Zapata,Temporal,Septiembre,Tomate rojo (jitomate),5
+2022,Emiliano Zapata,Norte,Octubre,Arroz palay,350
+2022,Emiliano Zapata,Norte,Octubre,Chile verde,58
+2022,Emiliano Zapata,Norte,Octubre,Frijol,154
+2022,Emiliano Zapata,Norte,Octubre,Limón,9
+2022,Emiliano Zapata,Norte,Octubre,Maíz grano,2675
+2022,Emiliano Zapata,Norte,Octubre,Naranja,6
+2022,Emiliano Zapata,Norte,Octubre,Sandía,148
+2022,Emiliano Zapata,Norte,Octubre,Tomate rojo (jitomate),5
+2022,Emiliano Zapata,Norte,Noviembre,Arroz palay,350
+2022,Emiliano Zapata,Norte,Noviembre,Chile verde,58
+2022,Emiliano Zapata,Norte,Noviembre,Frijol,154
+2022,Emiliano Zapata,Norte,Noviembre,Limón,9
+2022,Emiliano Zapata,Norte,Noviembre,Maíz grano,2675
+2022,Emiliano Zapata,Norte,Noviembre,Naranja,6
+2022,Emiliano Zapata,Norte,Noviembre,Sandía,148
+2022,Emiliano Zapata,Norte,Noviembre,Tomate rojo (jitomate),5
+2022,Emiliano Zapata,Norte,Diciembre,Arroz palay,350
+2022,Emiliano Zapata,Norte,Diciembre,Chile verde,58
+2022,Emiliano Zapata,Norte,Diciembre,Frijol,154
+2022,Emiliano Zapata,Norte,Diciembre,Limón,9
+2022,Emiliano Zapata,Norte,Diciembre,Maíz grano,2675
+2022,Emiliano Zapata,Norte,Diciembre,Naranja,6
+2022,Emiliano Zapata,Norte,Diciembre,Sandía,158
+2022,Emiliano Zapata,Norte,Diciembre,Tomate rojo (jitomate),5
+2022,Tenosique,Norte,Enero,Cacao,34.9
+2022,Tenosique,Norte,Enero,Chile verde,23
+2022,Tenosique,Norte,Enero,Frijol,72
+2022,Tenosique,Norte,Enero,Maíz grano,1605
+2022,Tenosique,Norte,Enero,Mango,60
+2022,Tenosique,Norte,Enero,Sandía,13
+2022,Tenosique,Norte,Enero,Sorgo grano,98
+2022,Tenosique,Norte,Enero,Tomate rojo (jitomate),3
+2022,Tenosique,Norte,Febrero,Cacao,34.9
+2022,Tenosique,Norte,Febrero,Chile verde,28
+2022,Tenosique,Norte,Febrero,Frijol,93
+2022,Tenosique,Norte,Febrero,Maíz grano,2343
+2022,Tenosique,Norte,Febrero,Mango,60
+2022,Tenosique,Norte,Febrero,Sandía,25
+2022,Tenosique,Norte,Febrero,Sorgo grano,174
+2022,Tenosique,Norte,Febrero,Tomate rojo (jitomate),4
+2022,Tenosique,Seca,Marzo,Cacao,34.9
+2022,Tenosique,Seca,Marzo,Chile verde,36
+2022,Tenosique,Seca,Marzo,Frijol,94
+2022,Tenosique,Seca,Marzo,Maíz grano,2695
+2022,Tenosique,Seca,Marzo,Mango,60
+2022,Tenosique,Seca,Marzo,Sandía,35
+2022,Tenosique,Seca,Marzo,Sorgo grano,203
+2022,Tenosique,Seca,Marzo,Tomate rojo (jitomate),5
+2022,Tenosique,Seca,Abril,Cacao,34.9
+2022,Tenosique,Seca,Abril,Chile verde,36
+2022,Tenosique,Seca,Abril,Frijol,94
+2022,Tenosique,Seca,Abril,Maíz grano,2695
+2022,Tenosique,Seca,Abril,Mango,60
+2022,Tenosique,Seca,Abril,Sandía,35
+2022,Tenosique,Seca,Abril,Sorgo grano,203
+2022,Tenosique,Seca,Abril,Tomate rojo (jitomate),5
+2022,Tenosique,Seca,Mayo,Cacao,34.9
+2022,Tenosique,Seca,Mayo,Chile verde,36
+2022,Tenosique,Seca,Mayo,Frijol,94
+2022,Tenosique,Seca,Mayo,Maíz grano,2847
+2022,Tenosique,Seca,Mayo,Mango,60
+2022,Tenosique,Seca,Mayo,Sandía,35
+2022,Tenosique,Seca,Mayo,Sorgo grano,203
+2022,Tenosique,Seca,Mayo,Tomate rojo (jitomate),5
+2022,Tenosique,Temporal,Junio,Cacao,34.9
+2022,Tenosique,Temporal,Junio,Chile verde,36
+2022,Tenosique,Temporal,Junio,Frijol,94
+2022,Tenosique,Temporal,Junio,Maíz grano,3829
+2022,Tenosique,Temporal,Junio,Mango,60
+2022,Tenosique,Temporal,Junio,Sandía,40
+2022,Tenosique,Temporal,Junio,Sorgo grano,256
+2022,Tenosique,Temporal,Junio,Tomate rojo (jitomate),5
+2022,Tenosique,Temporal,Julio,Cacao,34.9
+2022,Tenosique,Temporal,Julio,Chile verde,36
+2022,Tenosique,Temporal,Julio,Frijol,94
+2022,Tenosique,Temporal,Julio,Maíz grano,5308
+2022,Tenosique,Temporal,Julio,Mango,60
+2022,Tenosique,Temporal,Julio,Sandía,43
+2022,Tenosique,Temporal,Julio,Sorgo grano,273
+2022,Tenosique,Temporal,Julio,Tomate rojo (jitomate),5
+2022,Tenosique,Temporal,Agosto,Cacao,34.9
+2022,Tenosique,Temporal,Agosto,Chile verde,36
+2022,Tenosique,Temporal,Agosto,Frijol,94
+2022,Tenosique,Temporal,Agosto,Maíz grano,6928
+2022,Tenosique,Temporal,Agosto,Mango,60
+2022,Tenosique,Temporal,Agosto,Sandía,47
+2022,Tenosique,Temporal,Agosto,Sorgo grano,293
+2022,Tenosique,Temporal,Agosto,Tomate rojo (jitomate),5
+2022,Tenosique,Temporal,Septiembre,Cacao,34.9
+2022,Tenosique,Temporal,Septiembre,Chile verde,36
+2022,Tenosique,Temporal,Septiembre,Frijol,94
+2022,Tenosique,Temporal,Septiembre,Maíz grano,6933
+2022,Tenosique,Temporal,Septiembre,Mango,60
+2022,Tenosique,Temporal,Septiembre,Sandía,47
+2022,Tenosique,Temporal,Septiembre,Sorgo grano,293
+2022,Tenosique,Temporal,Septiembre,Tomate rojo (jitomate),5
+2022,Tenosique,Norte,Octubre,Cacao,34.9
+2022,Tenosique,Norte,Octubre,Chile verde,36
+2022,Tenosique,Norte,Octubre,Frijol,94
+2022,Tenosique,Norte,Octubre,Maíz grano,6933
+2022,Tenosique,Norte,Octubre,Mango,60
+2022,Tenosique,Norte,Octubre,Sandía,47
+2022,Tenosique,Norte,Octubre,Sorgo grano,293
+2022,Tenosique,Norte,Octubre,Tomate rojo (jitomate),5
+2022,Tenosique,Norte,Noviembre,Cacao,34.9
+2022,Tenosique,Norte,Noviembre,Chile verde,36
+2022,Tenosique,Norte,Noviembre,Frijol,94
+2022,Tenosique,Norte,Noviembre,Maíz grano,6933
+2022,Tenosique,Norte,Noviembre,Mango,60
+2022,Tenosique,Norte,Noviembre,Sandía,47
+2022,Tenosique,Norte,Noviembre,Sorgo grano,293
+2022,Tenosique,Norte,Noviembre,Tomate rojo (jitomate),5
+2022,Tenosique,Norte,Diciembre,Cacao,34.9
+2022,Tenosique,Norte,Diciembre,Chile verde,36
+2022,Tenosique,Norte,Diciembre,Frijol,94
+2022,Tenosique,Norte,Diciembre,Maíz grano,6933
+2022,Tenosique,Norte,Diciembre,Mango,60
+2022,Tenosique,Norte,Diciembre,Sandía,47
+2022,Tenosique,Norte,Diciembre,Sorgo grano,293
+2022,Tenosique,Norte,Diciembre,Tomate rojo (jitomate),5
+2023,Jonuta,Norte,Enero,Chile verde,76
+2023,Jonuta,Norte,Enero,Frijol,64
+2023,Jonuta,Norte,Enero,Limón,5
+2023,Jonuta,Norte,Enero,Maíz grano,856
+2023,Jonuta,Norte,Enero,Mango,10
+2023,Jonuta,Norte,Enero,Tomate rojo (jitomate),9
+2023,Jonuta,Norte,Febrero,Chile verde,102
+2023,Jonuta,Norte,Febrero,Frijol,185
+2023,Jonuta,Norte,Febrero,Limón,5
+2023,Jonuta,Norte,Febrero,Maíz grano,2717
+2023,Jonuta,Norte,Febrero,Mango,10
+2023,Jonuta,Norte,Febrero,Tomate rojo (jitomate),15
+2023,Jonuta,Seca,Marzo,Chile verde,116
+2023,Jonuta,Seca,Marzo,Frijol,212
+2023,Jonuta,Seca,Marzo,Limón,5
+2023,Jonuta,Seca,Marzo,Maíz grano,2886
+2023,Jonuta,Seca,Marzo,Mango,10
+2023,Jonuta,Seca,Marzo,Tomate rojo (jitomate),16
+2023,Jonuta,Seca,Abril,Chile verde,116
+2023,Jonuta,Seca,Abril,Frijol,212
+2023,Jonuta,Seca,Abril,Limón,5
+2023,Jonuta,Seca,Abril,Maíz grano,2886
+2023,Jonuta,Seca,Abril,Mango,10
+2023,Jonuta,Seca,Abril,Tomate rojo (jitomate),16
+2023,Jonuta,Seca,Mayo,Chile verde,116
+2023,Jonuta,Seca,Mayo,Frijol,212
+2023,Jonuta,Seca,Mayo,Limón,5
+2023,Jonuta,Seca,Mayo,Maíz grano,2886
+2023,Jonuta,Seca,Mayo,Mango,10
+2023,Jonuta,Seca,Mayo,Tomate rojo (jitomate),16
+2023,Jonuta,Temporal,Junio,Chile verde,135
+2023,Jonuta,Temporal,Junio,Frijol,212
+2023,Jonuta,Temporal,Junio,Limón,5
+2023,Jonuta,Temporal,Junio,Maíz grano,3508
+2023,Jonuta,Temporal,Junio,Mango,10
+2023,Jonuta,Temporal,Junio,Tomate rojo (jitomate),16
+2023,Jonuta,Temporal,Julio,Chile verde,212
+2023,Jonuta,Temporal,Julio,Frijol,212
+2023,Jonuta,Temporal,Julio,Limón,5
+2023,Jonuta,Temporal,Julio,Maíz grano,5544
+2023,Jonuta,Temporal,Julio,Mango,10
+2023,Jonuta,Temporal,Julio,Tomate rojo (jitomate),16
+2023,Jonuta,Temporal,Agosto,Chile verde,296
+2023,Jonuta,Temporal,Agosto,Frijol,212
+2023,Jonuta,Temporal,Agosto,Limón,5
+2023,Jonuta,Temporal,Agosto,Maíz grano,5757
+2023,Jonuta,Temporal,Agosto,Mango,10
+2023,Jonuta,Temporal,Agosto,Tomate rojo (jitomate),16
+2023,Jonuta,Temporal,Septiembre,Chile verde,296
+2023,Jonuta,Temporal,Septiembre,Frijol,212
+2023,Jonuta,Temporal,Septiembre,Limón,5
+2023,Jonuta,Temporal,Septiembre,Maíz grano,5757
+2023,Jonuta,Temporal,Septiembre,Mango,10
+2023,Jonuta,Temporal,Septiembre,Tomate rojo (jitomate),16
+2023,Jonuta,Norte,Octubre,Chile verde,296
+2023,Jonuta,Norte,Octubre,Frijol,212
+2023,Jonuta,Norte,Octubre,Limón,5
+2023,Jonuta,Norte,Octubre,Maíz grano,5757
+2023,Jonuta,Norte,Octubre,Mango,10
+2023,Jonuta,Norte,Octubre,Tomate rojo (jitomate),16
+2023,Jonuta,Norte,Noviembre,Chile verde,296
+2023,Jonuta,Norte,Noviembre,Frijol,212
+2023,Jonuta,Norte,Noviembre,Limón,5
+2023,Jonuta,Norte,Noviembre,Maíz grano,5757
+2023,Jonuta,Norte,Noviembre,Mango,10
+2023,Jonuta,Norte,Noviembre,Tomate rojo (jitomate),16
+2023,Jonuta,Norte,Diciembre,Chile verde,296
+2023,Jonuta,Norte,Diciembre,Frijol,212
+2023,Jonuta,Norte,Diciembre,Limón,5
+2023,Jonuta,Norte,Diciembre,Maíz grano,233
+2023,Jonuta,Norte,Diciembre,Mango,10
+2023,Jonuta,Norte,Diciembre,Tomate rojo (jitomate),16
+2023,Balancán,Norte,Enero,Chile verde,47
+2023,Balancán,Norte,Enero,Frijol,178
+2023,Balancán,Norte,Enero,Maíz grano,5508
+2023,Balancán,Norte,Enero,Naranja,10
+2023,Balancán,Norte,Enero,Papaya,78
+2023,Balancán,Norte,Enero,Sandía,385
+2023,Balancán,Norte,Enero,Sorgo grano,0
+2023,Balancán,Norte,Enero,Tomate rojo (jitomate),8
+2023,Balancán,Norte,Febrero,Chile verde,87
+2023,Balancán,Norte,Febrero,Frijol,417
+2023,Balancán,Norte,Febrero,Maíz grano,9037
+2023,Balancán,Norte,Febrero,Naranja,10
+2023,Balancán,Norte,Febrero,Papaya,78
+2023,Balancán,Norte,Febrero,Sandía,446
+2023,Balancán,Norte,Febrero,Sorgo grano,60
+2023,Balancán,Norte,Febrero,Tomate rojo (jitomate),15
+2023,Balancán,Seca,Marzo,Chile verde,97
+2023,Balancán,Seca,Marzo,Frijol,438
+2023,Balancán,Seca,Marzo,Maíz grano,9088
+2023,Balancán,Seca,Marzo,Naranja,10
+2023,Balancán,Seca,Marzo,Papaya,78
+2023,Balancán,Seca,Marzo,Sandía,452
+2023,Balancán,Seca,Marzo,Sorgo grano,100
+2023,Balancán,Seca,Marzo,Tomate rojo (jitomate),15
+2023,Balancán,Seca,Abril,Chile verde,97
+2023,Balancán,Seca,Abril,Frijol,438
+2023,Balancán,Seca,Abril,Maíz grano,9088
+2023,Balancán,Seca,Abril,Naranja,10
+2023,Balancán,Seca,Abril,Papaya,78
+2023,Balancán,Seca,Abril,Sandía,452
+2023,Balancán,Seca,Abril,Sorgo grano,100
+2023,Balancán,Seca,Abril,Tomate rojo (jitomate),15
+2023,Balancán,Seca,Mayo,Chile verde,97
+2023,Balancán,Seca,Mayo,Frijol,438
+2023,Balancán,Seca,Mayo,Maíz grano,9135
+2023,Balancán,Seca,Mayo,Naranja,10
+2023,Balancán,Seca,Mayo,Papaya,78
+2023,Balancán,Seca,Mayo,Sandía,452
+2023,Balancán,Seca,Mayo,Sorgo grano,100
+2023,Balancán,Seca,Mayo,Tomate rojo (jitomate),15
+2023,Balancán,Temporal,Junio,Chile verde,124
+2023,Balancán,Temporal,Junio,Frijol,438
+2023,Balancán,Temporal,Junio,Maíz grano,13038
+2023,Balancán,Temporal,Junio,Naranja,10
+2023,Balancán,Temporal,Junio,Papaya,78
+2023,Balancán,Temporal,Junio,Sandía,514
+2023,Balancán,Temporal,Junio,Sorgo grano,100
+2023,Balancán,Temporal,Junio,Tomate rojo (jitomate),19
+2023,Balancán,Temporal,Julio,Chile verde,131
+2023,Balancán,Temporal,Julio,Frijol,438
+2023,Balancán,Temporal,Julio,Maíz grano,18319
+2023,Balancán,Temporal,Julio,Naranja,10
+2023,Balancán,Temporal,Julio,Papaya,78
+2023,Balancán,Temporal,Julio,Sandía,597
+2023,Balancán,Temporal,Julio,Sorgo grano,100
+2023,Balancán,Temporal,Julio,Tomate rojo (jitomate),24
+2023,Balancán,Temporal,Agosto,Chile verde,134
+2023,Balancán,Temporal,Agosto,Frijol,438
+2023,Balancán,Temporal,Agosto,Maíz grano,20553
+2023,Balancán,Temporal,Agosto,Naranja,10
+2023,Balancán,Temporal,Agosto,Papaya,78
+2023,Balancán,Temporal,Agosto,Sandía,628
+2023,Balancán,Temporal,Agosto,Sorgo grano,100
+2023,Balancán,Temporal,Agosto,Tomate rojo (jitomate),25
+2023,Balancán,Temporal,Septiembre,Chile verde,134
+2023,Balancán,Temporal,Septiembre,Frijol,438
+2023,Balancán,Temporal,Septiembre,Maíz grano,20692
+2023,Balancán,Temporal,Septiembre,Naranja,10
+2023,Balancán,Temporal,Septiembre,Papaya,78
+2023,Balancán,Temporal,Septiembre,Sandía,646
+2023,Balancán,Temporal,Septiembre,Sorgo grano,100
+2023,Balancán,Temporal,Septiembre,Tomate rojo (jitomate),25
+2023,Balancán,Norte,Octubre,Chile verde,134
+2023,Balancán,Norte,Octubre,Frijol,438
+2023,Balancán,Norte,Octubre,Maíz grano,20692
+2023,Balancán,Norte,Octubre,Naranja,10
+2023,Balancán,Norte,Octubre,Papaya,78
+2023,Balancán,Norte,Octubre,Sandía,646
+2023,Balancán,Norte,Octubre,Sorgo grano,100
+2023,Balancán,Norte,Octubre,Tomate rojo (jitomate),25
+2023,Balancán,Norte,Noviembre,Chile verde,134
+2023,Balancán,Norte,Noviembre,Frijol,438
+2023,Balancán,Norte,Noviembre,Maíz grano,20692
+2023,Balancán,Norte,Noviembre,Naranja,10
+2023,Balancán,Norte,Noviembre,Papaya,78
+2023,Balancán,Norte,Noviembre,Sandía,646
+2023,Balancán,Norte,Noviembre,Sorgo grano,100
+2023,Balancán,Norte,Noviembre,Tomate rojo (jitomate),25
+2023,Balancán,Norte,Diciembre,Chile verde,134
+2023,Balancán,Norte,Diciembre,Frijol,438
+2023,Balancán,Norte,Diciembre,Maíz grano,20692
+2023,Balancán,Norte,Diciembre,Naranja,10
+2023,Balancán,Norte,Diciembre,Papaya,78
+2023,Balancán,Norte,Diciembre,Sandía,646
+2023,Balancán,Norte,Diciembre,Sorgo grano,100
+2023,Balancán,Norte,Diciembre,Tomate rojo (jitomate),25
+2023,Emiliano Zapata,Norte,Enero,Chile verde,36
+2023,Emiliano Zapata,Norte,Enero,Frijol,109
+2023,Emiliano Zapata,Norte,Enero,Limón,12
+2023,Emiliano Zapata,Norte,Enero,Maíz grano,947
+2023,Emiliano Zapata,Norte,Enero,Naranja,8
+2023,Emiliano Zapata,Norte,Enero,Sandía,27
+2023,Emiliano Zapata,Norte,Enero,Tomate rojo (jitomate),5
+2023,Emiliano Zapata,Norte,Febrero,Chile verde,45
+2023,Emiliano Zapata,Norte,Febrero,Frijol,141
+2023,Emiliano Zapata,Norte,Febrero,Limón,12
+2023,Emiliano Zapata,Norte,Febrero,Maíz grano,1511
+2023,Emiliano Zapata,Norte,Febrero,Naranja,8
+2023,Emiliano Zapata,Norte,Febrero,Sandía,32
+2023,Emiliano Zapata,Norte,Febrero,Tomate rojo (jitomate),5.5
+2023,Emiliano Zapata,Seca,Marzo,Chile verde,50
+2023,Emiliano Zapata,Seca,Marzo,Frijol,152
+2023,Emiliano Zapata,Seca,Marzo,Limón,12
+2023,Emiliano Zapata,Seca,Marzo,Maíz grano,1560
+2023,Emiliano Zapata,Seca,Marzo,Naranja,8
+2023,Emiliano Zapata,Seca,Marzo,Sandía,32
+2023,Emiliano Zapata,Seca,Marzo,Sorgo grano,15
+2023,Emiliano Zapata,Seca,Marzo,Tomate rojo (jitomate),5.5
+2023,Emiliano Zapata,Seca,Abril,Chile verde,50
+2023,Emiliano Zapata,Seca,Abril,Frijol,152
+2023,Emiliano Zapata,Seca,Abril,Limón,12
+2023,Emiliano Zapata,Seca,Abril,Maíz grano,1560
+2023,Emiliano Zapata,Seca,Abril,Naranja,8
+2023,Emiliano Zapata,Seca,Abril,Sandía,32
+2023,Emiliano Zapata,Seca,Abril,Sorgo grano,15
+2023,Emiliano Zapata,Seca,Abril,Tomate rojo (jitomate),5.5
+2023,Emiliano Zapata,Seca,Mayo,Arroz palay,480
+2023,Emiliano Zapata,Seca,Mayo,Chile verde,50
+2023,Emiliano Zapata,Seca,Mayo,Frijol,152
+2023,Emiliano Zapata,Seca,Mayo,Limón,12
+2023,Emiliano Zapata,Seca,Mayo,Maíz grano,1601
+2023,Emiliano Zapata,Seca,Mayo,Naranja,8
+2023,Emiliano Zapata,Seca,Mayo,Sandía,41
+2023,Emiliano Zapata,Seca,Mayo,Sorgo grano,15
+2023,Emiliano Zapata,Seca,Mayo,Tomate rojo (jitomate),5.5
+2023,Emiliano Zapata,Temporal,Junio,Arroz palay,480
+2023,Emiliano Zapata,Temporal,Junio,Chile verde,57
+2023,Emiliano Zapata,Temporal,Junio,Frijol,152
+2023,Emiliano Zapata,Temporal,Junio,Limón,12
+2023,Emiliano Zapata,Temporal,Junio,Maíz grano,1933
+2023,Emiliano Zapata,Temporal,Junio,Naranja,8
+2023,Emiliano Zapata,Temporal,Junio,Sandía,46
+2023,Emiliano Zapata,Temporal,Junio,Sorgo grano,15
+2023,Emiliano Zapata,Temporal,Junio,Tomate rojo (jitomate),5.5
+2023,Emiliano Zapata,Temporal,Julio,Arroz palay,480
+2023,Emiliano Zapata,Temporal,Julio,Chile verde,57
+2023,Emiliano Zapata,Temporal,Julio,Frijol,152
+2023,Emiliano Zapata,Temporal,Julio,Limón,12
+2023,Emiliano Zapata,Temporal,Julio,Maíz grano,2619
+2023,Emiliano Zapata,Temporal,Julio,Naranja,8
+2023,Emiliano Zapata,Temporal,Julio,Sandía,125
+2023,Emiliano Zapata,Temporal,Julio,Sorgo grano,15
+2023,Emiliano Zapata,Temporal,Julio,Tomate rojo (jitomate),5.5
+2023,Emiliano Zapata,Temporal,Agosto,Arroz palay,480
+2023,Emiliano Zapata,Temporal,Agosto,Chile verde,57
+2023,Emiliano Zapata,Temporal,Agosto,Frijol,152
+2023,Emiliano Zapata,Temporal,Agosto,Limón,12
+2023,Emiliano Zapata,Temporal,Agosto,Maíz grano,2678
+2023,Emiliano Zapata,Temporal,Agosto,Naranja,8
+2023,Emiliano Zapata,Temporal,Agosto,Sandía,142
+2023,Emiliano Zapata,Temporal,Agosto,Sorgo grano,15
+2023,Emiliano Zapata,Temporal,Agosto,Tomate rojo (jitomate),5.5
+2023,Emiliano Zapata,Temporal,Septiembre,Arroz palay,480
+2023,Emiliano Zapata,Temporal,Septiembre,Chile verde,59
+2023,Emiliano Zapata,Temporal,Septiembre,Frijol,152
+2023,Emiliano Zapata,Temporal,Septiembre,Limón,12
+2023,Emiliano Zapata,Temporal,Septiembre,Maíz grano,2707
+2023,Emiliano Zapata,Temporal,Septiembre,Naranja,8
+2023,Emiliano Zapata,Temporal,Septiembre,Sandía,142
+2023,Emiliano Zapata,Temporal,Septiembre,Sorgo grano,15
+2023,Emiliano Zapata,Temporal,Septiembre,Tomate rojo (jitomate),5.5
+2023,Emiliano Zapata,Norte,Octubre,Arroz palay,480
+2023,Emiliano Zapata,Norte,Octubre,Chile verde,59
+2023,Emiliano Zapata,Norte,Octubre,Frijol,152
+2023,Emiliano Zapata,Norte,Octubre,Limón,12
+2023,Emiliano Zapata,Norte,Octubre,Maíz grano,2707
+2023,Emiliano Zapata,Norte,Octubre,Naranja,8
+2023,Emiliano Zapata,Norte,Octubre,Sandía,142
+2023,Emiliano Zapata,Norte,Octubre,Sorgo grano,15
+2023,Emiliano Zapata,Norte,Octubre,Tomate rojo (jitomate),5.5
+2023,Emiliano Zapata,Norte,Noviembre,Arroz palay,480
+2023,Emiliano Zapata,Norte,Noviembre,Chile verde,59
+2023,Emiliano Zapata,Norte,Noviembre,Frijol,152
+2023,Emiliano Zapata,Norte,Noviembre,Limón,12
+2023,Emiliano Zapata,Norte,Noviembre,Maíz grano,2707
+2023,Emiliano Zapata,Norte,Noviembre,Naranja,8
+2023,Emiliano Zapata,Norte,Noviembre,Sandía,142
+2023,Emiliano Zapata,Norte,Noviembre,Sorgo grano,15
+2023,Emiliano Zapata,Norte,Noviembre,Tomate rojo (jitomate),5.5
+2023,Emiliano Zapata,Norte,Diciembre,Arroz palay,480
+2023,Emiliano Zapata,Norte,Diciembre,Chile verde,59
+2023,Emiliano Zapata,Norte,Diciembre,Frijol,152
+2023,Emiliano Zapata,Norte,Diciembre,Limón,12
+2023,Emiliano Zapata,Norte,Diciembre,Maíz grano,2707
+2023,Emiliano Zapata,Norte,Diciembre,Naranja,8
+2023,Emiliano Zapata,Norte,Diciembre,Sandía,142
+2023,Emiliano Zapata,Norte,Diciembre,Sorgo grano,15
+2023,Emiliano Zapata,Norte,Diciembre,Tomate rojo (jitomate),5.5
+2023,Tenosique,Norte,Enero,Cacao,34.9
+2023,Tenosique,Norte,Enero,Chile verde,33
+2023,Tenosique,Norte,Enero,Frijol,77
+2023,Tenosique,Norte,Enero,Maíz grano,1644
+2023,Tenosique,Norte,Enero,Mango,60
+2023,Tenosique,Norte,Enero,Sandía,23
+2023,Tenosique,Norte,Enero,Sorgo grano,293
+2023,Tenosique,Norte,Enero,Tomate rojo (jitomate),5
+2023,Tenosique,Norte,Febrero,Cacao,34.9
+2023,Tenosique,Norte,Febrero,Chile verde,52
+2023,Tenosique,Norte,Febrero,Frijol,92
+2023,Tenosique,Norte,Febrero,Maíz grano,2495
+2023,Tenosique,Norte,Febrero,Mango,60
+2023,Tenosique,Norte,Febrero,Sandía,34
+2023,Tenosique,Norte,Febrero,Sorgo grano,293
+2023,Tenosique,Norte,Febrero,Tomate rojo (jitomate),7.5
+2023,Tenosique,Seca,Marzo,Cacao,34.9
+2023,Tenosique,Seca,Marzo,Chile verde,52
+2023,Tenosique,Seca,Marzo,Frijol,101
+2023,Tenosique,Seca,Marzo,Maíz grano,2770
+2023,Tenosique,Seca,Marzo,Mango,60
+2023,Tenosique,Seca,Marzo,Sandía,37
+2023,Tenosique,Seca,Marzo,Sorgo grano,293
+2023,Tenosique,Seca,Marzo,Tomate rojo (jitomate),7.5
+2023,Tenosique,Seca,Abril,Cacao,52
+2023,Tenosique,Seca,Abril,Chile verde,36
+2023,Tenosique,Seca,Abril,Frijol,101
+2023,Tenosique,Seca,Abril,Maíz grano,2770
+2023,Tenosique,Seca,Abril,Mango,60
+2023,Tenosique,Seca,Abril,Sandía,37
+2023,Tenosique,Seca,Abril,Tomate rojo (jitomate),7.5
+2023,Tenosique,Seca,Mayo,Cacao,34.9
+2023,Tenosique,Seca,Mayo,Chile verde,52
+2023,Tenosique,Seca,Mayo,Frijol,101
+2023,Tenosique,Seca,Mayo,Maíz grano,3037
+2023,Tenosique,Seca,Mayo,Mango,60
+2023,Tenosique,Seca,Mayo,Sandía,41
+2023,Tenosique,Seca,Mayo,Tomate rojo (jitomate),7.5
+2023,Tenosique,Temporal,Junio,Cacao,34.9
+2023,Tenosique,Temporal,Junio,Chile verde,52
+2023,Tenosique,Temporal,Junio,Frijol,101
+2023,Tenosique,Temporal,Junio,Maíz grano,3895
+2023,Tenosique,Temporal,Junio,Mango,60
+2023,Tenosique,Temporal,Junio,Sandía,43
+2023,Tenosique,Temporal,Junio,Tomate rojo (jitomate),7.5
+2023,Tenosique,Temporal,Julio,Cacao,34.9
+2023,Tenosique,Temporal,Julio,Chile verde,52
+2023,Tenosique,Temporal,Julio,Frijol,101
+2023,Tenosique,Temporal,Julio,Maíz grano,5387
+2023,Tenosique,Temporal,Julio,Mango,60
+2023,Tenosique,Temporal,Julio,Sandía,46
+2023,Tenosique,Temporal,Julio,Tomate rojo (jitomate),7.5
+2023,Tenosique,Temporal,Agosto,Cacao,34.9
+2023,Tenosique,Temporal,Agosto,Chile verde,52
+2023,Tenosique,Temporal,Agosto,Frijol,101
+2023,Tenosique,Temporal,Agosto,Maíz grano,6928
+2023,Tenosique,Temporal,Agosto,Mango,60
+2023,Tenosique,Temporal,Agosto,Sandía,46
+2023,Tenosique,Temporal,Agosto,Tomate rojo (jitomate),7.5
+2023,Tenosique,Temporal,Septiembre,Cacao,34.9
+2023,Tenosique,Temporal,Septiembre,Chile verde,52
+2023,Tenosique,Temporal,Septiembre,Frijol,101
+2023,Tenosique,Temporal,Septiembre,Maíz grano,7053
+2023,Tenosique,Temporal,Septiembre,Mango,60
+2023,Tenosique,Temporal,Septiembre,Sandía,48
+2023,Tenosique,Temporal,Septiembre,Tomate rojo (jitomate),7.5
+2023,Tenosique,Norte,Octubre,Cacao,34.9
+2023,Tenosique,Norte,Octubre,Chile verde,52
+2023,Tenosique,Norte,Octubre,Frijol,101
+2023,Tenosique,Norte,Octubre,Maíz grano,7053
+2023,Tenosique,Norte,Octubre,Mango,60
+2023,Tenosique,Norte,Octubre,Sandía,48
+2023,Tenosique,Norte,Octubre,Tomate rojo (jitomate),7.5
+2023,Tenosique,Norte,Noviembre,Cacao,34.9
+2023,Tenosique,Norte,Noviembre,Chile verde,52
+2023,Tenosique,Norte,Noviembre,Frijol,101
+2023,Tenosique,Norte,Noviembre,Maíz grano,7053
+2023,Tenosique,Norte,Noviembre,Mango,60
+2023,Tenosique,Norte,Noviembre,Sandía,48
+2023,Tenosique,Norte,Noviembre,Tomate rojo (jitomate),7.5
+2023,Tenosique,Norte,Diciembre,Cacao,34.9
+2023,Tenosique,Norte,Diciembre,Chile verde,52
+2023,Tenosique,Norte,Diciembre,Frijol,101
+2023,Tenosique,Norte,Diciembre,Maíz grano,7053
+2023,Tenosique,Norte,Diciembre,Mango,60
+2023,Tenosique,Norte,Diciembre,Sandía,48
+2023,Tenosique,Norte,Diciembre,Tomate rojo (jitomate),7.5
+2024,Jonuta,Norte,Enero,Chile verde,68
+2024,Jonuta,Norte,Enero,Frijol,66
+2024,Jonuta,Norte,Enero,Limón,5
+2024,Jonuta,Norte,Enero,Maíz grano,853
+2024,Jonuta,Norte,Enero,Mango,10
+2024,Jonuta,Norte,Enero,Tomate rojo (jitomate),8
+2024,Jonuta,Norte,Febrero,Chile verde,97
+2024,Jonuta,Norte,Febrero,Frijol,181
+2024,Jonuta,Norte,Febrero,Limón,5
+2024,Jonuta,Norte,Febrero,Maíz grano,2722
+2024,Jonuta,Norte,Febrero,Mango,10
+2024,Jonuta,Norte,Febrero,Tomate rojo (jitomate),12
+2024,Jonuta,Seca,Marzo,Chile verde,118
+2024,Jonuta,Seca,Marzo,Frijol,210
+2024,Jonuta,Seca,Marzo,Limón,5
+2024,Jonuta,Seca,Marzo,Maíz grano,2883
+2024,Jonuta,Seca,Marzo,Mango,10
+2024,Jonuta,Seca,Marzo,Tomate rojo (jitomate),14
+2024,Jonuta,Seca,Abril,Chile verde,118
+2024,Jonuta,Seca,Abril,Frijol,210
+2024,Jonuta,Seca,Abril,Limón,5
+2024,Jonuta,Seca,Abril,Maíz grano,2883
+2024,Jonuta,Seca,Abril,Mango,10
+2024,Jonuta,Seca,Abril,Tomate rojo (jitomate),14
+2024,Jonuta,Seca,Mayo,Chile verde,118
+2024,Jonuta,Seca,Mayo,Frijol,210
+2024,Jonuta,Seca,Mayo,Limón,5
+2024,Jonuta,Seca,Mayo,Maíz grano,2883
+2024,Jonuta,Seca,Mayo,Mango,10
+2024,Jonuta,Seca,Mayo,Tomate rojo (jitomate),14
+2024,Jonuta,Temporal,Junio,Chile verde,145
+2024,Jonuta,Temporal,Junio,Frijol,210
+2024,Jonuta,Temporal,Junio,Limón,5
+2024,Jonuta,Temporal,Junio,Maíz grano,3509
+2024,Jonuta,Temporal,Junio,Mango,10
+2024,Jonuta,Temporal,Junio,Tomate rojo (jitomate),14
+2024,Jonuta,Temporal,Julio,Chile verde,221
+2024,Jonuta,Temporal,Julio,Frijol,210
+2024,Jonuta,Temporal,Julio,Limón,5
+2024,Jonuta,Temporal,Julio,Maíz grano,5538
+2024,Jonuta,Temporal,Julio,Mango,10
+2024,Jonuta,Temporal,Julio,Tomate rojo (jitomate),14
+2024,Jonuta,Temporal,Agosto,Chile verde,292
+2024,Jonuta,Temporal,Agosto,Frijol,210
+2024,Jonuta,Temporal,Agosto,Limón,5
+2024,Jonuta,Temporal,Agosto,Maíz grano,5749
+2024,Jonuta,Temporal,Agosto,Mango,10
+2024,Jonuta,Temporal,Agosto,Tomate rojo (jitomate),14
+2024,Jonuta,Temporal,Septiembre,Chile verde,296
+2024,Jonuta,Temporal,Septiembre,Frijol,210
+2024,Jonuta,Temporal,Septiembre,Limón,5
+2024,Jonuta,Temporal,Septiembre,Maíz grano,5757
+2024,Jonuta,Temporal,Septiembre,Mango,10
+2024,Jonuta,Temporal,Septiembre,Tomate rojo (jitomate),14
+2024,Balancán,Norte,Enero,Chile verde,44
+2024,Balancán,Norte,Enero,Frijol,172
+2024,Balancán,Norte,Enero,Maíz grano,5483
+2024,Balancán,Norte,Enero,Naranja,10
+2024,Balancán,Norte,Enero,Papaya,78
+2024,Balancán,Norte,Enero,Sandía,373
+2024,Balancán,Norte,Enero,Sorgo grano,100
+2024,Balancán,Norte,Enero,Tomate rojo (jitomate),8.5
+2024,Balancán,Norte,Febrero,Chile verde,74
+2024,Balancán,Norte,Febrero,Frijol,410
+2024,Balancán,Norte,Febrero,Maíz grano,8978
+2024,Balancán,Norte,Febrero,Naranja,10
+2024,Balancán,Norte,Febrero,Papaya,78
+2024,Balancán,Norte,Febrero,Sandía,438
+2024,Balancán,Norte,Febrero,Sorgo grano,100
+2024,Balancán,Norte,Febrero,Tomate rojo (jitomate),10
+2024,Balancán,Seca,Marzo,Chile verde,90
+2024,Balancán,Seca,Marzo,Frijol,435
+2024,Balancán,Seca,Marzo,Maíz grano,9086
+2024,Balancán,Seca,Marzo,Naranja,10
+2024,Balancán,Seca,Marzo,Papaya,78
+2024,Balancán,Seca,Marzo,Sandía,454
+2024,Balancán,Seca,Marzo,Sorgo grano,48
+2024,Balancán,Seca,Marzo,Tomate rojo (jitomate),13
+2024,Balancán,Seca,Abril,Chile verde,90
+2024,Balancán,Seca,Abril,Frijol,435
+2024,Balancán,Seca,Abril,Maíz grano,9086
+2024,Balancán,Seca,Abril,Naranja,10
+2024,Balancán,Seca,Abril,Papaya,78
+2024,Balancán,Seca,Abril,Sandía,454
+2024,Balancán,Seca,Abril,Sorgo grano,48
+2024,Balancán,Seca,Abril,Tomate rojo (jitomate),13
+2024,Balancán,Seca,Mayo,Chile verde,90
+2024,Balancán,Seca,Mayo,Frijol,435
+2024,Balancán,Seca,Mayo,Maíz grano,9138
+2024,Balancán,Seca,Mayo,Naranja,10
+2024,Balancán,Seca,Mayo,Papaya,78
+2024,Balancán,Seca,Mayo,Sandía,454
+2024,Balancán,Seca,Mayo,Sorgo grano,48
+2024,Balancán,Seca,Mayo,Tomate rojo (jitomate),13
+2024,Balancán,Temporal,Junio,Chile verde,119
+2024,Balancán,Temporal,Junio,Frijol,435
+2024,Balancán,Temporal,Junio,Maíz grano,13045
+2024,Balancán,Temporal,Junio,Naranja,10
+2024,Balancán,Temporal,Junio,Papaya,78
+2024,Balancán,Temporal,Junio,Sandía,520
+2024,Balancán,Temporal,Junio,Sorgo grano,48
+2024,Balancán,Temporal,Junio,Tomate rojo (jitomate),19
+2024,Balancán,Temporal,Julio,Chile verde,124.5
+2024,Balancán,Temporal,Julio,Frijol,435
+2024,Balancán,Temporal,Julio,Maíz grano,18322
+2024,Balancán,Temporal,Julio,Naranja,10
+2024,Balancán,Temporal,Julio,Papaya,78
+2024,Balancán,Temporal,Julio,Sandía,602
+2024,Balancán,Temporal,Julio,Sorgo grano,48
+2024,Balancán,Temporal,Julio,Tomate rojo (jitomate),21.5
+2024,Balancán,Temporal,Agosto,Chile verde,124.5
+2024,Balancán,Temporal,Agosto,Frijol,435
+2024,Balancán,Temporal,Agosto,Maíz grano,20547
+2024,Balancán,Temporal,Agosto,Naranja,10
+2024,Balancán,Temporal,Agosto,Papaya,78
+2024,Balancán,Temporal,Agosto,Sandía,637
+2024,Balancán,Temporal,Agosto,Sorgo grano,48
+2024,Balancán,Temporal,Agosto,Tomate rojo (jitomate),22.5
+2024,Balancán,Temporal,Septiembre,Chile verde,124.5
+2024,Balancán,Temporal,Septiembre,Frijol,435
+2024,Balancán,Temporal,Septiembre,Maíz grano,20714
+2024,Balancán,Temporal,Septiembre,Naranja,10
+2024,Balancán,Temporal,Septiembre,Papaya,78
+2024,Balancán,Temporal,Septiembre,Sandía,656
+2024,Balancán,Temporal,Septiembre,Sorgo grano,48
+2024,Balancán,Temporal,Septiembre,Tomate rojo (jitomate),22.5
+2024,Emiliano Zapata,Norte,Enero,Chile verde,34.5
+2024,Emiliano Zapata,Norte,Enero,Frijol,101
+2024,Emiliano Zapata,Norte,Enero,Limón,12
+2024,Emiliano Zapata,Norte,Enero,Maíz grano,943
+2024,Emiliano Zapata,Norte,Enero,Naranja,8
+2024,Emiliano Zapata,Norte,Enero,Sandía,24
+2024,Emiliano Zapata,Norte,Enero,Tomate rojo (jitomate),6
+2024,Emiliano Zapata,Norte,Febrero,Chile verde,47.5
+2024,Emiliano Zapata,Norte,Febrero,Frijol,139
+2024,Emiliano Zapata,Norte,Febrero,Limón,12
+2024,Emiliano Zapata,Norte,Febrero,Maíz grano,1502
+2024,Emiliano Zapata,Norte,Febrero,Naranja,8
+2024,Emiliano Zapata,Norte,Febrero,Sandía,29
+2024,Emiliano Zapata,Norte,Febrero,Tomate rojo (jitomate),6
+2024,Emiliano Zapata,Seca,Marzo,Chile verde,52.5
+2024,Emiliano Zapata,Seca,Marzo,Frijol,153
+2024,Emiliano Zapata,Seca,Marzo,Limón,12
+2024,Emiliano Zapata,Seca,Marzo,Maíz grano,1557
+2024,Emiliano Zapata,Seca,Marzo,Naranja,8
+2024,Emiliano Zapata,Seca,Marzo,Sandía,37
+2024,Emiliano Zapata,Seca,Marzo,Sorgo grano,0
+2024,Emiliano Zapata,Seca,Marzo,Tomate rojo (jitomate),6
+2024,Emiliano Zapata,Seca,Abril,Chile verde,52.5
+2024,Emiliano Zapata,Seca,Abril,Frijol,153
+2024,Emiliano Zapata,Seca,Abril,Limón,12
+2024,Emiliano Zapata,Seca,Abril,Maíz grano,1557
+2024,Emiliano Zapata,Seca,Abril,Naranja,8
+2024,Emiliano Zapata,Seca,Abril,Sandía,37
+2024,Emiliano Zapata,Seca,Abril,Sorgo grano,0
+2024,Emiliano Zapata,Seca,Abril,Tomate rojo (jitomate),6
+2024,Emiliano Zapata,Seca,Mayo,Arroz palay,603
+2024,Emiliano Zapata,Seca,Mayo,Chile verde,52.5
+2024,Emiliano Zapata,Seca,Mayo,Frijol,153
+2024,Emiliano Zapata,Seca,Mayo,Limón,12
+2024,Emiliano Zapata,Seca,Mayo,Maíz grano,1596
+2024,Emiliano Zapata,Seca,Mayo,Naranja,8
+2024,Emiliano Zapata,Seca,Mayo,Sandía,48
+2024,Emiliano Zapata,Seca,Mayo,Sorgo grano,0
+2024,Emiliano Zapata,Seca,Mayo,Tomate rojo (jitomate),6
+2024,Emiliano Zapata,Temporal,Junio,Arroz palay,603
+2024,Emiliano Zapata,Temporal,Junio,Chile verde,61.5
+2024,Emiliano Zapata,Temporal,Junio,Frijol,153
+2024,Emiliano Zapata,Temporal,Junio,Limón,12
+2024,Emiliano Zapata,Temporal,Junio,Maíz grano,1928
+2024,Emiliano Zapata,Temporal,Junio,Naranja,8
+2024,Emiliano Zapata,Temporal,Junio,Sandía,55
+2024,Emiliano Zapata,Temporal,Junio,Sorgo grano,0
+2024,Emiliano Zapata,Temporal,Junio,Tomate rojo (jitomate),6
+2024,Emiliano Zapata,Temporal,Julio,Arroz palay,603
+2024,Emiliano Zapata,Temporal,Julio,Chile verde,61.5
+2024,Emiliano Zapata,Temporal,Julio,Frijol,153
+2024,Emiliano Zapata,Temporal,Julio,Limón,12
+2024,Emiliano Zapata,Temporal,Julio,Maíz grano,2621
+2024,Emiliano Zapata,Temporal,Julio,Naranja,8
+2024,Emiliano Zapata,Temporal,Julio,Sandía,133
+2024,Emiliano Zapata,Temporal,Julio,Sorgo grano,0
+2024,Emiliano Zapata,Temporal,Julio,Tomate rojo (jitomate),0
+2024,Emiliano Zapata,Temporal,Agosto,Arroz palay,603
+2024,Emiliano Zapata,Temporal,Agosto,Chile verde,61.5
+2024,Emiliano Zapata,Temporal,Agosto,Frijol,153
+2024,Emiliano Zapata,Temporal,Agosto,Limón,12
+2024,Emiliano Zapata,Temporal,Agosto,Maíz grano,2684
+2024,Emiliano Zapata,Temporal,Agosto,Naranja,8
+2024,Emiliano Zapata,Temporal,Agosto,Sandía,150
+2024,Emiliano Zapata,Temporal,Agosto,Sorgo grano,0
+2024,Emiliano Zapata,Temporal,Agosto,Tomate rojo (jitomate),6
+2024,Emiliano Zapata,Temporal,Septiembre,Arroz palay,603
+2024,Emiliano Zapata,Temporal,Septiembre,Chile verde,62.5
+2024,Emiliano Zapata,Temporal,Septiembre,Frijol,153
+2024,Emiliano Zapata,Temporal,Septiembre,Limón,12
+2024,Emiliano Zapata,Temporal,Septiembre,Maíz grano,2713
+2024,Emiliano Zapata,Temporal,Septiembre,Naranja,8
+2024,Emiliano Zapata,Temporal,Septiembre,Sandía,150
+2024,Emiliano Zapata,Temporal,Septiembre,Sorgo grano,0
+2024,Emiliano Zapata,Temporal,Septiembre,Tomate rojo (jitomate),6
+2024,Tenosique,Norte,Enero,Cacao,34.9
+2024,Tenosique,Norte,Enero,Chile verde,30
+2024,Tenosique,Norte,Enero,Frijol,82
+2024,Tenosique,Norte,Enero,Maíz grano,1635
+2024,Tenosique,Norte,Enero,Mango,60
+2024,Tenosique,Norte,Enero,Sandía,19
+2024,Tenosique,Norte,Enero,Sorgo grano,0
+2024,Tenosique,Norte,Enero,Tomate rojo (jitomate),4
+2024,Tenosique,Norte,Febrero,Cacao,34.9
+2024,Tenosique,Norte,Febrero,Chile verde,38
+2024,Tenosique,Norte,Febrero,Frijol,89
+2024,Tenosique,Norte,Febrero,Maíz grano,2449
+2024,Tenosique,Norte,Febrero,Mango,60
+2024,Tenosique,Norte,Febrero,Sandía,27
+2024,Tenosique,Norte,Febrero,Sorgo grano,0
+2024,Tenosique,Norte,Febrero,Tomate rojo (jitomate),7.5
+2024,Tenosique,Seca,Marzo,Cacao,34.9
+2024,Tenosique,Seca,Marzo,Chile verde,47
+2024,Tenosique,Seca,Marzo,Frijol,100
+2024,Tenosique,Seca,Marzo,Maíz grano,2760
+2024,Tenosique,Seca,Marzo,Mango,60
+2024,Tenosique,Seca,Marzo,Sandía,38
+2024,Tenosique,Seca,Marzo,Sorgo grano,0
+2024,Tenosique,Seca,Marzo,Tomate rojo (jitomate),8
+2024,Tenosique,Seca,Abril,Cacao,34.9
+2024,Tenosique,Seca,Abril,Chile verde,47
+2024,Tenosique,Seca,Abril,Frijol,100
+2024,Tenosique,Seca,Abril,Maíz grano,2760
+2024,Tenosique,Seca,Abril,Mango,60
+2024,Tenosique,Seca,Abril,Sandía,38
+2024,Tenosique,Seca,Abril,Tomate rojo (jitomate),8
+2024,Tenosique,Seca,Mayo,Cacao,34.9
+2024,Tenosique,Seca,Mayo,Chile verde,47
+2024,Tenosique,Seca,Mayo,Frijol,100
+2024,Tenosique,Seca,Mayo,Maíz grano,3023
+2024,Tenosique,Seca,Mayo,Mango,60
+2024,Tenosique,Seca,Mayo,Sandía,44
+2024,Tenosique,Seca,Mayo,Tomate rojo (jitomate),8
+2024,Tenosique,Temporal,Junio,Cacao,34.9
+2024,Tenosique,Temporal,Junio,Chile verde,47
+2024,Tenosique,Temporal,Junio,Frijol,100
+2024,Tenosique,Temporal,Junio,Maíz grano,3897
+2024,Tenosique,Temporal,Junio,Mango,60
+2024,Tenosique,Temporal,Junio,Sandía,47
+2024,Tenosique,Temporal,Junio,Tomate rojo (jitomate),8
+2024,Tenosique,Temporal,Julio,Cacao,34.9
+2024,Tenosique,Temporal,Julio,Chile verde,47
+2024,Tenosique,Temporal,Julio,Frijol,100
+2024,Tenosique,Temporal,Julio,Maíz grano,5391
+2024,Tenosique,Temporal,Julio,Mango,60
+2024,Tenosique,Temporal,Julio,Sandía,48.5
+2024,Tenosique,Temporal,Julio,Tomate rojo (jitomate),8
+2024,Tenosique,Temporal,Agosto,Cacao,34.9
+2024,Tenosique,Temporal,Agosto,Chile verde,47
+2024,Tenosique,Temporal,Agosto,Frijol,100
+2024,Tenosique,Temporal,Agosto,Maíz grano,6954
+2024,Tenosique,Temporal,Agosto,Mango,60
+2024,Tenosique,Temporal,Agosto,Sandía,48.5
+2024,Tenosique,Temporal,Agosto,Tomate rojo (jitomate),8
+2024,Tenosique,Temporal,Septiembre,Cacao,34.9
+2024,Tenosique,Temporal,Septiembre,Chile verde,47
+2024,Tenosique,Temporal,Septiembre,Frijol,100
+2024,Tenosique,Temporal,Septiembre,Maíz grano,7057
+2024,Tenosique,Temporal,Septiembre,Mango,60
+2024,Tenosique,Temporal,Septiembre,Sandía,48.5
+2024,Tenosique,Temporal,Septiembre,Tomate rojo (jitomate),8

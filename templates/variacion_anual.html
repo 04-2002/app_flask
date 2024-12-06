@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Generador de Gráfico de Cultivos</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/estilos.css') }}" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/nouislider@15.6.0/dist/nouislider.min.css" />
+</head>
+<body>
+    <header>
+        <h1>Generador de Gráfico de Cultivos</h1>
+        <div class="selector-superior">
+            <form id="formulario-selector-pagina" method="GET" action="{{ url_for('index') }}">
+                <select id="selector-pagina" name="selector-pagina" onchange="window.location.href=this.value;">
+                    <option value="{{ url_for('index') }}" {% if request.endpoint == 'index' %} selected {% endif %}>Anuario estadístico</option>
+                    <option value="{{ url_for('variacion_anual') }}" {% if request.endpoint == 'variacion_anual' %} selected {% endif %}>Variación de cultivos</option>
+                    <option value="{{ url_for('temporadas_mensual') }}" {% if request.endpoint == 'temporadas_mensual' %} selected {% endif %}>Temporadas Anuales</option>
+                </select>
+            </form>
+        </div>
+    </header>
+
+    <div class="contenedor-principal">
+        <div class="contenedor-contenido">
+            <div class="contenedor-filtros">
+                <h2>Filtros de Selección</h2>
+                <div class="contenedor-selectores">
+                    <form id="formulario-filtros">
+                        <label for="años">Rango de Año:</label>
+                        <div id="contenedor-slider">
+                            <div id="slider"></div>
+                            <p id="rango-años">Años: <span id="año-minimo"></span> - <span id="año-maximo"></span></p>
+                        </div>
+
+                        <label for="municipio">Municipio:</label>
+                        <select id="municipio" name="municipio">
+                            <option value="">Todos</option>
+                            {% for municipio in municipios %}
+                            <option value="{{ municipio }}">{{ municipio }}</option>
+                            {% endfor %}
+                        </select>
+
+                        <label for="ciclo-productivo">Ciclo Productivo:</label>
+                        <select id="ciclo-productivo" name="ciclo-productivo">
+                            {% for ciclo in ciclos_productivos %}
+                            <option value="{{ ciclo }}">{{ ciclo }}</option>
+                            {% endfor %}
+                        </select>
+
+                        <label for="modalidad">Modalidad:</label>
+                        <select id="modalidad" name="modalidad">
+                            <option value="Riego + Temporal">Riego + Temporal</option>
+                            {% for modalidad in modalidades %}
+                            <option value="{{ modalidad }}">{{ modalidad }}</option>
+                            {% endfor %}
+                        </select>
+
+                        <label for="cultivo">Cultivo:</label>
+                        <select id="cultivo" name="cultivo">
+                            <option value="">Resumen cultivos</option>
+                            {% for cultivo in cultivos %}
+                            <option value="{{ cultivo }}">{{ cultivo }}</option>
+                            {% endfor %}
+                        </select>
+                    </form>
+                </div>
+
+                <div class="contenedor-boton">
+                    <button type="button" id="boton-generar-grafico">Generar Gráfico</button>
+                </div>
+                <div id="mensaje-error" style="display: none; color: red"></div>
+            </div>
+
+            <div class="contenedor-grafico">
+                <h2>Gráfico de Cultivos</h2>
+                <div id="spinner-cargando" class="spinner-cargando"></div>
+                <div id="contenedor-grafico"></div>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/nouislider@15.6.0/dist/nouislider.min.js"></script>
+    <script>
+      $(document).ready(function() {
+    $('#boton-generar-grafico').click(function(event) {
+        event.preventDefault();
+        generarGraficoLineal();
+    });
+
+    var años = {{ años | tojson }};
+    var minYear = Math.min(...años);
+    var maxYear = Math.max(...años);
+
+    var slider = document.getElementById('slider');
+    noUiSlider.create(slider, {
+        start: [minYear, maxYear],
+        connect: true,
+        range: {
+            'min': minYear,
+            'max': maxYear
+        },
+        step: 1,
+        format: {
+            to: function(value) {
+                return Math.round(value);
+            },
+            from: function(value) {
+                return Math.round(value);
+            }
+        }
+    });
+
+    slider.noUiSlider.on('update', function(values, handle) {
+        var minValue = values[0];
+        var maxValue = values[1];
+        $('#año-minimo').text(minValue);
+        $('#año-maximo').text(maxValue);
+    });
+});
+
+function generarGraficoLineal() {
+    var añoMin = $('#año-minimo').text();
+    var añoMax = $('#año-maximo').text();
+    var municipio = $('#municipio').val();
+    var ciclo_productivo = $('#ciclo-productivo').val();
+    var modalidad = $('#modalidad').val();
+    var cultivo = $('#cultivo').val();
+
+    $('#spinner-cargando').show();
+    $('#contenedor-grafico').empty();
+
+    $.get('/obtener_lineal_anual', {
+        año_min: añoMin,
+        año_max: añoMax,
+        municipio: municipio,
+        ciclo_productivo: ciclo_productivo,
+        modalidad: modalidad,
+        cultivo: cultivo
+    }, function(data) {
+        $('#spinner-cargando').hide();
+        if (data.success) {
+            $('#contenedor-grafico').html(data.graph_html);
+
+            // Asegúrate de redibujar el gráfico inmediatamente después de cargar
+            var graphElement = document.getElementById('contenedor-grafico').querySelector('.js-plotly-plot');
+            if (graphElement) {
+                Plotly.Plots.resize(graphElement); // Redibujar el gráfico en su contenedor
+            }
+
+            // Redibujar el gráfico también cuando se redimensione la ventana
+            window.onresize = function() {
+                var graphElement = document.getElementById('contenedor-grafico').querySelector('.js-plotly-plot');
+                if (graphElement) {
+                    Plotly.Plots.resize(graphElement);  // Redibujar el gráfico cuando el contenedor cambie
+                }
+            };
+        } else {
+            $('#contenedor-grafico').html('<p>Error al cargar el gráfico.</p>');
+        }
+    }).fail(function() {
+        $('#spinner-cargando').hide();
+        $('#contenedor-grafico').html('<p>Error al cargar el gráfico.</p>');
+    });
+}
+
+
+  </script>
+  
+  
+</body>
+</html>

@@ -1,0 +1,589 @@
+Anio,Nomestado,Nomddr,Nomcader,Nommunicipio,Nomcicloproductivo,Nommodalidad,Nomunidad,Idcultivo,Nomcultivo,Sembrada,Cosechada,Siniestrada,Volumenproduccion,Rendimiento,Precio,Valorproduccion
+2017,Tabasco,Emiliano Zapata,Jonuta,Jonuta,Otoño-Invierno,Riego,Tonelada,5410000,Arroz palay,252.00,252.00,0.00,1512,6,3950,5972400
+2017,Tabasco,Emiliano Zapata,Jonuta,Jonuta,Otoño-Invierno,Temporal,Tonelada,5770000,Calabaza semilla o chihua,300.00,300.00,0.00,132.5,0.44,30000,3975000
+2017,Tabasco,Emiliano Zapata,Jonuta,Jonuta,Otoño-Invierno,Temporal,Tonelada,6110000,Chile seco,100.00,100.00,0.00,47.8,0.48,128000,6118400
+2017,Tabasco,Emiliano Zapata,Jonuta,Jonuta,Otoño-Invierno,Temporal,Tonelada,6840000,Frijol,50.00,50.00,0.00,26,0.52,15800,410800
+2017,Tabasco,Emiliano Zapata,Jonuta,Jonuta,Otoño-Invierno,Temporal,Tonelada,7490000,Maíz grano,2500.00,2000.00,500.00,3160,1.58,3860,12197600
+2017,Tabasco,Emiliano Zapata,Jonuta,Jonuta,Otoño-Invierno,Temporal,Tonelada,8810000,Sorgo grano,350.00,350.00,0.00,1050,3,3180,3339000
+2017,Tabasco,Emiliano Zapata,Jonuta,Jonuta,Otoño-Invierno,Temporal,Tonelada,8970000,Tomate rojo (jitomate),12.00,12.00,0.00,103.2,8.6,4600,474720
+2017,Tabasco,Emiliano Zapata,Jonuta,Jonuta,Primavera-Verano,Riego,Tonelada,5410000,Arroz palay,250.00,250.00,0.00,2090,8.36,3700,7733000
+2017,Tabasco,Emiliano Zapata,Jonuta,Jonuta,Primavera-Verano,Temporal,Tonelada,5770000,Calabaza semilla o chihua,300.00,300.00,0.00,165,0.55,32000,5280000
+2017,Tabasco,Emiliano Zapata,Jonuta,Jonuta,Primavera-Verano,Temporal,Tonelada,6110000,Chile seco,150.00,150.00,0.00,72,0.48,110000,7920000
+2017,Tabasco,Emiliano Zapata,Jonuta,Jonuta,Primavera-Verano,Temporal,Tonelada,7490000,Maíz grano,2106.00,2106.00,0.00,3706.56,1.76,3945.46,14624084.22
+2017,Tabasco,Emiliano Zapata,Jonuta,Jonuta,Primavera-Verano,Temporal,Tonelada,8810000,Sorgo grano,300.00,0.00,300.00,0,0,0,0
+2017,Tabasco,Emiliano Zapata,Jonuta,Jonuta,Perennes,Temporal,Tonelada,7050000,Guanábana,6.00,6.00,0.00,31.8,5.3,10853.56,345143.21
+2017,Tabasco,Emiliano Zapata,Jonuta,Jonuta,Perennes,Temporal,Tonelada,7390000,Limón,5.00,0.00,0.00,0,0,0,0
+2017,Tabasco,Emiliano Zapata,Jonuta,Jonuta,Perennes,Temporal,Tonelada,7560000,Mango,10.00,0.00,0.00,0,0,0,0
+2017,Tabasco,Emiliano Zapata,Jonuta,Jonuta,Perennes,Temporal,Tonelada,9290000,Zapote,4.00,4.00,0.00,15.8,3.95,8680.07,137145.11
+2017,Tabasco,Emiliano Zapata,Emiliano Zapata,Emiliano Zapata,Otoño-Invierno,Riego,Tonelada,6120000,Chile verde,4.50,4.50,0.00,125.8,27.96,12373.77,1556620.16
+2017,Tabasco,Emiliano Zapata,Emiliano Zapata,Emiliano Zapata,Otoño-Invierno,Riego,Tonelada,8710000,Sandía,5.00,5.00,0.00,240,48,3402.08,816499.2
+2017,Tabasco,Emiliano Zapata,Emiliano Zapata,Emiliano Zapata,Otoño-Invierno,Riego,Tonelada,8970000,Tomate rojo (jitomate),3.00,3.00,0.00,180,60,5000,900000
+2017,Tabasco,Emiliano Zapata,Emiliano Zapata,Emiliano Zapata,Otoño-Invierno,Temporal,Tonelada,5770000,Calabaza semilla o chihua,28.00,28.00,0.00,14,0.5,29445.71,412239.94
+2017,Tabasco,Emiliano Zapata,Emiliano Zapata,Emiliano Zapata,Otoño-Invierno,Temporal,Tonelada,6110000,Chile seco,30.00,30.00,0.00,13.8,0.46,128000,1766400
+2017,Tabasco,Emiliano Zapata,Emiliano Zapata,Emiliano Zapata,Otoño-Invierno,Temporal,Tonelada,6120000,Chile verde,2.75,2.75,0.00,25.85,9.4,13000,336050
+2017,Tabasco,Emiliano Zapata,Emiliano Zapata,Emiliano Zapata,Otoño-Invierno,Temporal,Tonelada,6840000,Frijol,148.00,148.00,0.00,96.2,0.65,15800,1519960
+2017,Tabasco,Emiliano Zapata,Emiliano Zapata,Emiliano Zapata,Otoño-Invierno,Temporal,Tonelada,7490000,Maíz grano,1130.00,438.00,692.00,717.8,1.64,3885.51,2789019.08
+2017,Tabasco,Emiliano Zapata,Emiliano Zapata,Emiliano Zapata,Otoño-Invierno,Temporal,Tonelada,8710000,Sandía,17.00,10.00,7.00,150,15,3500,525000
+2017,Tabasco,Emiliano Zapata,Emiliano Zapata,Emiliano Zapata,Otoño-Invierno,Temporal,Tonelada,8810000,Sorgo grano,385.00,360.00,25.00,1386,3.85,3112.34,4313703.24
+2017,Tabasco,Emiliano Zapata,Emiliano Zapata,Emiliano Zapata,Otoño-Invierno,Temporal,Tonelada,8970000,Tomate rojo (jitomate),1.00,1.00,0.00,9.75,9.75,4800,46800
+2017,Tabasco,Emiliano Zapata,Emiliano Zapata,Emiliano Zapata,Primavera-Verano,Riego,Tonelada,5410000,Arroz palay,911.00,911.00,0.00,7606.85,8.35,3700,28145345
+2017,Tabasco,Emiliano Zapata,Emiliano Zapata,Emiliano Zapata,Primavera-Verano,Temporal,Tonelada,6120000,Chile verde,1.75,1.75,0.00,14.44,8.25,17150,247646
+2017,Tabasco,Emiliano Zapata,Emiliano Zapata,Emiliano Zapata,Primavera-Verano,Temporal,Tonelada,7490000,Maíz grano,1045.00,898.00,147.00,2074.38,2.31,3944.62,8182640.84
+2017,Tabasco,Emiliano Zapata,Emiliano Zapata,Emiliano Zapata,Primavera-Verano,Temporal,Tonelada,8710000,Sandía,148.00,114.00,34.00,1824,16,2857.46,5212007.04
+2017,Tabasco,Emiliano Zapata,Emiliano Zapata,Emiliano Zapata,Primavera-Verano,Temporal,Tonelada,8810000,Sorgo grano,298.00,163.00,135.00,611.25,3.75,3400,2078250
+2017,Tabasco,Emiliano Zapata,Emiliano Zapata,Emiliano Zapata,Perennes,Temporal,Tonelada,7390000,Limón,8.00,7.00,0.00,58,8.29,2772.25,160790.5
+2017,Tabasco,Emiliano Zapata,Emiliano Zapata,Emiliano Zapata,Perennes,Temporal,Tonelada,7850000,Naranja,6.00,5.00,0.00,87.5,17.5,2265.84,198261
+2017,Tabasco,Emiliano Zapata,Emiliano Zapata,Emiliano Zapata,Perennes,Temporal,Tonelada,8030000,Palma africana o de aceite,4475.00,2077.00,0.00,29100,14.01,1499.67,43640397
+2017,Tabasco,Emiliano Zapata,Tenosique,Tenosique,Otoño-Invierno,Temporal,Tonelada,6120000,Chile verde,5.00,5.00,0.00,40,8,12000,480000
+2017,Tabasco,Emiliano Zapata,Tenosique,Tenosique,Otoño-Invierno,Temporal,Tonelada,6840000,Frijol,34.00,34.00,0.00,19,0.56,15800,300200
+2017,Tabasco,Emiliano Zapata,Tenosique,Tenosique,Otoño-Invierno,Temporal,Tonelada,7490000,Maíz grano,1591.00,1591.00,0.00,2807.6,1.76,3894.22,10933412.07
+2017,Tabasco,Emiliano Zapata,Tenosique,Tenosique,Otoño-Invierno,Temporal,Tonelada,8710000,Sandía,13.00,13.00,0.00,195,15,3650,711750
+2017,Tabasco,Emiliano Zapata,Tenosique,Tenosique,Otoño-Invierno,Temporal,Tonelada,8810000,Sorgo grano,493.00,493.00,0.00,1507,3.06,3128.55,4714724.85
+2017,Tabasco,Emiliano Zapata,Tenosique,Tenosique,Otoño-Invierno,Temporal,Tonelada,8970000,Tomate rojo (jitomate),1.00,1.00,0.00,10,10,4600,46000
+2017,Tabasco,Emiliano Zapata,Tenosique,Tenosique,Primavera-Verano,Temporal,Tonelada,7490000,Maíz grano,2002.00,2002.00,0.00,3483.48,1.74,3950,13759746
+2017,Tabasco,Emiliano Zapata,Tenosique,Tenosique,Perennes,Temporal,Tonelada,5820000,Caña de azúcar,3358.00,3358.00,0.00,181332,54,585.17,106110046.4
+2017,Tabasco,Emiliano Zapata,Tenosique,Tenosique,Perennes,Temporal,Tonelada,5830000,Semilla de caña de azúcar,175.00,175.00,0.00,9100,52,600,5460000
+2017,Tabasco,Emiliano Zapata,Tenosique,Tenosique,Perennes,Temporal,Tonelada,7560000,Mango,65.00,65.00,0.00,430.3,6.62,2779.77,1196135.05
+2017,Tabasco,Emiliano Zapata,Tenosique,Tenosique,Perennes,Temporal,Tonelada,8030000,Palma africana o de aceite,2386.00,2220.00,0.00,17893.43,8.06,1495.17,26753719.73
+2017,Tabasco,Emiliano Zapata,Tenosique,Tenosique,Perennes,Temporal,Tonelada,8340000,Pitahaya,16.00,16.00,0.00,112,7,11620,1301440
+2017,Tabasco,Emiliano Zapata,Tenosique,Tenosique,Perennes,Temporal,Tonelada,9290000,Zapote,22.00,22.00,0.00,88,4,11000,968000
+2017,Tabasco,Emiliano Zapata,Balancán,Balancán,Otoño-Invierno,Temporal,Tonelada,6120000,Chile verde,23.00,23.00,0.00,238.16,10.35,10542.95,2510908.05
+2017,Tabasco,Emiliano Zapata,Balancán,Balancán,Otoño-Invierno,Temporal,Tonelada,6840000,Frijol,251.00,251.00,0.00,140.56,0.56,15800,2220848
+2017,Tabasco,Emiliano Zapata,Balancán,Balancán,Otoño-Invierno,Temporal,Tonelada,7490000,Maíz grano,3014.00,3014.00,0.00,6632.6,2.2,3824.97,25369496.02
+2017,Tabasco,Emiliano Zapata,Balancán,Balancán,Otoño-Invierno,Temporal,Tonelada,8710000,Sandía,473.00,473.00,0.00,7473,15.8,3307.37,24715976.01
+2017,Tabasco,Emiliano Zapata,Balancán,Balancán,Otoño-Invierno,Temporal,Tonelada,8810000,Sorgo grano,3950.00,3950.00,0.00,11235,2.84,3108.8,34927368
+2017,Tabasco,Emiliano Zapata,Balancán,Balancán,Otoño-Invierno,Temporal,Tonelada,8970000,Tomate rojo (jitomate),9.00,9.00,0.00,112,12.44,4550,509600
+2017,Tabasco,Emiliano Zapata,Balancán,Balancán,Primavera-Verano,Temporal,Tonelada,5770000,Calabaza semilla o chihua,119.00,109.00,10.00,56.68,0.52,30434.02,1725000.25
+2017,Tabasco,Emiliano Zapata,Balancán,Balancán,Primavera-Verano,Temporal,Tonelada,6120000,Chile verde,19.00,19.00,0.00,246.75,12.99,12164.23,3001524.36
+2017,Tabasco,Emiliano Zapata,Balancán,Balancán,Primavera-Verano,Temporal,Tonelada,7490000,Maíz grano,4510.00,4200.00,310.00,11760,2.8,3941.43,46351216.8
+2017,Tabasco,Emiliano Zapata,Balancán,Balancán,Primavera-Verano,Temporal,Tonelada,8710000,Sandía,200.00,200.00,0.00,3684,18.42,2854.1,10514504.4
+2017,Tabasco,Emiliano Zapata,Balancán,Balancán,Primavera-Verano,Temporal,Tonelada,8810000,Sorgo grano,2538.00,2538.00,0.00,9695.16,3.82,3413.33,33092780.48
+2017,Tabasco,Emiliano Zapata,Balancán,Balancán,Primavera-Verano,Temporal,Tonelada,8970000,Tomate rojo (jitomate),6.50,6.50,0.00,79.3,12.2,4220,334646
+2017,Tabasco,Emiliano Zapata,Balancán,Balancán,Perennes,Riego,Tonelada,8130000,Papaya,91.00,35.00,0.00,3780,108,3505.23,13249769.4
+2017,Tabasco,Emiliano Zapata,Balancán,Balancán,Perennes,Temporal,Tonelada,5020000,Achiote,46.00,44.00,0.00,29.92,0.68,6615,197920.8
+2017,Tabasco,Emiliano Zapata,Balancán,Balancán,Perennes,Temporal,Tonelada,5820000,Caña de azúcar,55.00,55.00,0.00,2970,54,585.17,1737954.9
+2017,Tabasco,Emiliano Zapata,Balancán,Balancán,Perennes,Temporal,Tonelada,8030000,Palma africana o de aceite,4850.00,3800.00,0.00,48070.23,12.65,1558.08,74897263.96
+2017,Tabasco,Emiliano Zapata,Villa Quetzalcóatl,Balancán,Otoño-Invierno,Temporal,Tonelada,5770000,Calabaza semilla o chihua,400.00,160.00,240.00,67.2,0.42,30000,2016000
+2017,Tabasco,Emiliano Zapata,Villa Quetzalcóatl,Balancán,Otoño-Invierno,Temporal,Tonelada,6110000,Chile seco,2.00,2.00,0.00,0.8,0.4,152000,121600
+2017,Tabasco,Emiliano Zapata,Villa Quetzalcóatl,Balancán,Otoño-Invierno,Temporal,Tonelada,6840000,Frijol,80.00,70.00,10.00,35,0.5,15800,553000
+2017,Tabasco,Emiliano Zapata,Villa Quetzalcóatl,Balancán,Otoño-Invierno,Temporal,Tonelada,7490000,Maíz grano,3000.00,1532.00,1468.00,3055.44,1.99,3841.18,11736495.02
+2017,Tabasco,Emiliano Zapata,Villa Quetzalcóatl,Balancán,Primavera-Verano,Temporal,Tonelada,5770000,Calabaza semilla o chihua,2055.00,2055.00,0.00,986.4,0.48,30921.33,30500799.91
+2017,Tabasco,Emiliano Zapata,Villa Quetzalcóatl,Balancán,Primavera-Verano,Temporal,Tonelada,7490000,Maíz grano,4180.00,4180.00,0.00,7398.6,1.77,3950,29224470
+2017,Tabasco,Emiliano Zapata,Villa Quetzalcóatl,Balancán,Perennes,Riego,Tonelada,8130000,Papaya,20.00,20.00,0.00,2148,107.4,3584.18,7698818.64
+2017,Tabasco,Emiliano Zapata,Villa Quetzalcóatl,Balancán,Perennes,Temporal,Tonelada,7850000,Naranja,10.00,10.00,0.00,148.33,14.83,2207.52,327441.44
+2017,Tabasco,Emiliano Zapata,Villa Quetzalcóatl,Balancán,Perennes,Temporal,Tonelada,8030000,Palma africana o de aceite,191.00,190.00,0.00,2272.14,11.96,1526.39,3468171.77
+2017,Tabasco,Emiliano Zapata,Villa Quetzalcóatl,Balancán,Perennes,Temporal,Tonelada,8130000,Papaya,62.00,52.00,0.00,3497.1,67.25,3464.52,12115772.89
+2017,Tabasco,Emiliano Zapata,Sur 18,Balancán,Otoño-Invierno,Temporal,Tonelada,5770000,Calabaza semilla o chihua,1108.00,577.00,531.00,242.34,0.42,30000,7270200
+2017,Tabasco,Emiliano Zapata,Sur 18,Balancán,Otoño-Invierno,Temporal,Tonelada,6110000,Chile seco,40.00,40.00,0.00,18,0.45,152918.75,2752537.5
+2017,Tabasco,Emiliano Zapata,Sur 18,Balancán,Otoño-Invierno,Temporal,Tonelada,6840000,Frijol,103.00,48.00,55.00,24,0.5,16000,384000
+2017,Tabasco,Emiliano Zapata,Sur 18,Balancán,Otoño-Invierno,Temporal,Tonelada,7490000,Maíz grano,1192.00,380.00,812.00,636.4,1.67,3883.03,2471160.29
+2017,Tabasco,Emiliano Zapata,Sur 18,Balancán,Primavera-Verano,Temporal,Tonelada,5770000,Calabaza semilla o chihua,2148.00,2148.00,0.00,1096,0.51,32000,35072000
+2017,Tabasco,Emiliano Zapata,Sur 18,Balancán,Primavera-Verano,Temporal,Tonelada,7490000,Maíz grano,1577.00,1577.00,0.00,2538.97,1.61,3948.98,10026341.75
+2017,Tabasco,Emiliano Zapata,Sur 18,Balancán,Perennes,Temporal,Tonelada,8030000,Palma africana o de aceite,619.00,413.00,0.00,6835.15,16.55,1488.04,10170976.61
+2017,Tabasco,Emiliano Zapata,Sur 18,Tenosique,Otoño-Invierno,Temporal,Tonelada,5770000,Calabaza semilla o chihua,400.00,385.00,15.00,154,0.4,30000,4620000
+2017,Tabasco,Emiliano Zapata,Sur 18,Tenosique,Otoño-Invierno,Temporal,Tonelada,6110000,Chile seco,12.00,12.00,0.00,4.92,0.41,155715.44,766119.96
+2017,Tabasco,Emiliano Zapata,Sur 18,Tenosique,Otoño-Invierno,Temporal,Tonelada,6840000,Frijol,3.00,3.00,0.00,1.5,0.5,16000,24000
+2017,Tabasco,Emiliano Zapata,Sur 18,Tenosique,Otoño-Invierno,Temporal,Tonelada,7490000,Maíz grano,666.00,372.00,294.00,623.36,1.68,3909.56,2437063.32
+2017,Tabasco,Emiliano Zapata,Sur 18,Tenosique,Primavera-Verano,Temporal,Tonelada,5770000,Calabaza semilla o chihua,961.00,961.00,0.00,519,0.54,30543.35,15851998.65
+2017,Tabasco,Emiliano Zapata,Sur 18,Tenosique,Primavera-Verano,Temporal,Tonelada,7490000,Maíz grano,858.00,858.00,0.00,1425,1.66,3949.01,5627339.25
+2017,Tabasco,Emiliano Zapata,Sur 18,Tenosique,Perennes,Temporal,Tonelada,8030000,Palma africana o de aceite,736.00,434.00,0.00,7117.6,16.4,1484.89,10568853.06
+2018,Tabasco,Emiliano Zapata,Jonuta,Jonuta,Otoño-Invierno,Temporal,Tonelada,5770000,Calabaza semilla o chihua,150.00,150.00,0.00,79.5,0.53,26031.13,2069474.84
+2018,Tabasco,Emiliano Zapata,Jonuta,Jonuta,Otoño-Invierno,Temporal,Tonelada,6110000,Chile seco,105.00,105.00,0.00,67.2,0.64,123046.8,8268744.96
+2018,Tabasco,Emiliano Zapata,Jonuta,Jonuta,Otoño-Invierno,Temporal,Tonelada,6840000,Frijol,230.00,200.00,30.00,140,0.7,16400,2296000
+2018,Tabasco,Emiliano Zapata,Jonuta,Jonuta,Otoño-Invierno,Temporal,Tonelada,7490000,Maíz grano,2507.00,2307.00,200.00,3968.04,1.72,3987.93,15824265.76
+2018,Tabasco,Emiliano Zapata,Jonuta,Jonuta,Otoño-Invierno,Temporal,Tonelada,8810000,Sorgo grano,240.00,240.00,0.00,828,3.45,3530,2922840
+2018,Tabasco,Emiliano Zapata,Jonuta,Jonuta,Otoño-Invierno,Temporal,Tonelada,8970000,Tomate rojo (jitomate),10.00,10.00,0.00,92.5,9.25,8600,795500
+2018,Tabasco,Emiliano Zapata,Jonuta,Jonuta,Primavera-Verano,Temporal,Tonelada,5770000,Calabaza semilla o chihua,80.00,80.00,0.00,42.4,0.53,28931.6,1226699.84
+2018,Tabasco,Emiliano Zapata,Jonuta,Jonuta,Primavera-Verano,Temporal,Tonelada,6110000,Chile seco,132.00,132.00,0.00,69.96,0.53,116899.37,8178279.93
+2018,Tabasco,Emiliano Zapata,Jonuta,Jonuta,Primavera-Verano,Temporal,Tonelada,7490000,Maíz grano,2985.00,2985.00,0.00,5850.6,1.96,3997.48,23387656.49
+2018,Tabasco,Emiliano Zapata,Jonuta,Jonuta,Primavera-Verano,Temporal,Tonelada,8810000,Sorgo grano,100.00,100.00,0.00,360,3.6,3810,1371600
+2018,Tabasco,Emiliano Zapata,Jonuta,Jonuta,Perennes,Temporal,Tonelada,7050000,Guanábana,6.00,6.00,0.00,32.16,5.36,10256.96,329863.83
+2018,Tabasco,Emiliano Zapata,Jonuta,Jonuta,Perennes,Temporal,Tonelada,7390000,Limón,5.00,0.00,0.00,0,0,0,0
+2018,Tabasco,Emiliano Zapata,Jonuta,Jonuta,Perennes,Temporal,Tonelada,7560000,Mango,10.00,0.00,0.00,0,0,0,0
+2018,Tabasco,Emiliano Zapata,Jonuta,Jonuta,Perennes,Temporal,Tonelada,9290000,Zapote,4.00,4.00,0.00,19.8,4.95,8441.58,167143.28
+2018,Tabasco,Emiliano Zapata,Emiliano Zapata,Emiliano Zapata,Otoño-Invierno,Riego,Tonelada,6120000,Chile verde,6.50,6.50,0.00,193.31,29.74,8077.44,1561449.93
+2018,Tabasco,Emiliano Zapata,Emiliano Zapata,Emiliano Zapata,Otoño-Invierno,Riego,Tonelada,8970000,Tomate rojo (jitomate),4.50,4.50,0.00,204.38,45.42,7935.95,1621949.46
+2018,Tabasco,Emiliano Zapata,Emiliano Zapata,Emiliano Zapata,Otoño-Invierno,Temporal,Tonelada,6110000,Chile seco,38.00,28.00,10.00,14.56,0.52,123506.04,1798247.94
+2018,Tabasco,Emiliano Zapata,Emiliano Zapata,Emiliano Zapata,Otoño-Invierno,Temporal,Tonelada,6120000,Chile verde,6.00,6.00,0.00,50.28,8.38,8243.63,414489.72
+2018,Tabasco,Emiliano Zapata,Emiliano Zapata,Emiliano Zapata,Otoño-Invierno,Temporal,Tonelada,6840000,Frijol,152.00,152.00,0.00,118.56,0.78,16400,1944384
+2018,Tabasco,Emiliano Zapata,Emiliano Zapata,Emiliano Zapata,Otoño-Invierno,Temporal,Tonelada,7490000,Maíz grano,1340.00,716.00,624.00,1360.4,1.9,3988.99,5426622
+2018,Tabasco,Emiliano Zapata,Emiliano Zapata,Emiliano Zapata,Otoño-Invierno,Temporal,Tonelada,8710000,Sandía,32.00,32.00,0.00,512,16,3421.14,1751623.68
+2018,Tabasco,Emiliano Zapata,Emiliano Zapata,Emiliano Zapata,Otoño-Invierno,Temporal,Tonelada,8810000,Sorgo grano,323.00,152.00,171.00,547.2,3.6,3530,1931616
+2018,Tabasco,Emiliano Zapata,Emiliano Zapata,Emiliano Zapata,Primavera-Verano,Riego,Tonelada,5410000,Arroz palay,880.00,880.00,0.00,6908,7.85,3720,25697760
+2018,Tabasco,Emiliano Zapata,Emiliano Zapata,Emiliano Zapata,Primavera-Verano,Temporal,Tonelada,6120000,Chile verde,3.00,3.00,0.00,25.89,8.63,15688,406162.32
+2018,Tabasco,Emiliano Zapata,Emiliano Zapata,Emiliano Zapata,Primavera-Verano,Temporal,Tonelada,7490000,Maíz grano,1017.00,701.00,316.00,1542.2,2.2,3998.75,6166872.25
+2018,Tabasco,Emiliano Zapata,Emiliano Zapata,Emiliano Zapata,Primavera-Verano,Temporal,Tonelada,8710000,Sandía,130.00,130.00,0.00,2174.9,16.73,3961.02,8614822.05
+2018,Tabasco,Emiliano Zapata,Emiliano Zapata,Emiliano Zapata,Primavera-Verano,Temporal,Tonelada,8810000,Sorgo grano,28.00,28.00,0.00,98,3.5,3842,376516
+2018,Tabasco,Emiliano Zapata,Emiliano Zapata,Emiliano Zapata,Perennes,Temporal,Tonelada,7390000,Limón,9.00,7.00,0.00,68.95,9.85,3183.85,219526.46
+2018,Tabasco,Emiliano Zapata,Emiliano Zapata,Emiliano Zapata,Perennes,Temporal,Tonelada,7850000,Naranja,6.00,5.00,0.00,88.4,17.68,2648.32,234111.49
+2018,Tabasco,Emiliano Zapata,Emiliano Zapata,Emiliano Zapata,Perennes,Temporal,Tonelada,8030000,Palma africana o de aceite,4475.00,2500.00,0.00,36450,14.58,1446.7,52732215
+2018,Tabasco,Emiliano Zapata,Tenosique,Tenosique,Otoño-Invierno,Temporal,Tonelada,6120000,Chile verde,9.00,9.00,0.00,79.35,8.82,13227.6,1049610
+2018,Tabasco,Emiliano Zapata,Tenosique,Tenosique,Otoño-Invierno,Temporal,Tonelada,6840000,Frijol,35.00,35.00,0.00,18,0.51,16400,295200
+2018,Tabasco,Emiliano Zapata,Tenosique,Tenosique,Otoño-Invierno,Temporal,Tonelada,7490000,Maíz grano,1405.00,1405.00,0.00,2529,1.8,3986.68,10082313.72
+2018,Tabasco,Emiliano Zapata,Tenosique,Tenosique,Otoño-Invierno,Temporal,Tonelada,8710000,Sandía,33.00,33.00,0.00,521.75,15.81,3395.85,1771784.74
+2018,Tabasco,Emiliano Zapata,Tenosique,Tenosique,Otoño-Invierno,Temporal,Tonelada,8810000,Sorgo grano,339.00,219.00,120.00,814.68,3.72,3526.12,2872659.44
+2018,Tabasco,Emiliano Zapata,Tenosique,Tenosique,Otoño-Invierno,Temporal,Tonelada,8970000,Tomate rojo (jitomate),5.00,5.00,0.00,57,11.4,8590,489630
+2018,Tabasco,Emiliano Zapata,Tenosique,Tenosique,Primavera-Verano,Temporal,Tonelada,7490000,Maíz grano,3358.00,3208.00,150.00,5549.84,1.73,3997.71,22186650.87
+2018,Tabasco,Emiliano Zapata,Tenosique,Tenosique,Perennes,Temporal,Tonelada,5820000,Caña de azúcar,3370.00,3037.00,0.00,160870,52.97,728.01,117114968.7
+2018,Tabasco,Emiliano Zapata,Tenosique,Tenosique,Perennes,Temporal,Tonelada,5830000,Semilla de caña de azúcar,175.00,175.00,0.00,9800,56,710,6958000
+2018,Tabasco,Emiliano Zapata,Tenosique,Tenosique,Perennes,Temporal,Tonelada,7560000,Mango,65.00,65.00,0.00,447.07,6.88,2838.41,1268969.52
+2018,Tabasco,Emiliano Zapata,Tenosique,Tenosique,Perennes,Temporal,Tonelada,8030000,Palma africana o de aceite,2386.00,2220.00,0.00,18337.2,8.26,1472.9,27008861.88
+2018,Tabasco,Emiliano Zapata,Tenosique,Tenosique,Perennes,Temporal,Tonelada,8340000,Pitahaya,16.00,16.00,0.00,121.57,7.6,17669.2,2148044.64
+2018,Tabasco,Emiliano Zapata,Tenosique,Tenosique,Perennes,Temporal,Tonelada,9290000,Zapote,22.00,22.00,0.00,116.85,5.31,8570.55,1001468.77
+2018,Tabasco,Emiliano Zapata,Balancán,Balancán,Otoño-Invierno,Temporal,Tonelada,5770000,Calabaza semilla o chihua,95.00,95.00,0.00,50.35,0.53,31800.83,1601171.79
+2018,Tabasco,Emiliano Zapata,Balancán,Balancán,Otoño-Invierno,Temporal,Tonelada,6120000,Chile verde,30.50,30.50,0.00,339.7,11.14,12015.3,4081596.36
+2018,Tabasco,Emiliano Zapata,Balancán,Balancán,Otoño-Invierno,Temporal,Tonelada,6840000,Frijol,230.00,230.00,0.00,136.4,0.59,16400,2236960
+2018,Tabasco,Emiliano Zapata,Balancán,Balancán,Otoño-Invierno,Temporal,Tonelada,7490000,Maíz grano,3050.00,2700.00,350.00,7830,2.9,3986.86,31217113.8
+2018,Tabasco,Emiliano Zapata,Balancán,Balancán,Otoño-Invierno,Temporal,Tonelada,8710000,Sandía,472.00,472.00,0.00,7552,16,3464.1,26160883.2
+2018,Tabasco,Emiliano Zapata,Balancán,Balancán,Otoño-Invierno,Temporal,Tonelada,8810000,Sorgo grano,4025.00,4025.00,0.00,17106.25,4.25,3663.06,62661220.13
+2018,Tabasco,Emiliano Zapata,Balancán,Balancán,Otoño-Invierno,Temporal,Tonelada,8970000,Tomate rojo (jitomate),12.00,12.00,0.00,144.7,12.06,8892.11,1286688.12
+2018,Tabasco,Emiliano Zapata,Balancán,Balancán,Primavera-Verano,Temporal,Tonelada,5770000,Calabaza semilla o chihua,115.00,115.00,0.00,62.1,0.54,29072.42,1805397.28
+2018,Tabasco,Emiliano Zapata,Balancán,Balancán,Primavera-Verano,Temporal,Tonelada,6120000,Chile verde,24.00,24.00,0.00,304.49,12.69,13443.47,4093403.32
+2018,Tabasco,Emiliano Zapata,Balancán,Balancán,Primavera-Verano,Temporal,Tonelada,7490000,Maíz grano,5252.00,5252.00,0.00,14548,2.77,3997.79,58159848.92
+2018,Tabasco,Emiliano Zapata,Balancán,Balancán,Primavera-Verano,Temporal,Tonelada,8710000,Sandía,250.00,250.00,0.00,4470,17.88,3975.15,17768920.5
+2018,Tabasco,Emiliano Zapata,Balancán,Balancán,Primavera-Verano,Temporal,Tonelada,8810000,Sorgo grano,107.00,107.00,0.00,415.37,3.88,3806.71,1581193.13
+2018,Tabasco,Emiliano Zapata,Balancán,Balancán,Primavera-Verano,Temporal,Tonelada,8970000,Tomate rojo (jitomate),9.00,9.00,0.00,106.74,11.86,13773.18,1470149.23
+2018,Tabasco,Emiliano Zapata,Balancán,Balancán,Perennes,Riego,Tonelada,8130000,Papaya,87.00,62.00,0.00,6944,112,4169.43,28952521.92
+2018,Tabasco,Emiliano Zapata,Balancán,Balancán,Perennes,Temporal,Tonelada,5020000,Achiote,51.00,44.00,0.00,28.6,0.65,7220,206492
+2018,Tabasco,Emiliano Zapata,Balancán,Balancán,Perennes,Temporal,Tonelada,5820000,Caña de azúcar,56.00,56.00,0.00,2990,53.39,730,2182700
+2018,Tabasco,Emiliano Zapata,Balancán,Balancán,Perennes,Temporal,Tonelada,5830000,Semilla de caña de azúcar,3.00,3.00,0.00,180,60,710.22,127839.6
+2018,Tabasco,Emiliano Zapata,Balancán,Balancán,Perennes,Temporal,Tonelada,8030000,Palma africana o de aceite,5200.00,3860.00,0.00,53499.6,13.86,1427.92,76393148.83
+2018,Tabasco,Emiliano Zapata,Villa Quetzalcóatl,Balancán,Otoño-Invierno,Temporal,Tonelada,5770000,Calabaza semilla o chihua,720.00,720.00,0.00,352.8,0.49,31571.43,11138400.5
+2018,Tabasco,Emiliano Zapata,Villa Quetzalcóatl,Balancán,Otoño-Invierno,Temporal,Tonelada,6110000,Chile seco,10.00,10.00,0.00,5.07,0.51,140000,709800
+2018,Tabasco,Emiliano Zapata,Villa Quetzalcóatl,Balancán,Otoño-Invierno,Temporal,Tonelada,6840000,Frijol,90.00,90.00,0.00,50.42,0.56,17542.41,884488.31
+2018,Tabasco,Emiliano Zapata,Villa Quetzalcóatl,Balancán,Otoño-Invierno,Temporal,Tonelada,7490000,Maíz grano,3009.00,3009.00,0.00,6318.9,2.1,3988.29,25201605.68
+2018,Tabasco,Emiliano Zapata,Villa Quetzalcóatl,Balancán,Primavera-Verano,Temporal,Tonelada,5770000,Calabaza semilla o chihua,2310.00,2310.00,0.00,1063.6,0.46,28838.52,30672649.87
+2018,Tabasco,Emiliano Zapata,Villa Quetzalcóatl,Balancán,Primavera-Verano,Temporal,Tonelada,7490000,Maíz grano,4352.00,4352.00,0.00,7774.76,1.79,3998.11,31084345.7
+2018,Tabasco,Emiliano Zapata,Villa Quetzalcóatl,Balancán,Perennes,Temporal,Tonelada,7850000,Naranja,10.00,10.00,0.00,155.31,15.53,2539.64,394431.49
+2018,Tabasco,Emiliano Zapata,Villa Quetzalcóatl,Balancán,Perennes,Temporal,Tonelada,8030000,Palma africana o de aceite,190.00,190.00,0.00,2580.58,13.58,1461.26,3770898.33
+2018,Tabasco,Emiliano Zapata,Villa Quetzalcóatl,Balancán,Perennes,Temporal,Tonelada,8130000,Papaya,67.00,62.00,0.00,4326.36,69.78,4118.82,17819498.1
+2018,Tabasco,Emiliano Zapata,Sur 18,Balancán,Otoño-Invierno,Temporal,Tonelada,5770000,Calabaza semilla o chihua,1252.00,1252.00,0.00,575.92,0.46,27065.7,15587677.94
+2018,Tabasco,Emiliano Zapata,Sur 18,Balancán,Otoño-Invierno,Temporal,Tonelada,6110000,Chile seco,35.00,35.00,0.00,16.1,0.46,140000,2254000
+2018,Tabasco,Emiliano Zapata,Sur 18,Balancán,Otoño-Invierno,Temporal,Tonelada,6840000,Frijol,56.00,56.00,0.00,31.38,0.56,18046.27,566291.95
+2018,Tabasco,Emiliano Zapata,Sur 18,Balancán,Otoño-Invierno,Temporal,Tonelada,7490000,Maíz grano,1518.00,1518.00,0.00,2368,1.56,3985.18,9436906.24
+2018,Tabasco,Emiliano Zapata,Sur 18,Balancán,Primavera-Verano,Temporal,Tonelada,5770000,Calabaza semilla o chihua,1500.00,1500.00,0.00,721,0.48,28794.79,20761043.59
+2018,Tabasco,Emiliano Zapata,Sur 18,Balancán,Primavera-Verano,Temporal,Tonelada,7490000,Maíz grano,2050.00,2050.00,0.00,3651.1,1.78,3998.6,14599288.46
+2018,Tabasco,Emiliano Zapata,Sur 18,Balancán,Perennes,Temporal,Tonelada,8030000,Palma africana o de aceite,664.00,521.00,0.00,8987.25,17.25,1479.51,13296726.25
+2018,Tabasco,Emiliano Zapata,Sur 18,Tenosique,Otoño-Invierno,Temporal,Tonelada,5770000,Calabaza semilla o chihua,608.00,608.00,0.00,285.76,0.47,27053.26,7730739.58
+2018,Tabasco,Emiliano Zapata,Sur 18,Tenosique,Otoño-Invierno,Temporal,Tonelada,6110000,Chile seco,14.00,14.00,0.00,6.32,0.45,140000,884800
+2018,Tabasco,Emiliano Zapata,Sur 18,Tenosique,Otoño-Invierno,Temporal,Tonelada,6840000,Frijol,18.00,18.00,0.00,10.12,0.56,17894.07,181087.99
+2018,Tabasco,Emiliano Zapata,Sur 18,Tenosique,Otoño-Invierno,Temporal,Tonelada,7490000,Maíz grano,741.00,741.00,0.00,1200,1.62,3985.33,4782396
+2018,Tabasco,Emiliano Zapata,Sur 18,Tenosique,Primavera-Verano,Temporal,Tonelada,5770000,Calabaza semilla o chihua,597.00,597.00,0.00,310.45,0.52,28888.4,8968403.78
+2018,Tabasco,Emiliano Zapata,Sur 18,Tenosique,Primavera-Verano,Temporal,Tonelada,7490000,Maíz grano,904.00,904.00,0.00,1636.24,1.81,3998.59,6542652.9
+2018,Tabasco,Emiliano Zapata,Sur 18,Tenosique,Perennes,Temporal,Tonelada,8030000,Palma africana o de aceite,764.00,588.00,0.00,10143,17.25,1472.72,14937798.96
+2019,Tabasco,Emiliano Zapata,Jonuta,Jonuta,Otoño-Invierno,Temporal,Tonelada,5770000,Calabaza semilla o chihua,52.00,52.00,0.00,23.4,0.45,32258.12,754840.01
+2019,Tabasco,Emiliano Zapata,Jonuta,Jonuta,Otoño-Invierno,Temporal,Tonelada,6110000,Chile seco,97.00,97.00,0.00,59.17,0.61,136468.31,8074829.9
+2019,Tabasco,Emiliano Zapata,Jonuta,Jonuta,Otoño-Invierno,Temporal,Tonelada,6840000,Frijol,156.00,156.00,0.00,95.16,0.61,16372,1557959.52
+2019,Tabasco,Emiliano Zapata,Jonuta,Jonuta,Otoño-Invierno,Temporal,Tonelada,7490000,Maíz grano,2703.00,2601.00,102.00,4291.65,1.65,4000,17166600
+2019,Tabasco,Emiliano Zapata,Jonuta,Jonuta,Otoño-Invierno,Temporal,Tonelada,8970000,Tomate rojo (jitomate),14.00,14.00,0.00,114.94,8.21,9750,1120665
+2019,Tabasco,Emiliano Zapata,Jonuta,Jonuta,Primavera-Verano,Temporal,Tonelada,5770000,Calabaza semilla o chihua,114.00,114.00,0.00,61.56,0.54,29598.96,1822111.98
+2019,Tabasco,Emiliano Zapata,Jonuta,Jonuta,Primavera-Verano,Temporal,Tonelada,6110000,Chile seco,106.00,106.00,0.00,57.24,0.54,113449.69,6493860.26
+2019,Tabasco,Emiliano Zapata,Jonuta,Jonuta,Primavera-Verano,Temporal,Tonelada,7490000,Maíz grano,2812.00,2505.00,307.00,4859.7,1.94,3998.41,19431073.08
+2019,Tabasco,Emiliano Zapata,Jonuta,Jonuta,Perennes,Temporal,Tonelada,7050000,Guanábana,6.00,6.00,0.00,33.06,5.51,10230.53,338221.32
+2019,Tabasco,Emiliano Zapata,Jonuta,Jonuta,Perennes,Temporal,Tonelada,7390000,Limón,5.00,5.00,0.00,37.95,7.59,3601.45,136675.03
+2019,Tabasco,Emiliano Zapata,Jonuta,Jonuta,Perennes,Temporal,Tonelada,7560000,Mango,10.00,10.00,0.00,78.9,7.89,2993.9,236218.71
+2019,Tabasco,Emiliano Zapata,Jonuta,Jonuta,Perennes,Temporal,Tonelada,9290000,Zapote,4.00,4.00,0.00,20.72,5.18,8434.7,174766.98
+2019,Tabasco,Emiliano Zapata,Emiliano Zapata,Emiliano Zapata,Otoño-Invierno,Riego,Tonelada,6120000,Chile verde,5.00,5.00,0.00,103.65,20.73,11575.4,1199789.83
+2019,Tabasco,Emiliano Zapata,Emiliano Zapata,Emiliano Zapata,Otoño-Invierno,Riego,Tonelada,8710000,Sandía,2.00,2.00,0.00,43.6,21.8,3326.53,145036.71
+2019,Tabasco,Emiliano Zapata,Emiliano Zapata,Emiliano Zapata,Otoño-Invierno,Riego,Tonelada,8970000,Tomate rojo (jitomate),2.00,2.00,0.00,56.6,28.3,9998.85,565934.91
+2019,Tabasco,Emiliano Zapata,Emiliano Zapata,Emiliano Zapata,Otoño-Invierno,Temporal,Tonelada,5770000,Calabaza semilla o chihua,25.00,17.00,8.00,7.65,0.45,33000,252450
+2019,Tabasco,Emiliano Zapata,Emiliano Zapata,Emiliano Zapata,Otoño-Invierno,Temporal,Tonelada,6110000,Chile seco,20.00,20.00,0.00,10,0.5,136200,1362000
+2019,Tabasco,Emiliano Zapata,Emiliano Zapata,Emiliano Zapata,Otoño-Invierno,Temporal,Tonelada,6120000,Chile verde,2.00,2.00,0.00,17.24,8.62,10198,175813.52
+2019,Tabasco,Emiliano Zapata,Emiliano Zapata,Emiliano Zapata,Otoño-Invierno,Temporal,Tonelada,6840000,Frijol,145.00,145.00,0.00,98.6,0.68,16374.51,1614526.69
+2019,Tabasco,Emiliano Zapata,Emiliano Zapata,Emiliano Zapata,Otoño-Invierno,Temporal,Tonelada,7490000,Maíz grano,1370.00,775.00,595.00,1395,1.8,3998.3,5577628.5
+2019,Tabasco,Emiliano Zapata,Emiliano Zapata,Emiliano Zapata,Otoño-Invierno,Temporal,Tonelada,8710000,Sandía,25.00,25.00,0.00,356.25,14.25,3323.57,1184021.81
+2019,Tabasco,Emiliano Zapata,Emiliano Zapata,Emiliano Zapata,Otoño-Invierno,Temporal,Tonelada,8810000,Sorgo grano,95.00,60.00,35.00,225.6,3.76,3894,878486.4
+2019,Tabasco,Emiliano Zapata,Emiliano Zapata,Emiliano Zapata,Primavera-Verano,Riego,Tonelada,5410000,Arroz palay,881.00,881.00,0.00,6924.66,7.86,3400,23543844
+2019,Tabasco,Emiliano Zapata,Emiliano Zapata,Emiliano Zapata,Primavera-Verano,Temporal,Tonelada,6120000,Chile verde,4.00,4.00,0.00,38.48,9.62,16419.5,631822.36
+2019,Tabasco,Emiliano Zapata,Emiliano Zapata,Emiliano Zapata,Primavera-Verano,Temporal,Tonelada,7490000,Maíz grano,1175.00,567.50,607.50,1191.75,2.1,4000,4767000
+2019,Tabasco,Emiliano Zapata,Emiliano Zapata,Emiliano Zapata,Primavera-Verano,Temporal,Tonelada,8710000,Sandía,75.00,75.00,0.00,1241.25,16.55,3963.64,4919868.15
+2019,Tabasco,Emiliano Zapata,Emiliano Zapata,Emiliano Zapata,Primavera-Verano,Temporal,Tonelada,8810000,Sorgo grano,50.00,50.00,0.00,185,3.7,3798,702630
+2019,Tabasco,Emiliano Zapata,Emiliano Zapata,Emiliano Zapata,Perennes,Riego,Tonelada,8030000,Palma africana o de aceite,339.00,339.00,0.00,8851.29,26.11,1257.52,11130674.2
+2019,Tabasco,Emiliano Zapata,Emiliano Zapata,Emiliano Zapata,Perennes,Temporal,Tonelada,5020000,Achiote,3.00,0.00,0.00,0,0,0,0
+2019,Tabasco,Emiliano Zapata,Emiliano Zapata,Emiliano Zapata,Perennes,Temporal,Tonelada,7390000,Limón,9.00,7.00,0.00,65.52,9.36,3639.41,238454.14
+2019,Tabasco,Emiliano Zapata,Emiliano Zapata,Emiliano Zapata,Perennes,Temporal,Tonelada,7850000,Naranja,6.00,5.00,0.00,87.3,17.46,2514.52,219517.6
+2019,Tabasco,Emiliano Zapata,Emiliano Zapata,Emiliano Zapata,Perennes,Temporal,Tonelada,8030000,Palma africana o de aceite,4241.00,2538.00,0.00,38755.26,15.27,1252.49,48540575.6
+2019,Tabasco,Emiliano Zapata,Tenosique,Tenosique,Otoño-Invierno,Temporal,Tonelada,6120000,Chile verde,14.00,14.00,0.00,110.46,7.89,12667.9,1399296.4
+2019,Tabasco,Emiliano Zapata,Tenosique,Tenosique,Otoño-Invierno,Temporal,Tonelada,6840000,Frijol,31.00,31.00,0.00,15.5,0.5,16370.1,253736.55
+2019,Tabasco,Emiliano Zapata,Tenosique,Tenosique,Otoño-Invierno,Temporal,Tonelada,7490000,Maíz grano,1295.00,1172.00,123.00,2015.84,1.72,3998.32,8059973.39
+2019,Tabasco,Emiliano Zapata,Tenosique,Tenosique,Otoño-Invierno,Temporal,Tonelada,8710000,Sandía,32.00,32.00,0.00,429.76,13.43,3337.2,1434195.07
+2019,Tabasco,Emiliano Zapata,Tenosique,Tenosique,Otoño-Invierno,Temporal,Tonelada,8810000,Sorgo grano,262.00,262.00,0.00,953.68,3.64,3761.1,3586885.85
+2019,Tabasco,Emiliano Zapata,Tenosique,Tenosique,Primavera-Verano,Temporal,Tonelada,7490000,Maíz grano,3214.00,2938.00,276.00,5317.78,1.81,3998.99,21265749.04
+2019,Tabasco,Emiliano Zapata,Tenosique,Tenosique,Primavera-Verano,Temporal,Tonelada,8810000,Sorgo grano,120.00,120.00,0.00,438,3.65,3796,1662648
+2019,Tabasco,Emiliano Zapata,Tenosique,Tenosique,Perennes,Temporal,Tonelada,5820000,Caña de azúcar,3530.00,0.00,3530.00,0,0,0,0
+2019,Tabasco,Emiliano Zapata,Tenosique,Tenosique,Perennes,Temporal,Tonelada,5830000,Semilla de caña de azúcar,149.00,2.00,147.00,136,68,878,119408
+2019,Tabasco,Emiliano Zapata,Tenosique,Tenosique,Perennes,Temporal,Tonelada,7560000,Mango,60.00,60.00,0.00,400.05,6.67,2795.57,1118366.9
+2019,Tabasco,Emiliano Zapata,Tenosique,Tenosique,Perennes,Temporal,Tonelada,8030000,Palma africana o de aceite,2450.00,2220.00,0.00,18936.6,8.53,1251.66,23702184.76
+2019,Tabasco,Emiliano Zapata,Tenosique,Tenosique,Perennes,Temporal,Tonelada,8340000,Pitahaya,16.00,16.00,0.00,124,7.75,15119.65,1874836.6
+2019,Tabasco,Emiliano Zapata,Tenosique,Tenosique,Perennes,Temporal,Tonelada,9290000,Zapote,20.00,20.00,0.00,107.8,5.39,8994.39,969595.24
+2019,Tabasco,Emiliano Zapata,Balancán,Balancán,Otoño-Invierno,Temporal,Tonelada,5770000,Calabaza semilla o chihua,293.00,293.00,0.00,158.22,0.54,32000,5063040
+2019,Tabasco,Emiliano Zapata,Balancán,Balancán,Otoño-Invierno,Temporal,Tonelada,6120000,Chile verde,29.00,29.00,0.00,299.41,10.32,12842.74,3845245.2
+2019,Tabasco,Emiliano Zapata,Balancán,Balancán,Otoño-Invierno,Temporal,Tonelada,6840000,Frijol,226.00,226.00,0.00,122.04,0.54,16375,1998405
+2019,Tabasco,Emiliano Zapata,Balancán,Balancán,Otoño-Invierno,Temporal,Tonelada,7490000,Maíz grano,3109.00,2736.00,373.00,7524,2.75,3999.3,30090733.2
+2019,Tabasco,Emiliano Zapata,Balancán,Balancán,Otoño-Invierno,Temporal,Tonelada,8710000,Sandía,395.00,395.00,0.00,5869.7,14.86,3316.47,19466683.96
+2019,Tabasco,Emiliano Zapata,Balancán,Balancán,Otoño-Invierno,Temporal,Tonelada,8810000,Sorgo grano,3872.00,3872.00,0.00,15062.08,3.89,3896.75,58693160.24
+2019,Tabasco,Emiliano Zapata,Balancán,Balancán,Otoño-Invierno,Temporal,Tonelada,8970000,Tomate rojo (jitomate),14.00,14.00,0.00,148.24,10.59,9731.19,1442551.75
+2019,Tabasco,Emiliano Zapata,Balancán,Balancán,Primavera-Verano,Temporal,Tonelada,5770000,Calabaza semilla o chihua,130.00,130.00,0.00,71.5,0.55,29623.79,2118100.99
+2019,Tabasco,Emiliano Zapata,Balancán,Balancán,Primavera-Verano,Temporal,Tonelada,6120000,Chile verde,18.00,18.00,0.00,229.69,12.76,13287.77,3052067.6
+2019,Tabasco,Emiliano Zapata,Balancán,Balancán,Primavera-Verano,Temporal,Tonelada,7490000,Maíz grano,5202.00,4387.00,815.00,12459.08,2.84,3999.22,49826601.92
+2019,Tabasco,Emiliano Zapata,Balancán,Balancán,Primavera-Verano,Temporal,Tonelada,8710000,Sandía,203.00,203.00,0.00,3716.93,18.31,3962.93,14729933.4
+2019,Tabasco,Emiliano Zapata,Balancán,Balancán,Primavera-Verano,Temporal,Tonelada,8810000,Sorgo grano,1606.00,708.00,898.00,2371.8,3.35,3690.69,8753578.54
+2019,Tabasco,Emiliano Zapata,Balancán,Balancán,Primavera-Verano,Temporal,Tonelada,8970000,Tomate rojo (jitomate),5.00,5.00,0.00,58.25,11.65,9389.66,546947.7
+2019,Tabasco,Emiliano Zapata,Balancán,Balancán,Perennes,Riego,Tonelada,8130000,Papaya,110.00,70.00,0.00,6370,91,4224.02,26907007.4
+2019,Tabasco,Emiliano Zapata,Balancán,Balancán,Perennes,Temporal,Tonelada,5020000,Achiote,96.00,66.00,0.00,44.22,0.67,7224.79,319480.21
+2019,Tabasco,Emiliano Zapata,Balancán,Balancán,Perennes,Temporal,Tonelada,5820000,Caña de azúcar,60.00,0.00,60.00,0,0,0,0
+2019,Tabasco,Emiliano Zapata,Balancán,Balancán,Perennes,Temporal,Tonelada,5830000,Semilla de caña de azúcar,6.00,3.00,0.00,168,56,878,147504
+2019,Tabasco,Emiliano Zapata,Balancán,Balancán,Perennes,Temporal,Tonelada,8030000,Palma africana o de aceite,5230.00,3860.00,0.00,53152.2,13.77,1252.65,66581103.33
+2019,Tabasco,Emiliano Zapata,Villa Quetzalcóatl,Balancán,Otoño-Invierno,Temporal,Tonelada,5770000,Calabaza semilla o chihua,859.00,859.00,0.00,429.5,0.5,32479.38,13949893.71
+2019,Tabasco,Emiliano Zapata,Villa Quetzalcóatl,Balancán,Otoño-Invierno,Temporal,Tonelada,6110000,Chile seco,9.00,9.00,0.00,4.32,0.48,145000,626400
+2019,Tabasco,Emiliano Zapata,Villa Quetzalcóatl,Balancán,Otoño-Invierno,Temporal,Tonelada,6840000,Frijol,76.00,76.00,0.00,47.88,0.63,16372.73,783926.31
+2019,Tabasco,Emiliano Zapata,Villa Quetzalcóatl,Balancán,Otoño-Invierno,Temporal,Tonelada,7490000,Maíz grano,3020.00,2578.00,442.00,5104.44,1.98,3999.79,20416688.07
+2019,Tabasco,Emiliano Zapata,Villa Quetzalcóatl,Balancán,Primavera-Verano,Temporal,Tonelada,5770000,Calabaza semilla o chihua,2019.00,1776.00,243.00,799.2,0.45,29417.7,23510625.84
+2019,Tabasco,Emiliano Zapata,Villa Quetzalcóatl,Balancán,Primavera-Verano,Temporal,Tonelada,7490000,Maíz grano,4305.00,3977.00,328.00,7238.14,1.82,3999.04,28945611.39
+2019,Tabasco,Emiliano Zapata,Villa Quetzalcóatl,Balancán,Perennes,Temporal,Tonelada,7850000,Naranja,10.00,10.00,0.00,156.2,15.62,2587.48,404164.38
+2019,Tabasco,Emiliano Zapata,Villa Quetzalcóatl,Balancán,Perennes,Temporal,Tonelada,8030000,Palma africana o de aceite,190.00,190.00,0.00,2454.8,12.92,1246.37,3059589.08
+2019,Tabasco,Emiliano Zapata,Villa Quetzalcóatl,Balancán,Perennes,Temporal,Tonelada,8130000,Papaya,15.00,15.00,0.00,992.25,66.15,4046.13,4014772.49
+2019,Tabasco,Emiliano Zapata,Sur 18,Balancán,Otoño-Invierno,Temporal,Tonelada,5770000,Calabaza semilla o chihua,1068.00,1068.00,0.00,480.6,0.45,32750.05,15739674.03
+2019,Tabasco,Emiliano Zapata,Sur 18,Balancán,Otoño-Invierno,Temporal,Tonelada,6110000,Chile seco,52.00,52.00,0.00,24.96,0.48,141984.74,3543939.11
+2019,Tabasco,Emiliano Zapata,Sur 18,Balancán,Otoño-Invierno,Temporal,Tonelada,6840000,Frijol,73.50,73.50,0.00,33.08,0.45,16372,541585.76
+2019,Tabasco,Emiliano Zapata,Sur 18,Balancán,Otoño-Invierno,Temporal,Tonelada,7490000,Maíz grano,1797.00,1420.00,377.00,1988,1.4,3999.49,7950986.12
+2019,Tabasco,Emiliano Zapata,Sur 18,Balancán,Primavera-Verano,Temporal,Tonelada,5770000,Calabaza semilla o chihua,1709.00,1709.00,0.00,803.23,0.47,29481.3,23680264.6
+2019,Tabasco,Emiliano Zapata,Sur 18,Balancán,Primavera-Verano,Temporal,Tonelada,7490000,Maíz grano,1850.00,1850.00,0.00,3330,1.8,3999.61,13318701.3
+2019,Tabasco,Emiliano Zapata,Sur 18,Balancán,Perennes,Temporal,Tonelada,8030000,Palma africana o de aceite,664.00,521.00,0.00,8773.64,16.84,1241.9,10895983.52
+2019,Tabasco,Emiliano Zapata,Sur 18,Tenosique,Otoño-Invierno,Temporal,Tonelada,5770000,Calabaza semilla o chihua,364.00,364.00,0.00,185.64,0.51,32618.29,6055259.36
+2019,Tabasco,Emiliano Zapata,Sur 18,Tenosique,Otoño-Invierno,Temporal,Tonelada,6110000,Chile seco,18.00,18.00,0.00,8.28,0.46,141488.73,1171526.68
+2019,Tabasco,Emiliano Zapata,Sur 18,Tenosique,Otoño-Invierno,Temporal,Tonelada,6840000,Frijol,39.00,39.00,0.00,21.06,0.54,16372.39,344802.53
+2019,Tabasco,Emiliano Zapata,Sur 18,Tenosique,Otoño-Invierno,Temporal,Tonelada,7490000,Maíz grano,443.00,243.00,200.00,340.2,1.4,3998.78,1360384.96
+2019,Tabasco,Emiliano Zapata,Sur 18,Tenosique,Primavera-Verano,Temporal,Tonelada,5770000,Calabaza semilla o chihua,994.00,994.00,0.00,526.82,0.53,29642.24,15616124.88
+2019,Tabasco,Emiliano Zapata,Sur 18,Tenosique,Primavera-Verano,Temporal,Tonelada,7490000,Maíz grano,1091.00,1091.00,0.00,1963.8,1.8,3999.77,7854748.33
+2019,Tabasco,Emiliano Zapata,Sur 18,Tenosique,Perennes,Temporal,Tonelada,8030000,Palma africana o de aceite,764.00,588.00,0.00,10219.44,17.38,1242.18,12694383.98
+2020,Tabasco,Emiliano Zapata,Jonuta,Jonuta,Otoño-Invierno,Temporal,Tonelada,6110000,Chile seco,164.00,164.00,0.00,101.68,0.62,106196.75,10798085.54
+2020,Tabasco,Emiliano Zapata,Jonuta,Jonuta,Otoño-Invierno,Temporal,Tonelada,6840000,Frijol,142.00,142.00,0.00,90.88,0.64,16380,1488614.4
+2020,Tabasco,Emiliano Zapata,Jonuta,Jonuta,Otoño-Invierno,Temporal,Tonelada,7490000,Maíz grano,2814.00,2767.00,47.00,4703.9,1.7,4004.22,18835450.46
+2020,Tabasco,Emiliano Zapata,Jonuta,Jonuta,Otoño-Invierno,Temporal,Tonelada,8970000,Tomate rojo (jitomate),12.00,12.00,0.00,123.12,10.26,10250.63,1262057.57
+2020,Tabasco,Emiliano Zapata,Jonuta,Jonuta,Primavera-Verano,Temporal,Tonelada,6110000,Chile seco,168.00,129.00,39.00,70.95,0.55,123000,8726850
+2020,Tabasco,Emiliano Zapata,Jonuta,Jonuta,Primavera-Verano,Temporal,Tonelada,7490000,Maíz grano,2916.00,1876.00,1040.00,3545.64,1.89,4007.85,14210393.27
+2020,Tabasco,Emiliano Zapata,Jonuta,Jonuta,Perennes,Temporal,Tonelada,7390000,Limón,5.00,5.00,0.00,36.75,7.35,4025.42,147934.19
+2020,Tabasco,Emiliano Zapata,Jonuta,Jonuta,Perennes,Temporal,Tonelada,7560000,Mango,10.00,10.00,0.00,77.3,7.73,2998.24,231763.95
+2020,Tabasco,Emiliano Zapata,Emiliano Zapata,Emiliano Zapata,Otoño-Invierno,Riego,Tonelada,6120000,Chile verde,7.00,7.00,0.00,148.69,21.24,13851.89,2059637.64
+2020,Tabasco,Emiliano Zapata,Emiliano Zapata,Emiliano Zapata,Otoño-Invierno,Riego,Tonelada,8970000,Tomate rojo (jitomate),3.00,3.00,0.00,94.5,31.5,12248.39,1157472.86
+2020,Tabasco,Emiliano Zapata,Emiliano Zapata,Emiliano Zapata,Otoño-Invierno,Temporal,Tonelada,6110000,Chile seco,31.00,31.00,0.00,17.98,0.58,106202.66,1909523.83
+2020,Tabasco,Emiliano Zapata,Emiliano Zapata,Emiliano Zapata,Otoño-Invierno,Temporal,Tonelada,6120000,Chile verde,4.00,4.00,0.00,37.8,9.45,14230.84,537925.75
+2020,Tabasco,Emiliano Zapata,Emiliano Zapata,Emiliano Zapata,Otoño-Invierno,Temporal,Tonelada,6840000,Frijol,148.00,136.00,12.00,103.36,0.76,16381.26,1693167.03
+2020,Tabasco,Emiliano Zapata,Emiliano Zapata,Emiliano Zapata,Otoño-Invierno,Temporal,Tonelada,7490000,Maíz grano,1425.00,965.00,460.00,1910.7,1.98,4006.7,7655601.69
+2020,Tabasco,Emiliano Zapata,Emiliano Zapata,Emiliano Zapata,Otoño-Invierno,Temporal,Tonelada,8710000,Sandía,28.00,28.00,0.00,451.36,16.12,3402.8,1535887.81
+2020,Tabasco,Emiliano Zapata,Emiliano Zapata,Emiliano Zapata,Otoño-Invierno,Temporal,Tonelada,8810000,Sorgo grano,115.00,115.00,0.00,477.25,4.15,3762.09,1795457.45
+2020,Tabasco,Emiliano Zapata,Emiliano Zapata,Emiliano Zapata,Primavera-Verano,Riego,Tonelada,5410000,Arroz palay,930.00,930.00,0.00,7421.4,7.98,4720,35029008
+2020,Tabasco,Emiliano Zapata,Emiliano Zapata,Emiliano Zapata,Primavera-Verano,Temporal,Tonelada,6120000,Chile verde,6.00,5.00,1.00,48.7,9.74,19114.81,930891.25
+2020,Tabasco,Emiliano Zapata,Emiliano Zapata,Emiliano Zapata,Primavera-Verano,Temporal,Tonelada,7490000,Maíz grano,1180.00,272.00,908.00,522.24,1.92,4011,2094704.64
+2020,Tabasco,Emiliano Zapata,Emiliano Zapata,Emiliano Zapata,Primavera-Verano,Temporal,Tonelada,8710000,Sandía,120.00,120.00,0.00,1968,16.4,3966.74,7806544.32
+2020,Tabasco,Emiliano Zapata,Emiliano Zapata,Emiliano Zapata,Primavera-Verano,Temporal,Tonelada,8810000,Sorgo grano,76.00,55.00,21.00,199.1,3.62,3865,769521.5
+2020,Tabasco,Emiliano Zapata,Emiliano Zapata,Emiliano Zapata,Perennes,Temporal,Tonelada,7390000,Limón,9.00,8.00,0.00,73.2,9.15,4025.94,294698.81
+2020,Tabasco,Emiliano Zapata,Emiliano Zapata,Emiliano Zapata,Perennes,Temporal,Tonelada,7850000,Naranja,6.00,6.00,0.00,103.32,17.22,2438.89,251986.11
+2020,Tabasco,Emiliano Zapata,Tenosique,Tenosique,Otoño-Invierno,Temporal,Tonelada,6120000,Chile verde,13.00,13.00,0.00,116.8,8.98,13766.08,1607878.26
+2020,Tabasco,Emiliano Zapata,Tenosique,Tenosique,Otoño-Invierno,Temporal,Tonelada,6840000,Frijol,33.00,27.00,6.00,14.04,0.52,16374.22,229894.05
+2020,Tabasco,Emiliano Zapata,Tenosique,Tenosique,Otoño-Invierno,Temporal,Tonelada,7490000,Maíz grano,1560.00,1508.00,52.00,2865.2,1.9,4004.13,11472633.28
+2020,Tabasco,Emiliano Zapata,Tenosique,Tenosique,Otoño-Invierno,Temporal,Tonelada,8710000,Sandía,29.00,29.00,0.00,452.98,15.62,3383.66,1532730.31
+2020,Tabasco,Emiliano Zapata,Tenosique,Tenosique,Otoño-Invierno,Temporal,Tonelada,8810000,Sorgo grano,412.00,412.00,0.00,1635.64,3.97,3679.41,6018190.17
+2020,Tabasco,Emiliano Zapata,Tenosique,Tenosique,Otoño-Invierno,Temporal,Tonelada,8970000,Tomate rojo (jitomate),4.00,4.00,0.00,46.48,11.62,10244.11,476146.23
+2020,Tabasco,Emiliano Zapata,Tenosique,Tenosique,Primavera-Verano,Temporal,Tonelada,7490000,Maíz grano,3250.00,2642.00,608.00,4702.76,1.78,4008.99,18853317.81
+2020,Tabasco,Emiliano Zapata,Tenosique,Tenosique,Primavera-Verano,Temporal,Tonelada,8810000,Sorgo grano,122.00,122.00,0.00,439.2,3.6,3860,1695312
+2020,Tabasco,Emiliano Zapata,Tenosique,Tenosique,Perennes,Temporal,Tonelada,7560000,Mango,60.00,60.00,0.00,407.75,6.8,2855.1,1164167.1
+2020,Tabasco,Emiliano Zapata,Balancán,Balancán,Otoño-Invierno,Temporal,Tonelada,6120000,Chile verde,27.00,27.00,0.00,307.38,11.38,13471.84,4140972.71
+2020,Tabasco,Emiliano Zapata,Balancán,Balancán,Otoño-Invierno,Temporal,Tonelada,6840000,Frijol,228.00,228.00,0.00,132.24,0.58,16387,2167016.88
+2020,Tabasco,Emiliano Zapata,Balancán,Balancán,Otoño-Invierno,Temporal,Tonelada,7490000,Maíz grano,3286.00,3191.00,95.00,8870.98,2.78,4004.23,35521444.25
+2020,Tabasco,Emiliano Zapata,Balancán,Balancán,Otoño-Invierno,Temporal,Tonelada,8710000,Sandía,438.00,438.00,0.00,6999.24,15.98,3386.06,23699846.59
+2020,Tabasco,Emiliano Zapata,Balancán,Balancán,Otoño-Invierno,Temporal,Tonelada,8810000,Sorgo grano,3972.00,3972.00,0.00,16801.56,4.23,3738.38,62810615.87
+2020,Tabasco,Emiliano Zapata,Balancán,Balancán,Otoño-Invierno,Temporal,Tonelada,8970000,Tomate rojo (jitomate),10.00,10.00,0.00,126.4,12.64,10700.22,1352507.81
+2020,Tabasco,Emiliano Zapata,Balancán,Balancán,Primavera-Verano,Temporal,Tonelada,6120000,Chile verde,41.00,16.00,25.00,192.8,12.05,15467.54,2982141.09
+2020,Tabasco,Emiliano Zapata,Balancán,Balancán,Primavera-Verano,Temporal,Tonelada,7490000,Maíz grano,5220.00,2999.00,2221.00,8217.26,2.74,4008.98,32942830.99
+2020,Tabasco,Emiliano Zapata,Balancán,Balancán,Primavera-Verano,Temporal,Tonelada,8710000,Sandía,208.00,153.00,55.00,2738.7,17.9,3965.04,10859055.05
+2020,Tabasco,Emiliano Zapata,Balancán,Balancán,Primavera-Verano,Temporal,Tonelada,8810000,Sorgo grano,65.00,65.00,0.00,241.8,3.72,3812,921741.6
+2020,Tabasco,Emiliano Zapata,Balancán,Balancán,Primavera-Verano,Temporal,Tonelada,8970000,Tomate rojo (jitomate),7.00,5.00,2.00,57.65,11.53,9239.27,532643.92
+2020,Tabasco,Emiliano Zapata,Balancán,Balancán,Perennes,Riego,Tonelada,8130000,Papaya,130.00,110.00,0.00,11536.8,104.88,4233.91,48845772.89
+2020,Tabasco,Emiliano Zapata,Villa Quetzalcóatl,Balancán,Otoño-Invierno,Temporal,Tonelada,6110000,Chile seco,8.00,8.00,0.00,3.92,0.49,120100,470792
+2020,Tabasco,Emiliano Zapata,Villa Quetzalcóatl,Balancán,Otoño-Invierno,Temporal,Tonelada,6840000,Frijol,102.00,102.00,0.00,63.24,0.62,16377.78,1035730.81
+2020,Tabasco,Emiliano Zapata,Villa Quetzalcóatl,Balancán,Otoño-Invierno,Temporal,Tonelada,7490000,Maíz grano,2988.00,2901.00,87.00,6585.27,2.27,4005.51,26377364.84
+2020,Tabasco,Emiliano Zapata,Villa Quetzalcóatl,Balancán,Primavera-Verano,Temporal,Tonelada,7490000,Maíz grano,4413.00,4287.00,126.00,7888.08,1.84,4009.4,31626467.95
+2020,Tabasco,Emiliano Zapata,Villa Quetzalcóatl,Balancán,Perennes,Temporal,Tonelada,7850000,Naranja,10.00,10.00,0.00,153,15.3,2440.35,373373.55
+2020,Tabasco,Emiliano Zapata,Villa Quetzalcóatl,Balancán,Perennes,Temporal,Tonelada,8130000,Papaya,25.00,15.00,0.00,987.3,65.82,4232.21,4178460.93
+2020,Tabasco,Emiliano Zapata,Sur 18,Balancán,Otoño-Invierno,Temporal,Tonelada,6110000,Chile seco,37.00,37.00,0.00,17.39,0.47,119493.96,2077999.96
+2020,Tabasco,Emiliano Zapata,Sur 18,Balancán,Otoño-Invierno,Temporal,Tonelada,6840000,Frijol,71.00,71.00,0.00,39.05,0.55,16379.81,639631.58
+2020,Tabasco,Emiliano Zapata,Sur 18,Balancán,Otoño-Invierno,Temporal,Tonelada,7490000,Maíz grano,1812.00,1812.00,0.00,3044.16,1.68,4003.01,12185802.92
+2020,Tabasco,Emiliano Zapata,Sur 18,Balancán,Primavera-Verano,Temporal,Tonelada,7490000,Maíz grano,2176.00,2084.00,92.00,3792.88,1.82,4009,15205655.92
+2020,Tabasco,Emiliano Zapata,Sur 18,Tenosique,Otoño-Invierno,Temporal,Tonelada,6110000,Chile seco,22.00,22.00,0.00,10.56,0.48,119204.54,1258799.94
+2020,Tabasco,Emiliano Zapata,Sur 18,Tenosique,Otoño-Invierno,Temporal,Tonelada,6840000,Frijol,33.00,33.00,0.00,18.15,0.55,16376.18,297227.67
+2020,Tabasco,Emiliano Zapata,Sur 18,Tenosique,Otoño-Invierno,Temporal,Tonelada,7490000,Maíz grano,925.00,925.00,0.00,1600.25,1.73,4003.07,6405912.77
+2020,Tabasco,Emiliano Zapata,Sur 18,Tenosique,Primavera-Verano,Temporal,Tonelada,7490000,Maíz grano,1100.00,1100.00,0.00,2024,1.84,4009,8114216
+2021,Tabasco,Emiliano Zapata,Jonuta,Jonuta,Otoño-Invierno,Temporal,Tonelada,6110000,Chile seco,112.00,112.00,0.00,70.56,0.63,104597.91,7380428.53
+2021,Tabasco,Emiliano Zapata,Jonuta,Jonuta,Otoño-Invierno,Temporal,Tonelada,6840000,Frijol,211.00,190.00,21.00,117.8,0.62,18412,2168933.6
+2021,Tabasco,Emiliano Zapata,Jonuta,Jonuta,Otoño-Invierno,Temporal,Tonelada,7490000,Maíz grano,2878.00,2580.00,298.00,4411.8,1.71,4507.32,19885394.38
+2021,Tabasco,Emiliano Zapata,Jonuta,Jonuta,Otoño-Invierno,Temporal,Tonelada,8970000,Tomate rojo (jitomate),15.00,15.00,0.00,146.25,9.75,8948.47,1308713.74
+2021,Tabasco,Emiliano Zapata,Jonuta,Jonuta,Primavera-Verano,Temporal,Tonelada,6110000,Chile seco,174.00,174.00,0.00,90.48,0.52,124600,11273808
+2021,Tabasco,Emiliano Zapata,Jonuta,Jonuta,Primavera-Verano,Temporal,Tonelada,7490000,Maíz grano,3021.00,2926.00,95.00,5764.22,1.97,4504.95,25967522.89
+2021,Tabasco,Emiliano Zapata,Jonuta,Jonuta,Perennes,Temporal,Tonelada,7390000,Limón,5.00,5.00,0.00,37.35,7.47,4533.21,169315.39
+2021,Tabasco,Emiliano Zapata,Jonuta,Jonuta,Perennes,Temporal,Tonelada,7560000,Mango,10.00,10.00,0.00,78.4,7.84,3228.34,253101.86
+2021,Tabasco,Emiliano Zapata,Emiliano Zapata,Emiliano Zapata,Otoño-Invierno,Riego,Tonelada,6120000,Chile verde,9.00,9.00,0.00,248.85,27.65,15010.88,3735457.32
+2021,Tabasco,Emiliano Zapata,Emiliano Zapata,Emiliano Zapata,Otoño-Invierno,Riego,Tonelada,8970000,Tomate rojo (jitomate),5.00,5.00,0.00,166,33.2,8958,1487028
+2021,Tabasco,Emiliano Zapata,Emiliano Zapata,Emiliano Zapata,Otoño-Invierno,Temporal,Tonelada,6110000,Chile seco,38.00,38.00,0.00,20.9,0.55,104605.35,2186251.82
+2021,Tabasco,Emiliano Zapata,Emiliano Zapata,Emiliano Zapata,Otoño-Invierno,Temporal,Tonelada,6120000,Chile verde,7.00,7.00,0.00,65.24,9.32,15375.63,1003106.1
+2021,Tabasco,Emiliano Zapata,Emiliano Zapata,Emiliano Zapata,Otoño-Invierno,Temporal,Tonelada,6840000,Frijol,159.00,149.00,10.00,110.26,0.74,18415,2030437.9
+2021,Tabasco,Emiliano Zapata,Emiliano Zapata,Emiliano Zapata,Otoño-Invierno,Temporal,Tonelada,7490000,Maíz grano,1550.00,1315.00,235.00,2761.5,2.1,4518.14,12476843.61
+2021,Tabasco,Emiliano Zapata,Emiliano Zapata,Emiliano Zapata,Otoño-Invierno,Temporal,Tonelada,8710000,Sandía,38.00,38.00,0.00,632.7,16.65,3646.31,2307020.34
+2021,Tabasco,Emiliano Zapata,Emiliano Zapata,Emiliano Zapata,Otoño-Invierno,Temporal,Tonelada,8810000,Sorgo grano,52.00,52.00,0.00,198.64,3.82,3765,747879.6
+2021,Tabasco,Emiliano Zapata,Emiliano Zapata,Emiliano Zapata,Primavera-Verano,Riego,Tonelada,5410000,Arroz palay,915.00,915.00,0.00,7265.1,7.94,5248,38127244.8
+2021,Tabasco,Emiliano Zapata,Emiliano Zapata,Emiliano Zapata,Primavera-Verano,Temporal,Tonelada,6120000,Chile verde,7.00,7.00,0.00,68.46,9.78,19114.62,1308586.89
+2021,Tabasco,Emiliano Zapata,Emiliano Zapata,Emiliano Zapata,Primavera-Verano,Temporal,Tonelada,7490000,Maíz grano,1189.00,1067.00,122.00,2496.78,2.34,4509.9,11260228.12
+2021,Tabasco,Emiliano Zapata,Emiliano Zapata,Emiliano Zapata,Primavera-Verano,Temporal,Tonelada,8710000,Sandía,116.00,116.00,0.00,1983.6,17.1,3964.33,7863644.99
+2021,Tabasco,Emiliano Zapata,Emiliano Zapata,Emiliano Zapata,Primavera-Verano,Temporal,Tonelada,8810000,Sorgo grano,80.00,80.00,0.00,302.4,3.78,3812,1152748.8
+2021,Tabasco,Emiliano Zapata,Emiliano Zapata,Emiliano Zapata,Perennes,Temporal,Tonelada,7390000,Limón,9.00,9.00,0.00,85.23,9.47,4449.83,379259.01
+2021,Tabasco,Emiliano Zapata,Emiliano Zapata,Emiliano Zapata,Perennes,Temporal,Tonelada,7850000,Naranja,6.00,6.00,0.00,103.98,17.33,2542.57,264376.43
+2021,Tabasco,Emiliano Zapata,Tenosique,Tenosique,Otoño-Invierno,Temporal,Tonelada,6120000,Chile verde,16.00,16.00,0.00,144.87,9.05,14398.7,2085939.51
+2021,Tabasco,Emiliano Zapata,Tenosique,Tenosique,Otoño-Invierno,Temporal,Tonelada,6840000,Frijol,41.00,33.00,8.00,17.82,0.54,18417,328190.94
+2021,Tabasco,Emiliano Zapata,Tenosique,Tenosique,Otoño-Invierno,Temporal,Tonelada,7490000,Maíz grano,1763.00,1636.00,127.00,3222.92,1.97,4517.22,14558638.68
+2021,Tabasco,Emiliano Zapata,Tenosique,Tenosique,Otoño-Invierno,Temporal,Tonelada,8710000,Sandía,40.00,40.00,0.00,638,15.95,3638.26,2321209.88
+2021,Tabasco,Emiliano Zapata,Tenosique,Tenosique,Otoño-Invierno,Temporal,Tonelada,8810000,Sorgo grano,208.00,208.00,0.00,827.84,3.98,3758.05,3111064.11
+2021,Tabasco,Emiliano Zapata,Tenosique,Tenosique,Otoño-Invierno,Temporal,Tonelada,8970000,Tomate rojo (jitomate),6.00,6.00,0.00,69.3,11.55,8953.14,620452.6
+2021,Tabasco,Emiliano Zapata,Tenosique,Tenosique,Primavera-Verano,Temporal,Tonelada,7490000,Maíz grano,3317.00,3213.00,104.00,5879.79,1.83,4507.16,26501154.3
+2021,Tabasco,Emiliano Zapata,Tenosique,Tenosique,Primavera-Verano,Temporal,Tonelada,8710000,Sandía,10.00,10.00,0.00,169.6,16.96,3961.98,671951.81
+2021,Tabasco,Emiliano Zapata,Tenosique,Tenosique,Primavera-Verano,Temporal,Tonelada,8810000,Sorgo grano,125.00,125.00,0.00,465,3.72,3810,1771650
+2021,Tabasco,Emiliano Zapata,Tenosique,Tenosique,Perennes,Temporal,Tonelada,5700000,Cacao,34.90,0.00,0.00,0,0,0,0
+2021,Tabasco,Emiliano Zapata,Tenosique,Tenosique,Perennes,Temporal,Tonelada,7560000,Mango,60.00,60.00,0.00,399.2,6.65,3036.74,1212267.62
+2021,Tabasco,Emiliano Zapata,Balancán,Balancán,Otoño-Invierno,Temporal,Tonelada,6120000,Chile verde,36.00,36.00,0.00,406.71,11.3,14505.63,5899583.28
+2021,Tabasco,Emiliano Zapata,Balancán,Balancán,Otoño-Invierno,Temporal,Tonelada,6840000,Frijol,247.00,225.00,22.00,126,0.56,18410,2319660
+2021,Tabasco,Emiliano Zapata,Balancán,Balancán,Otoño-Invierno,Temporal,Tonelada,7490000,Maíz grano,3307.00,2962.00,345.00,8175.12,2.76,4510.78,36876167.79
+2021,Tabasco,Emiliano Zapata,Balancán,Balancán,Otoño-Invierno,Temporal,Tonelada,8710000,Sandía,462.00,462.00,0.00,7535.22,16.31,3640.2,27429707.84
+2021,Tabasco,Emiliano Zapata,Balancán,Balancán,Otoño-Invierno,Temporal,Tonelada,8810000,Sorgo grano,4005.00,4005.00,0.00,16821,4.2,3786.27,63688847.67
+2021,Tabasco,Emiliano Zapata,Balancán,Balancán,Otoño-Invierno,Temporal,Tonelada,8970000,Tomate rojo (jitomate),16.00,16.00,0.00,200.8,12.55,8940.23,1795198.18
+2021,Tabasco,Emiliano Zapata,Balancán,Balancán,Primavera-Verano,Temporal,Tonelada,6120000,Chile verde,29.00,29.00,0.00,353.2,12.18,15771.41,5570462.99
+2021,Tabasco,Emiliano Zapata,Balancán,Balancán,Primavera-Verano,Temporal,Tonelada,7490000,Maíz grano,5258.00,5052.00,206.00,14448.72,2.86,4507.94,65133962.84
+2021,Tabasco,Emiliano Zapata,Balancán,Balancán,Primavera-Verano,Temporal,Tonelada,8710000,Sandía,210.00,210.00,0.00,3822,18.2,3962.66,15145286.52
+2021,Tabasco,Emiliano Zapata,Balancán,Balancán,Primavera-Verano,Temporal,Tonelada,8810000,Sorgo grano,70.00,70.00,0.00,268.1,3.83,3797.48,1018104.39
+2021,Tabasco,Emiliano Zapata,Balancán,Balancán,Primavera-Verano,Temporal,Tonelada,8970000,Tomate rojo (jitomate),8.00,8.00,0.00,93.76,11.72,9233.95,865775.15
+2021,Tabasco,Emiliano Zapata,Balancán,Balancán,Perennes,Riego,Tonelada,8130000,Papaya,130.00,130.00,0.00,13578.5,104.45,4233.02,57478062.07
+2021,Tabasco,Emiliano Zapata,Villa Quetzalcóatl,Balancán,Otoño-Invierno,Temporal,Tonelada,6110000,Chile seco,15.00,15.00,0.00,7.5,0.5,125062.13,937965.98
+2021,Tabasco,Emiliano Zapata,Villa Quetzalcóatl,Balancán,Otoño-Invierno,Temporal,Tonelada,6840000,Frijol,108.00,108.00,0.00,64.8,0.6,18410,1192968
+2021,Tabasco,Emiliano Zapata,Villa Quetzalcóatl,Balancán,Otoño-Invierno,Temporal,Tonelada,7490000,Maíz grano,3073.00,2858.00,215.00,6802.04,2.38,4507.39,30659447.08
+2021,Tabasco,Emiliano Zapata,Villa Quetzalcóatl,Balancán,Primavera-Verano,Temporal,Tonelada,7490000,Maíz grano,4436.00,4402.00,34.00,8187.72,1.86,4506.42,36897305.16
+2021,Tabasco,Emiliano Zapata,Villa Quetzalcóatl,Balancán,Perennes,Temporal,Tonelada,7850000,Naranja,10.00,10.00,0.00,154.6,15.46,2527.65,390774.69
+2021,Tabasco,Emiliano Zapata,Villa Quetzalcóatl,Balancán,Perennes,Temporal,Tonelada,8130000,Papaya,25.00,25.00,0.00,1659.5,66.38,4233.83,7026040.89
+2021,Tabasco,Emiliano Zapata,Sur 18,Balancán,Otoño-Invierno,Temporal,Tonelada,6110000,Chile seco,33.00,33.00,0.00,16.17,0.49,125000,2021250
+2021,Tabasco,Emiliano Zapata,Sur 18,Balancán,Otoño-Invierno,Temporal,Tonelada,6840000,Frijol,84.00,84.00,0.00,44.52,0.53,18410,819613.2
+2021,Tabasco,Emiliano Zapata,Sur 18,Balancán,Otoño-Invierno,Temporal,Tonelada,7490000,Maíz grano,1882.00,1882.00,0.00,3368.78,1.79,4541.14,15298101.61
+2021,Tabasco,Emiliano Zapata,Sur 18,Balancán,Primavera-Verano,Temporal,Tonelada,7490000,Maíz grano,2212.00,2185.00,27.00,4042.25,1.85,4507.41,18220078.07
+2021,Tabasco,Emiliano Zapata,Sur 18,Tenosique,Otoño-Invierno,Temporal,Tonelada,6110000,Chile seco,24.00,24.00,0.00,11.76,0.49,125004.04,1470047.51
+2021,Tabasco,Emiliano Zapata,Sur 18,Tenosique,Otoño-Invierno,Temporal,Tonelada,6840000,Frijol,51.00,51.00,0.00,27.03,0.53,18417,497811.51
+2021,Tabasco,Emiliano Zapata,Sur 18,Tenosique,Otoño-Invierno,Temporal,Tonelada,7490000,Maíz grano,942.00,942.00,0.00,1676.76,1.78,4537.99,7609120.11
+2021,Tabasco,Emiliano Zapata,Sur 18,Tenosique,Primavera-Verano,Temporal,Tonelada,7490000,Maíz grano,1138.00,1118.00,20.00,2079.48,1.86,4506.34,9370843.9
+2022,Tabasco,Emiliano Zapata,Jonuta,Jonuta,Otoño-Invierno,Temporal,Tonelada,5770000,Calabaza semilla o chihua,50.00,50.00,0.00,24,0.48,36000,864000
+2022,Tabasco,Emiliano Zapata,Jonuta,Jonuta,Otoño-Invierno,Temporal,Tonelada,6110000,Chile seco,115.00,115.00,0.00,69,0.6,112244.64,7744880.16
+2022,Tabasco,Emiliano Zapata,Jonuta,Jonuta,Otoño-Invierno,Temporal,Tonelada,6840000,Frijol,208.00,208.00,0.00,131,0.63,16385,2146435
+2022,Tabasco,Emiliano Zapata,Jonuta,Jonuta,Otoño-Invierno,Temporal,Tonelada,7490000,Maíz grano,2870.00,2870.00,0.00,4936.4,1.72,4510.47,22265484.11
+2022,Tabasco,Emiliano Zapata,Jonuta,Jonuta,Otoño-Invierno,Temporal,Tonelada,8970000,Tomate rojo (jitomate),13.00,13.00,0.00,129.22,9.94,8320,1075110.4
+2022,Tabasco,Emiliano Zapata,Jonuta,Jonuta,Primavera-Verano,Temporal,Tonelada,5770000,Calabaza semilla o chihua,128.00,128.00,0.00,66.56,0.52,35501.31,2362967.19
+2022,Tabasco,Emiliano Zapata,Jonuta,Jonuta,Primavera-Verano,Temporal,Tonelada,6110000,Chile seco,177.00,177.00,0.00,93.81,0.53,124978.59,11724241.53
+2022,Tabasco,Emiliano Zapata,Jonuta,Jonuta,Primavera-Verano,Temporal,Tonelada,7490000,Maíz grano,2845.00,2845.00,0.00,5633.1,1.98,4604.17,25935750.03
+2022,Tabasco,Emiliano Zapata,Jonuta,Jonuta,Perennes,Temporal,Tonelada,7050000,Guanábana,6.00,6.00,0.00,34.65,5.78,15200,526680
+2022,Tabasco,Emiliano Zapata,Jonuta,Jonuta,Perennes,Temporal,Tonelada,7390000,Limón,5.00,5.00,0.00,37.1,7.42,4463.38,165591.4
+2022,Tabasco,Emiliano Zapata,Jonuta,Jonuta,Perennes,Temporal,Tonelada,7560000,Mango,10.00,10.00,0.00,78,7.8,3233.51,252213.78
+2022,Tabasco,Emiliano Zapata,Jonuta,Jonuta,Perennes,Temporal,Tonelada,9290000,Zapote,4.00,4.00,0.00,22.75,5.69,9850,224087.5
+2022,Tabasco,Emiliano Zapata,Emiliano Zapata,Emiliano Zapata,Otoño-Invierno,Riego,Tonelada,6120000,Chile verde,9.00,9.00,0.00,258.12,28.68,16339.18,4217469.22
+2022,Tabasco,Emiliano Zapata,Emiliano Zapata,Emiliano Zapata,Otoño-Invierno,Riego,Tonelada,8970000,Tomate rojo (jitomate),5.00,5.00,0.00,167.55,33.51,8837.59,1480738.2
+2022,Tabasco,Emiliano Zapata,Emiliano Zapata,Emiliano Zapata,Otoño-Invierno,Temporal,Tonelada,5770000,Calabaza semilla o chihua,22.00,22.00,0.00,10.56,0.48,36000,380160
+2022,Tabasco,Emiliano Zapata,Emiliano Zapata,Emiliano Zapata,Otoño-Invierno,Temporal,Tonelada,6110000,Chile seco,35.00,35.00,0.00,19.6,0.56,112247.52,2200051.39
+2022,Tabasco,Emiliano Zapata,Emiliano Zapata,Emiliano Zapata,Otoño-Invierno,Temporal,Tonelada,6120000,Chile verde,6.00,6.00,0.00,56.16,9.36,16863.59,947059.21
+2022,Tabasco,Emiliano Zapata,Emiliano Zapata,Emiliano Zapata,Otoño-Invierno,Temporal,Tonelada,6840000,Frijol,154.00,154.00,0.00,115.5,0.75,16387.02,1892700.81
+2022,Tabasco,Emiliano Zapata,Emiliano Zapata,Emiliano Zapata,Otoño-Invierno,Temporal,Tonelada,7490000,Maíz grano,1543.00,1543.00,0.00,3317.45,2.15,4515.6,14980277.22
+2022,Tabasco,Emiliano Zapata,Emiliano Zapata,Emiliano Zapata,Otoño-Invierno,Temporal,Tonelada,8710000,Sandía,34.00,34.00,0.00,561.68,16.52,3975.03,2232694.85
+2022,Tabasco,Emiliano Zapata,Emiliano Zapata,Emiliano Zapata,Primavera-Verano,Riego,Tonelada,5410000,Arroz palay,350.00,350.00,0.00,2796.5,7.99,5252.57,14688812.01
+2022,Tabasco,Emiliano Zapata,Emiliano Zapata,Emiliano Zapata,Primavera-Verano,Temporal,Tonelada,6120000,Chile verde,8.00,8.00,0.00,78.1,9.76,19143.62,1495116.72
+2022,Tabasco,Emiliano Zapata,Emiliano Zapata,Emiliano Zapata,Primavera-Verano,Temporal,Tonelada,7490000,Maíz grano,1132.00,838.00,294.00,2187.18,2.61,4607.23,10076841.31
+2022,Tabasco,Emiliano Zapata,Emiliano Zapata,Emiliano Zapata,Primavera-Verano,Temporal,Tonelada,8710000,Sandía,114.00,114.00,0.00,1976.76,17.34,3973.43,7854517.49
+2022,Tabasco,Emiliano Zapata,Emiliano Zapata,Emiliano Zapata,Perennes,Riego,Tonelada,8030000,Palma africana o de aceite,339.00,339.00,0.00,9614.04,28.36,1328,12767445.12
+2022,Tabasco,Emiliano Zapata,Emiliano Zapata,Emiliano Zapata,Perennes,Temporal,Tonelada,5020000,Achiote,3.00,3.00,0.00,2.46,0.82,7228.25,17781.5
+2022,Tabasco,Emiliano Zapata,Emiliano Zapata,Emiliano Zapata,Perennes,Temporal,Tonelada,7390000,Limón,9.00,9.00,0.00,84.96,9.44,4467.25,379537.56
+2022,Tabasco,Emiliano Zapata,Emiliano Zapata,Emiliano Zapata,Perennes,Temporal,Tonelada,7850000,Naranja,6.00,6.00,0.00,100.92,16.82,2734,275915.28
+2022,Tabasco,Emiliano Zapata,Emiliano Zapata,Emiliano Zapata,Perennes,Temporal,Tonelada,8030000,Palma africana o de aceite,3920.00,3920.00,0.00,72749.05,18.56,1519.04,110508716.9
+2022,Tabasco,Emiliano Zapata,Tenosique,Tenosique,Otoño-Invierno,Temporal,Tonelada,6120000,Chile verde,13.00,13.00,0.00,119.14,9.16,16108.37,1919151.64
+2022,Tabasco,Emiliano Zapata,Tenosique,Tenosique,Otoño-Invierno,Temporal,Tonelada,6840000,Frijol,42.00,42.00,0.00,23.1,0.55,16383.95,378469.25
+2022,Tabasco,Emiliano Zapata,Tenosique,Tenosique,Otoño-Invierno,Temporal,Tonelada,7490000,Maíz grano,1757.00,1757.00,0.00,3426.15,1.95,4512.33,15459919.43
+2022,Tabasco,Emiliano Zapata,Tenosique,Tenosique,Otoño-Invierno,Temporal,Tonelada,8710000,Sandía,35.00,35.00,0.00,555.1,15.86,3971.34,2204490.83
+2022,Tabasco,Emiliano Zapata,Tenosique,Tenosique,Otoño-Invierno,Temporal,Tonelada,8810000,Sorgo grano,203.00,203.00,0.00,799.82,3.94,3810.77,3047930.06
+2022,Tabasco,Emiliano Zapata,Tenosique,Tenosique,Otoño-Invierno,Temporal,Tonelada,8970000,Tomate rojo (jitomate),5.00,5.00,0.00,57.4,11.48,8116.11,465864.71
+2022,Tabasco,Emiliano Zapata,Tenosique,Tenosique,Primavera-Verano,Temporal,Tonelada,7490000,Maíz grano,3206.00,2855.00,351.00,5253.2,1.84,4606.38,24198235.42
+2022,Tabasco,Emiliano Zapata,Tenosique,Tenosique,Primavera-Verano,Temporal,Tonelada,8710000,Sandía,12.00,12.00,0.00,201.36,16.78,3970.44,799487.8
+2022,Tabasco,Emiliano Zapata,Tenosique,Tenosique,Primavera-Verano,Temporal,Tonelada,8810000,Sorgo grano,90.00,70.00,20.00,261.8,3.74,3822,1000599.6
+2022,Tabasco,Emiliano Zapata,Tenosique,Tenosique,Perennes,Temporal,Tonelada,5700000,Cacao,34.90,0.00,0.00,0,0,0,0
+2022,Tabasco,Emiliano Zapata,Tenosique,Tenosique,Perennes,Temporal,Tonelada,7560000,Mango,60.00,60.00,0.00,398,6.63,2873.92,1143818.39
+2022,Tabasco,Emiliano Zapata,Tenosique,Tenosique,Perennes,Temporal,Tonelada,8030000,Palma africana o de aceite,2450.00,2450.00,0.00,21535.5,8.79,1546.55,33305727.53
+2022,Tabasco,Emiliano Zapata,Tenosique,Tenosique,Perennes,Temporal,Tonelada,8340000,Pitahaya,16.00,16.00,0.00,134.88,8.43,19500,2630160
+2022,Tabasco,Emiliano Zapata,Tenosique,Tenosique,Perennes,Temporal,Tonelada,9290000,Zapote,20.00,20.00,0.00,109.44,5.47,9250,1012320
+2022,Tabasco,Emiliano Zapata,Balancán,Balancán,Otoño-Invierno,Temporal,Tonelada,5770000,Calabaza semilla o chihua,290.00,290.00,0.00,159.5,0.55,36200,5773900
+2022,Tabasco,Emiliano Zapata,Balancán,Balancán,Otoño-Invierno,Temporal,Tonelada,6120000,Chile verde,34.00,34.00,0.00,382.45,11.25,16060.25,6142241.19
+2022,Tabasco,Emiliano Zapata,Balancán,Balancán,Otoño-Invierno,Temporal,Tonelada,6840000,Frijol,240.00,240.00,0.00,136.8,0.57,16388,2241878.4
+2022,Tabasco,Emiliano Zapata,Balancán,Balancán,Otoño-Invierno,Temporal,Tonelada,7490000,Maíz grano,3298.00,3298.00,0.00,9135.46,2.77,4511.77,41217094.36
+2022,Tabasco,Emiliano Zapata,Balancán,Balancán,Otoño-Invierno,Temporal,Tonelada,8710000,Sandía,446.00,446.00,0.00,7189.52,16.12,3973.23,28565616.55
+2022,Tabasco,Emiliano Zapata,Balancán,Balancán,Otoño-Invierno,Temporal,Tonelada,8810000,Sorgo grano,3981.00,3981.00,0.00,16322.1,4.1,3817.17,62304230.46
+2022,Tabasco,Emiliano Zapata,Balancán,Balancán,Otoño-Invierno,Temporal,Tonelada,8970000,Tomate rojo (jitomate),12.00,12.00,0.00,142.44,11.87,8117.13,1156204
+2022,Tabasco,Emiliano Zapata,Balancán,Balancán,Primavera-Verano,Temporal,Tonelada,5770000,Calabaza semilla o chihua,118.00,118.00,0.00,61.36,0.52,35505.11,2178593.55
+2022,Tabasco,Emiliano Zapata,Balancán,Balancán,Primavera-Verano,Temporal,Tonelada,6120000,Chile verde,32.00,32.00,0.00,393.78,12.31,15820.12,6229647.57
+2022,Tabasco,Emiliano Zapata,Balancán,Balancán,Primavera-Verano,Temporal,Tonelada,7490000,Maíz grano,5143.00,5143.00,0.00,14760.41,2.87,4605.22,67974935.34
+2022,Tabasco,Emiliano Zapata,Balancán,Balancán,Primavera-Verano,Temporal,Tonelada,8710000,Sandía,206.00,206.00,0.00,3736.84,18.14,3971.26,14839963.22
+2022,Tabasco,Emiliano Zapata,Balancán,Balancán,Primavera-Verano,Temporal,Tonelada,8970000,Tomate rojo (jitomate),9.00,9.00,0.00,105.12,11.68,9317.09,979412.5
+2022,Tabasco,Emiliano Zapata,Balancán,Balancán,Perennes,Riego,Tonelada,8130000,Papaya,131.00,130.00,0.00,13491.4,103.78,4254.98,57405637.17
+2022,Tabasco,Emiliano Zapata,Balancán,Balancán,Perennes,Temporal,Tonelada,5020000,Achiote,101.00,96.00,0.00,74.4,0.78,7226.4,537644.16
+2022,Tabasco,Emiliano Zapata,Balancán,Balancán,Perennes,Temporal,Tonelada,8030000,Palma africana o de aceite,5230.00,5230.00,0.00,89171.87,17.05,1499.32,133697168.1
+2022,Tabasco,Emiliano Zapata,Villa Quetzalcóatl,Balancán,Otoño-Invierno,Temporal,Tonelada,5770000,Calabaza semilla o chihua,860.00,860.00,0.00,447.2,0.52,36300,16233360
+2022,Tabasco,Emiliano Zapata,Villa Quetzalcóatl,Balancán,Otoño-Invierno,Temporal,Tonelada,6110000,Chile seco,14.00,14.00,0.00,7.28,0.52,118133.02,860008.39
+2022,Tabasco,Emiliano Zapata,Villa Quetzalcóatl,Balancán,Otoño-Invierno,Temporal,Tonelada,6840000,Frijol,105.00,105.00,0.00,67.2,0.64,16384.05,1101008.16
+2022,Tabasco,Emiliano Zapata,Villa Quetzalcóatl,Balancán,Otoño-Invierno,Temporal,Tonelada,7490000,Maíz grano,3064.00,3064.00,0.00,7047.2,2.3,4511.11,31790694.39
+2022,Tabasco,Emiliano Zapata,Villa Quetzalcóatl,Balancán,Primavera-Verano,Temporal,Tonelada,5770000,Calabaza semilla o chihua,2024.00,2024.00,0.00,991.76,0.49,35503.09,35210544.54
+2022,Tabasco,Emiliano Zapata,Villa Quetzalcóatl,Balancán,Primavera-Verano,Temporal,Tonelada,7490000,Maíz grano,4330.00,4330.00,0.00,8097.1,1.87,4605.7,37292813.47
+2022,Tabasco,Emiliano Zapata,Villa Quetzalcóatl,Balancán,Perennes,Temporal,Tonelada,7850000,Naranja,10.00,10.00,0.00,153.5,15.35,2691.81,413192.84
+2022,Tabasco,Emiliano Zapata,Villa Quetzalcóatl,Balancán,Perennes,Temporal,Tonelada,8030000,Palma africana o de aceite,190.00,190.00,0.00,2842.4,14.96,1534.32,4361151.17
+2022,Tabasco,Emiliano Zapata,Villa Quetzalcóatl,Balancán,Perennes,Temporal,Tonelada,8130000,Papaya,27.00,25.00,0.00,1644.5,65.78,4251.8,6992085.1
+2022,Tabasco,Emiliano Zapata,Sur 18,Balancán,Otoño-Invierno,Temporal,Tonelada,5770000,Calabaza semilla o chihua,1066.00,1066.00,0.00,511.68,0.48,35500,18164640
+2022,Tabasco,Emiliano Zapata,Sur 18,Balancán,Otoño-Invierno,Temporal,Tonelada,6110000,Chile seco,35.00,35.00,0.00,17.5,0.5,118135.05,2067363.38
+2022,Tabasco,Emiliano Zapata,Sur 18,Balancán,Otoño-Invierno,Temporal,Tonelada,6840000,Frijol,82.00,82.00,0.00,44.28,0.54,16383.71,725470.68
+2022,Tabasco,Emiliano Zapata,Sur 18,Balancán,Otoño-Invierno,Temporal,Tonelada,7490000,Maíz grano,1878.00,1878.00,0.00,3474.3,1.85,4511.66,15674860.34
+2022,Tabasco,Emiliano Zapata,Sur 18,Balancán,Primavera-Verano,Temporal,Tonelada,5770000,Calabaza semilla o chihua,1716.00,1716.00,0.00,858,0.5,35502.79,30461393.82
+2022,Tabasco,Emiliano Zapata,Sur 18,Balancán,Primavera-Verano,Temporal,Tonelada,7490000,Maíz grano,2102.00,2102.00,0.00,3951.76,1.88,4604.55,18196076.51
+2022,Tabasco,Emiliano Zapata,Sur 18,Balancán,Perennes,Temporal,Tonelada,5020000,Achiote,40.00,35.00,0.00,25.55,0.73,7224.72,184591.6
+2022,Tabasco,Emiliano Zapata,Sur 18,Balancán,Perennes,Temporal,Tonelada,8030000,Palma africana o de aceite,664.00,664.00,0.00,11799.28,17.77,1553.49,18330063.49
+2022,Tabasco,Emiliano Zapata,Sur 18,Tenosique,Otoño-Invierno,Temporal,Tonelada,5770000,Calabaza semilla o chihua,367.00,367.00,0.00,183.5,0.5,35600,6532600
+2022,Tabasco,Emiliano Zapata,Sur 18,Tenosique,Otoño-Invierno,Temporal,Tonelada,6110000,Chile seco,23.00,23.00,0.00,11.73,0.51,118135.43,1385728.59
+2022,Tabasco,Emiliano Zapata,Sur 18,Tenosique,Otoño-Invierno,Temporal,Tonelada,6840000,Frijol,52.00,52.00,0.00,29.64,0.57,16383.77,485614.94
+2022,Tabasco,Emiliano Zapata,Sur 18,Tenosique,Otoño-Invierno,Temporal,Tonelada,7490000,Maíz grano,938.00,938.00,0.00,1688.4,1.8,4509.82,7614380.09
+2022,Tabasco,Emiliano Zapata,Sur 18,Tenosique,Primavera-Verano,Temporal,Tonelada,5770000,Calabaza semilla o chihua,935.00,935.00,0.00,476.85,0.51,35502.74,16929481.57
+2022,Tabasco,Emiliano Zapata,Sur 18,Tenosique,Primavera-Verano,Temporal,Tonelada,7490000,Maíz grano,1032.00,1032.00,0.00,1929.84,1.87,4603.68,8884365.81
+2022,Tabasco,Emiliano Zapata,Sur 18,Tenosique,Perennes,Temporal,Tonelada,5020000,Achiote,30.00,25.00,0.00,18.25,0.73,7225.15,131858.99
+2022,Tabasco,Emiliano Zapata,Sur 18,Tenosique,Perennes,Temporal,Tonelada,8030000,Palma africana o de aceite,764.00,764.00,0.00,13675.6,17.9,1546.36,21147400.82
+2023,Tabasco,Emiliano Zapata,Jonuta,Jonuta,Otoño-Invierno,Temporal,Tonelada,5770000,Calabaza semilla o chihua,46.00,46.00,0.00,27.6,0.6,35516,980241.6
+2023,Tabasco,Emiliano Zapata,Jonuta,Jonuta,Otoño-Invierno,Temporal,Tonelada,6110000,Chile seco,116.00,116.00,0.00,70.76,0.61,126738.57,8968021.21
+2023,Tabasco,Emiliano Zapata,Jonuta,Jonuta,Otoño-Invierno,Temporal,Tonelada,6840000,Frijol,212.00,212.00,0.00,137.8,0.65,18206,2508786.8
+2023,Tabasco,Emiliano Zapata,Jonuta,Jonuta,Otoño-Invierno,Temporal,Tonelada,7490000,Maíz grano,2886.00,2854.00,32.00,4994.5,1.75,4512.22,22536282.79
+2023,Tabasco,Emiliano Zapata,Jonuta,Jonuta,Otoño-Invierno,Temporal,Tonelada,8970000,Tomate rojo (jitomate),16.00,16.00,0.00,158.56,9.91,8969.89,1422265.76
+2023,Tabasco,Emiliano Zapata,Jonuta,Jonuta,Primavera-Verano,Temporal,Tonelada,5770000,Calabaza semilla o chihua,100.00,100.00,0.00,56,0.56,35493.49,1987635.44
+2023,Tabasco,Emiliano Zapata,Jonuta,Jonuta,Primavera-Verano,Temporal,Tonelada,6110000,Chile seco,180.00,180.00,0.00,97.2,0.54,124963.01,12146404.57
+2023,Tabasco,Emiliano Zapata,Jonuta,Jonuta,Primavera-Verano,Temporal,Tonelada,7490000,Maíz grano,2871.00,2871.00,0.00,5713.29,1.99,4517.39,25809159.11
+2023,Tabasco,Emiliano Zapata,Jonuta,Jonuta,Perennes,Temporal,Tonelada,7050000,Guanábana,6.00,6.00,0.00,32.88,5.48,15656,514769.28
+2023,Tabasco,Emiliano Zapata,Jonuta,Jonuta,Perennes,Temporal,Tonelada,7390000,Limón,5.00,5.00,0.00,37.2,7.44,4751.35,176750.22
+2023,Tabasco,Emiliano Zapata,Jonuta,Jonuta,Perennes,Temporal,Tonelada,7560000,Mango,10.00,10.00,0.00,77.8,7.78,3237.22,251855.72
+2023,Tabasco,Emiliano Zapata,Jonuta,Jonuta,Perennes,Temporal,Tonelada,9290000,Zapote,4.00,4.00,0.00,20.48,5.12,8435.79,172764.98
+2023,Tabasco,Emiliano Zapata,Emiliano Zapata,Emiliano Zapata,Otoño-Invierno,Riego,Tonelada,6120000,Chile verde,10.00,10.00,0.00,281.2,28.12,17134.65,4818263.09
+2023,Tabasco,Emiliano Zapata,Emiliano Zapata,Emiliano Zapata,Otoño-Invierno,Riego,Tonelada,8970000,Tomate rojo (jitomate),5.50,5.50,0.00,184.09,33.47,8973.03,1651845.09
+2023,Tabasco,Emiliano Zapata,Emiliano Zapata,Emiliano Zapata,Otoño-Invierno,Temporal,Tonelada,5770000,Calabaza semilla o chihua,22.00,22.00,0.00,11.44,0.52,37800,432432
+2023,Tabasco,Emiliano Zapata,Emiliano Zapata,Emiliano Zapata,Otoño-Invierno,Temporal,Tonelada,6110000,Chile seco,33.00,33.00,0.00,18.81,0.57,126742.44,2384025.3
+2023,Tabasco,Emiliano Zapata,Emiliano Zapata,Emiliano Zapata,Otoño-Invierno,Temporal,Tonelada,6120000,Chile verde,7.00,7.00,0.00,66.36,9.48,17136.58,1137183.45
+2023,Tabasco,Emiliano Zapata,Emiliano Zapata,Emiliano Zapata,Otoño-Invierno,Temporal,Tonelada,6840000,Frijol,152.00,152.00,0.00,110.96,0.73,18207.2,2020270.91
+2023,Tabasco,Emiliano Zapata,Emiliano Zapata,Emiliano Zapata,Otoño-Invierno,Temporal,Tonelada,7490000,Maíz grano,1560.00,1515.00,45.00,3363.3,2.22,4517.37,15193270.52
+2023,Tabasco,Emiliano Zapata,Emiliano Zapata,Emiliano Zapata,Otoño-Invierno,Temporal,Tonelada,8710000,Sandía,32.00,32.00,0.00,530.24,16.57,3420.84,1813866.2
+2023,Tabasco,Emiliano Zapata,Emiliano Zapata,Emiliano Zapata,Otoño-Invierno,Temporal,Tonelada,8810000,Sorgo grano,15.00,15.00,0.00,59.7,3.98,3925,234322.5
+2023,Tabasco,Emiliano Zapata,Emiliano Zapata,Emiliano Zapata,Primavera-Verano,Riego,Tonelada,5410000,Arroz palay,480.00,480.00,0.00,3820.8,7.96,5261,20101228.8
+2023,Tabasco,Emiliano Zapata,Emiliano Zapata,Emiliano Zapata,Primavera-Verano,Temporal,Tonelada,6120000,Chile verde,9.00,9.00,0.00,87.57,9.73,19127.34,1674981.16
+2023,Tabasco,Emiliano Zapata,Emiliano Zapata,Emiliano Zapata,Primavera-Verano,Temporal,Tonelada,7490000,Maíz grano,1147.00,1147.00,0.00,3005.14,2.62,4520.98,13586177.84
+2023,Tabasco,Emiliano Zapata,Emiliano Zapata,Emiliano Zapata,Primavera-Verano,Temporal,Tonelada,8710000,Sandía,110.00,110.00,0.00,1909.6,17.36,3971.67,7584301.03
+2023,Tabasco,Emiliano Zapata,Emiliano Zapata,Emiliano Zapata,Perennes,Riego,Tonelada,8030000,Palma africana o de aceite,660.00,339.00,0.00,8807.22,25.98,2614.76,23028766.57
+2023,Tabasco,Emiliano Zapata,Emiliano Zapata,Emiliano Zapata,Perennes,Temporal,Tonelada,5020000,Achiote,5.00,3.00,0.00,2.13,0.71,7276.17,15498.24
+2023,Tabasco,Emiliano Zapata,Emiliano Zapata,Emiliano Zapata,Perennes,Temporal,Tonelada,7390000,Limón,12.00,9.00,0.00,85.14,9.46,4754.27,404778.55
+2023,Tabasco,Emiliano Zapata,Emiliano Zapata,Emiliano Zapata,Perennes,Temporal,Tonelada,7850000,Naranja,8.00,6.00,0.00,100.68,16.78,2713.53,273198.2
+2023,Tabasco,Emiliano Zapata,Emiliano Zapata,Emiliano Zapata,Perennes,Temporal,Tonelada,8030000,Palma africana o de aceite,4241.00,4241.00,0.00,64632.84,15.24,2611.38,168780905.7
+2023,Tabasco,Emiliano Zapata,Tenosique,Tenosique,Otoño-Invierno,Temporal,Tonelada,6120000,Chile verde,22.00,22.00,0.00,202.22,9.19,16725.27,3382183.8
+2023,Tabasco,Emiliano Zapata,Tenosique,Tenosique,Otoño-Invierno,Temporal,Tonelada,6840000,Frijol,48.00,48.00,0.00,27.36,0.57,18205.25,498095.64
+2023,Tabasco,Emiliano Zapata,Tenosique,Tenosique,Otoño-Invierno,Temporal,Tonelada,7490000,Maíz grano,1775.00,1699.00,76.00,3805.76,2.24,4509.61,17162493.35
+2023,Tabasco,Emiliano Zapata,Tenosique,Tenosique,Otoño-Invierno,Temporal,Tonelada,8710000,Sandía,37.00,37.00,0.00,587.56,15.88,3647.88,2143348.37
+2023,Tabasco,Emiliano Zapata,Tenosique,Tenosique,Otoño-Invierno,Temporal,Tonelada,8810000,Sorgo grano,203.00,203.00,0.00,870.87,4.29,4001.31,3484620.84
+2023,Tabasco,Emiliano Zapata,Tenosique,Tenosique,Otoño-Invierno,Temporal,Tonelada,8970000,Tomate rojo (jitomate),12.50,12.50,0.00,148.8,11.9,8782.75,1306872.48
+2023,Tabasco,Emiliano Zapata,Tenosique,Tenosique,Primavera-Verano,Temporal,Tonelada,7490000,Maíz grano,3218.00,3218.00,0.00,5953.3,1.85,4515.65,26883019.15
+2023,Tabasco,Emiliano Zapata,Tenosique,Tenosique,Primavera-Verano,Temporal,Tonelada,8710000,Sandía,11.00,11.00,0.00,185.02,16.82,3973.3,735139.97
+2023,Tabasco,Emiliano Zapata,Tenosique,Tenosique,Primavera-Verano,Temporal,Tonelada,8810000,Sorgo grano,90.00,90.00,0.00,319.5,3.55,4204.2,1343241.9
+2023,Tabasco,Emiliano Zapata,Tenosique,Tenosique,Perennes,Temporal,Tonelada,5020000,Achiote,15.00,15.00,0.00,9.3,0.62,7275.1,67658.43
+2023,Tabasco,Emiliano Zapata,Tenosique,Tenosique,Perennes,Temporal,Tonelada,5700000,Cacao,34.90,0.00,0.00,0,0,0,0
+2023,Tabasco,Emiliano Zapata,Tenosique,Tenosique,Perennes,Temporal,Tonelada,7560000,Mango,60.00,60.00,0.00,398.9,6.65,2976.47,1187315.66
+2023,Tabasco,Emiliano Zapata,Tenosique,Tenosique,Perennes,Temporal,Tonelada,8030000,Palma africana o de aceite,2450.00,2450.00,0.00,26607,10.86,2623.54,69804528.78
+2023,Tabasco,Emiliano Zapata,Tenosique,Tenosique,Perennes,Temporal,Tonelada,8340000,Pitahaya,16.00,16.00,0.00,123.52,7.72,14906.08,1841199
+2023,Tabasco,Emiliano Zapata,Tenosique,Tenosique,Perennes,Temporal,Tonelada,9290000,Zapote,20.00,20.00,0.00,107.6,5.38,8759.42,942513.59
+2023,Tabasco,Emiliano Zapata,Balancán,Balancán,Otoño-Invierno,Temporal,Tonelada,5770000,Calabaza semilla o chihua,252.00,252.00,0.00,143.64,0.57,35518.36,5101857.23
+2023,Tabasco,Emiliano Zapata,Balancán,Balancán,Otoño-Invierno,Temporal,Tonelada,6120000,Chile verde,42.00,42.00,0.00,473.1,11.26,16889.7,7990514.85
+2023,Tabasco,Emiliano Zapata,Balancán,Balancán,Otoño-Invierno,Temporal,Tonelada,6840000,Frijol,242.00,242.00,0.00,133.1,0.55,18207,2423351.7
+2023,Tabasco,Emiliano Zapata,Balancán,Balancán,Otoño-Invierno,Temporal,Tonelada,7490000,Maíz grano,4104.00,4009.00,95.00,11305.38,2.82,4513.81,51030337.3
+2023,Tabasco,Emiliano Zapata,Balancán,Balancán,Otoño-Invierno,Temporal,Tonelada,8710000,Sandía,898.00,898.00,0.00,15199.3,16.93,3902.32,59312474.55
+2023,Tabasco,Emiliano Zapata,Balancán,Balancán,Otoño-Invierno,Temporal,Tonelada,8810000,Sorgo grano,100.00,100.00,0.00,414,4.14,3922,1623708
+2023,Tabasco,Emiliano Zapata,Balancán,Balancán,Otoño-Invierno,Temporal,Tonelada,8970000,Tomate rojo (jitomate),27.00,27.00,0.00,341.73,12.66,8767.19,2996012.67
+2023,Tabasco,Emiliano Zapata,Balancán,Balancán,Primavera-Verano,Temporal,Tonelada,5770000,Calabaza semilla o chihua,90.00,90.00,0.00,51.3,0.57,35496.47,1820968.91
+2023,Tabasco,Emiliano Zapata,Balancán,Balancán,Primavera-Verano,Temporal,Tonelada,6120000,Chile verde,37.00,37.00,0.00,453.96,12.27,15815.36,7179540.48
+2023,Tabasco,Emiliano Zapata,Balancán,Balancán,Primavera-Verano,Temporal,Tonelada,7490000,Maíz grano,5126.00,5126.00,0.00,14762.88,2.88,4518.42,66704892.25
+2023,Tabasco,Emiliano Zapata,Balancán,Balancán,Primavera-Verano,Temporal,Tonelada,8710000,Sandía,194.00,194.00,0.00,3511.4,18.1,3969.31,13937835.13
+2023,Tabasco,Emiliano Zapata,Balancán,Balancán,Primavera-Verano,Temporal,Tonelada,8970000,Tomate rojo (jitomate),10.00,10.00,0.00,117,11.7,9324.36,1090950.12
+2023,Tabasco,Emiliano Zapata,Balancán,Balancán,Perennes,Riego,Tonelada,8130000,Papaya,61.00,50.00,0.00,5173,103.46,4268,22078364
+2023,Tabasco,Emiliano Zapata,Balancán,Balancán,Perennes,Temporal,Tonelada,5020000,Achiote,103.00,96.00,0.00,58.56,0.61,7273.07,425910.98
+2023,Tabasco,Emiliano Zapata,Balancán,Balancán,Perennes,Temporal,Tonelada,8030000,Palma africana o de aceite,5230.00,5230.00,0.00,72121.7,13.79,2618.2,188829034.9
+2023,Tabasco,Emiliano Zapata,Villa Quetzalcóatl,Balancán,Otoño-Invierno,Temporal,Tonelada,5770000,Calabaza semilla o chihua,868.00,868.00,0.00,486.08,0.56,35517.57,17264380.43
+2023,Tabasco,Emiliano Zapata,Villa Quetzalcóatl,Balancán,Otoño-Invierno,Temporal,Tonelada,6110000,Chile seco,19.00,19.00,0.00,10.07,0.53,138437.07,1394061.29
+2023,Tabasco,Emiliano Zapata,Villa Quetzalcóatl,Balancán,Otoño-Invierno,Temporal,Tonelada,6840000,Frijol,112.00,112.00,0.00,72.8,0.65,18206.68,1325446.3
+2023,Tabasco,Emiliano Zapata,Villa Quetzalcóatl,Balancán,Otoño-Invierno,Temporal,Tonelada,7490000,Maíz grano,3072.00,2996.00,76.00,8718.36,2.91,4511.49,39332793.96
+2023,Tabasco,Emiliano Zapata,Villa Quetzalcóatl,Balancán,Primavera-Verano,Temporal,Tonelada,5770000,Calabaza semilla o chihua,2037.00,2037.00,0.00,1120.35,0.55,35493.85,39765534.85
+2023,Tabasco,Emiliano Zapata,Villa Quetzalcóatl,Balancán,Primavera-Verano,Temporal,Tonelada,7490000,Maíz grano,4354.00,4354.00,0.00,8054.9,1.85,4518.1,36392843.69
+2023,Tabasco,Emiliano Zapata,Villa Quetzalcóatl,Balancán,Perennes,Temporal,Tonelada,5020000,Achiote,78.00,75.00,0.00,45.75,0.61,7273.08,332743.41
+2023,Tabasco,Emiliano Zapata,Villa Quetzalcóatl,Balancán,Perennes,Temporal,Tonelada,7850000,Naranja,10.00,10.00,0.00,153.3,15.33,2710.83,415570.24
+2023,Tabasco,Emiliano Zapata,Villa Quetzalcóatl,Balancán,Perennes,Temporal,Tonelada,8030000,Palma africana o de aceite,190.00,190.00,0.00,2458.6,12.94,2618.26,6437254.04
+2023,Tabasco,Emiliano Zapata,Villa Quetzalcóatl,Balancán,Perennes,Temporal,Tonelada,8130000,Papaya,17.00,12.00,0.00,788.76,65.73,4265.62,3364550.43
+2023,Tabasco,Emiliano Zapata,Sur 18,Balancán,Otoño-Invierno,Temporal,Tonelada,5770000,Calabaza semilla o chihua,1100.00,1100.00,0.00,594,0.54,35517.38,21097323.72
+2023,Tabasco,Emiliano Zapata,Sur 18,Balancán,Otoño-Invierno,Temporal,Tonelada,6110000,Chile seco,36.00,36.00,0.00,18.36,0.51,138440,2541758.4
+2023,Tabasco,Emiliano Zapata,Sur 18,Balancán,Otoño-Invierno,Temporal,Tonelada,6840000,Frijol,84.00,84.00,0.00,47.04,0.56,18204.24,856327.45
+2023,Tabasco,Emiliano Zapata,Sur 18,Balancán,Otoño-Invierno,Temporal,Tonelada,7490000,Maíz grano,1912.00,1867.00,45.00,3584.64,1.92,4508.2,16160274.05
+2023,Tabasco,Emiliano Zapata,Sur 18,Balancán,Primavera-Verano,Temporal,Tonelada,5770000,Calabaza semilla o chihua,1735.00,1735.00,0.00,988.95,0.57,35495.84,35103610.97
+2023,Tabasco,Emiliano Zapata,Sur 18,Balancán,Primavera-Verano,Temporal,Tonelada,7490000,Maíz grano,2124.00,2124.00,0.00,4035.6,1.9,4514.37,18218191.57
+2023,Tabasco,Emiliano Zapata,Sur 18,Balancán,Perennes,Temporal,Tonelada,5020000,Achiote,40.00,35.00,0.00,21.35,0.61,7272.07,155258.69
+2023,Tabasco,Emiliano Zapata,Sur 18,Balancán,Perennes,Temporal,Tonelada,8030000,Palma africana o de aceite,664.00,664.00,0.00,11195.04,16.86,2625.64,29394144.83
+2023,Tabasco,Emiliano Zapata,Sur 18,Tenosique,Otoño-Invierno,Temporal,Tonelada,5770000,Calabaza semilla o chihua,404.00,404.00,0.00,206.04,0.51,35516.39,7317797
+2023,Tabasco,Emiliano Zapata,Sur 18,Tenosique,Otoño-Invierno,Temporal,Tonelada,6110000,Chile seco,30.00,30.00,0.00,15.6,0.52,138441.36,2159685.22
+2023,Tabasco,Emiliano Zapata,Sur 18,Tenosique,Otoño-Invierno,Temporal,Tonelada,6840000,Frijol,53.00,53.00,0.00,30.74,0.58,18203.25,559567.91
+2023,Tabasco,Emiliano Zapata,Sur 18,Tenosique,Otoño-Invierno,Temporal,Tonelada,7490000,Maíz grano,995.00,943.00,52.00,1810.56,1.92,4507.55,8161189.73
+2023,Tabasco,Emiliano Zapata,Sur 18,Tenosique,Primavera-Verano,Temporal,Tonelada,5770000,Calabaza semilla o chihua,956.00,956.00,0.00,525.8,0.55,35493.61,18662540.14
+2023,Tabasco,Emiliano Zapata,Sur 18,Tenosique,Primavera-Verano,Temporal,Tonelada,7490000,Maíz grano,1065.00,1065.00,0.00,2002.2,1.88,4515.43,9040793.95
+2023,Tabasco,Emiliano Zapata,Sur 18,Tenosique,Perennes,Temporal,Tonelada,5020000,Achiote,32.00,25.00,0.00,15,0.6,7272.1,109081.5
+2023,Tabasco,Emiliano Zapata,Sur 18,Tenosique,Perennes,Temporal,Tonelada,8030000,Palma africana o de aceite,764.00,764.00,0.00,13240.12,17.33,2623.87,34740353.66
+2024,Tabasco,Emiliano Zapata,Jonuta,Jonuta,Otoño-Invierno,Temporal,Tonelada,5770000,Chile verde,118.00,0.00,0.00,,,,
+2024,Tabasco,Emiliano Zapata,Jonuta,Jonuta,Otoño-Invierno,Temporal,Tonelada,6840000,Frijol,210.00,0.00,0.00,,,,
+2024,Tabasco,Emiliano Zapata,Jonuta,Jonuta,Otoño-Invierno,Temporal,Tonelada,7490000,Maíz grano,2883.00,0.00,0.00,,,,
+2024,Tabasco,Emiliano Zapata,Jonuta,Jonuta,Otoño-Invierno,Temporal,Tonelada,8970000,Tomate rojo (jitomate),14.00,0.00,0.00,,,,
+2024,Tabasco,Emiliano Zapata,Jonuta,Jonuta,Primavera-Verano,Temporal,Tonelada,6110000,Chile verde,178.00,91.00,0.00,,,,
+2024,Tabasco,Emiliano Zapata,Jonuta,Jonuta,Primavera-Verano,Temporal,Tonelada,7490000,Maíz grano,2874.00,1934.00,0.00,,,,
+2024,Tabasco,Emiliano Zapata,Jonuta,Jonuta,Perennes,Temporal,Tonelada,7390000,Limón,5.00,5.00,0.00,,,,
+2024,Tabasco,Emiliano Zapata,Jonuta,Jonuta,Perennes,Temporal,Tonelada,7560000,Mango,10.00,10.00,0.00,,,,
+2024,Tabasco,Emiliano Zapata,Emiliano Zapata,Emiliano Zapata,Otoño-Invierno,Riego,Tonelada,6120000,Chile verde,10.50,9.50,0.00,,,,
+2024,Tabasco,Emiliano Zapata,Emiliano Zapata,Emiliano Zapata,Otoño-Invierno,Temporal,Tonelada,6120000,Chile verde,42.00,3.00,0.00,,,,
+2024,Tabasco,Emiliano Zapata,Emiliano Zapata,Emiliano Zapata,Otoño-Invierno,Riego,Tonelada,8970000,Tomate rojo (jitomate),6.00,6.00,0.00,,,,
+2024,Tabasco,Emiliano Zapata,Emiliano Zapata,Emiliano Zapata,Otoño-Invierno,Temporal,Tonelada,6840000,Frijol,153.00,88.00,0.00,,,,
+2024,Tabasco,Emiliano Zapata,Emiliano Zapata,Emiliano Zapata,Otoño-Invierno,Temporal,Tonelada,7490000,Maíz grano,1557.00,57.00,0.00,,,,
+2024,Tabasco,Emiliano Zapata,Emiliano Zapata,Emiliano Zapata,Otoño-Invierno,Temporal,Tonelada,8710000,Sandía,37.00,13.00,0.00,,,,
+2024,Tabasco,Emiliano Zapata,Emiliano Zapata,Emiliano Zapata,Otoño-Invierno,Temporal,Tonelada,8810000,Sorgo grano,15.00,15.00,0.00,,,,
+2024,Tabasco,Emiliano Zapata,Emiliano Zapata,Emiliano Zapata,Primavera-Verano,Riego,Tonelada,5410000,Arroz palay,603.00,603.00,0.00,,,,
+2024,Tabasco,Emiliano Zapata,Emiliano Zapata,Emiliano Zapata,Primavera-Verano,Temporal,Tonelada,6120000,Chile verde,10.00,10.00,0.00,,,,
+2024,Tabasco,Emiliano Zapata,Emiliano Zapata,Emiliano Zapata,Primavera-Verano,Temporal,Tonelada,7490000,Maíz grano,1156.00,393.00,0.00,,,,
+2024,Tabasco,Emiliano Zapata,Emiliano Zapata,Emiliano Zapata,Primavera-Verano,Temporal,Tonelada,8710000,Sandía,113.00,113.00,0.00,,,,
+2024,Tabasco,Emiliano Zapata,Emiliano Zapata,Emiliano Zapata,Perennes,Temporal,Tonelada,7390000,Limón,12.00,12.00,0.00,,,,
+2024,Tabasco,Emiliano Zapata,Emiliano Zapata,Emiliano Zapata,Perennes,Temporal,Tonelada,7850000,Naranja,8.00,8.00,0.00,,,,
+2024,Tabasco,Emiliano Zapata,Tenosique,Tenosique,Otoño-Invierno,Temporal,Tonelada,6120000,Chile verde,47.00,17.00,0.00,,,,
+2024,Tabasco,Emiliano Zapata,Tenosique,Tenosique,Otoño-Invierno,Temporal,Tonelada,6840000,Frijol,100.00,67.00,0.00,,,,
+2024,Tabasco,Emiliano Zapata,Tenosique,Tenosique,Otoño-Invierno,Temporal,Tonelada,7490000,Maíz grano,2760.00,454.00,0.00,,,,
+2024,Tabasco,Emiliano Zapata,Tenosique,Tenosique,Otoño-Invierno,Temporal,Tonelada,8710000,Sandía,38.00,19.00,0.00,,,,
+2024,Tabasco,Emiliano Zapata,Tenosique,Tenosique,Otoño-Invierno,Temporal,Tonelada,8970000,Tomate rojo (jitomate),8.00,0.00,0.00,,,,
+2024,Tabasco,Emiliano Zapata,Tenosique,Tenosique,Primavera-Verano,Temporal,Tonelada,7490000,Maíz grano,4297.00,1984.00,0.00,,,,
+2024,Tabasco,Emiliano Zapata,Tenosique,Tenosique,Primavera-Verano,Temporal,Tonelada,8710000,Sandía,10.50,10.50,0.00,,,,
+2024,Tabasco,Emiliano Zapata,Tenosique,Tenosique,Perennes,Temporal,Tonelada,5700000,Cacao,34.90,34.90,0.00,,,,
+2024,Tabasco,Emiliano Zapata,Tenosique,Tenosique,Perennes,Temporal,Tonelada,7560000,Mango,60.00,60.00,0.00,,,,
+2024,Tabasco,Emiliano Zapata,Balancán,Balancán,Otoño-Invierno,Temporal,Tonelada,6120000,Chile verde,90.00,24.00,0.00,,,,
+2024,Tabasco,Emiliano Zapata,Balancán,Balancán,Otoño-Invierno,Temporal,Tonelada,6840000,Frijol,435.00,126.00,0.00,,,,
+2024,Tabasco,Emiliano Zapata,Balancán,Balancán,Otoño-Invierno,Temporal,Tonelada,7490000,Maíz grano,9086.00,739.00,0.00,,,,
+2024,Tabasco,Emiliano Zapata,Balancán,Balancán,Otoño-Invierno,Temporal,Tonelada,8710000,Sandía,454.00,0.00,0.00,,,,
+2024,Tabasco,Emiliano Zapata,Balancán,Balancán,Otoño-Invierno,Temporal,Tonelada,8810000,Sorgo grano,48.00,0.00,0.00,,,,
+2024,Tabasco,Emiliano Zapata,Balancán,Balancán,Otoño-Invierno,Temporal,Tonelada,8970000,Tomate rojo (jitomate),13.00,0.00,0.00,,,,
+2024,Tabasco,Emiliano Zapata,Balancán,Balancán,Primavera-Verano,Temporal,Tonelada,6120000,Chile verde,34.50,34.50,0.00,,,,
+2024,Tabasco,Emiliano Zapata,Balancán,Balancán,Primavera-Verano,Temporal,Tonelada,7490000,Maíz grano,11628.00,4216.00,0.00,,,,
+2024,Tabasco,Emiliano Zapata,Balancán,Balancán,Primavera-Verano,Temporal,Tonelada,8710000,Sandía,202.00,202.00,0.00,,,,
+2024,Tabasco,Emiliano Zapata,Balancán,Balancán,Primavera-Verano,Temporal,Tonelada,8970000,Tomate rojo (jitomate),9.50,9.50,0.00,,,,
+2024,Tabasco,Emiliano Zapata,Balancán,Balancán,Perennes,Riego,Tonelada,8130000,Papaya,61.00,61.00,0.00,,,,
+2024,Tabasco,Emiliano Zapata,Balancán,Balancán,Perennes,Temporal,Tonelada,8130000,Papaya,17.00,17.00,0.00,,,,
+2024,Tabasco,Emiliano Zapata,Balancán,Balancán,Perennes,Temporal,Tonelada,7850000,Naranja,10.00,10.00,0.00,,,,
