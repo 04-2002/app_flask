@@ -23,6 +23,7 @@ def normalize_string(text):
     return ''.join([c for c in nfkd_form if not unicodedata.combining(c)]).lower()
 
 # Función para generar el gráfico de barras
+# Función para generar el gráfico de barras
 def generar_barras_anual(año, municipio, ciclo_productivo, modalidad, cultivo):
     try:
         df = cargar_datos()
@@ -48,9 +49,14 @@ def generar_barras_anual(año, municipio, ciclo_productivo, modalidad, cultivo):
                 pass
             else:
                 df = df[df['Nomcicloproductivo_normalizado'] == ciclo_productivo_normalizado]
-        if modalidad and modalidad != "Todos":
+        if modalidad:
             modalidad_normalizada = normalize_string(modalidad.strip())
-            df = df[df['Nommodalidad_normalizado'] == modalidad_normalizada]
+
+            # Filtrar correctamente "Riego + Temporal" y otras modalidades
+            if modalidad == "Riego + Temporal":
+                df = df[df['Nommodalidad_normalizado'] == modalidad_normalizada]
+            else:
+                df = df[df['Nommodalidad_normalizado'] == modalidad_normalizada]
         if cultivo and cultivo != "Resumen cultivos":
             cultivo_normalizado = normalize_string(cultivo.strip())
             df = df[df['Nomcultivo_normalizado'] == cultivo_normalizado]
@@ -65,39 +71,41 @@ def generar_barras_anual(año, municipio, ciclo_productivo, modalidad, cultivo):
         }).reset_index()
 
         # Crear título dinámico
-        titulo = "Gráfico de Cultivos"
+        info = ""
         filtros = []
 
         if año:
             filtros.append(f"Año: {año}")
-        if municipio and municipio != "Todos":
-            filtros.append(f"Municipio: {municipio}")
         if ciclo_productivo:
             if ciclo_productivo == "Año agrícola (OI-PV)":
                 filtros.append("Año agrícola (OI + PV)")
             elif ciclo_productivo == "Cíclicos y Perennes":
                 filtros.append("Cíclicos y Perennes")
             else:
-                filtros.append(f"Ciclo Productivo: {ciclo_productivo}")
-        if modalidad and modalidad != "Todos":
-            filtros.append(f"Modalidad: {modalidad}")
-        if cultivo and cultivo != "Resumen cultivos":
-            filtros.append(f"Cultivo: {cultivo}")
+                filtros.append(f"Ciclo: {ciclo_productivo}")
+                
+        if modalidad:
+                 filtros.append(f"Modalidad: {modalidad}")
+# Verificar si no se ha seleccionado ni Riego ni Temporal
+        if not modalidad:
+            filtros.append("Modalidad: Riego + Temporal")
+
 
         # Título completo
         if filtros:
-            titulo += " - " + " | ".join(filtros)
-
+            info += "  " + " | ".join(filtros)
+        titulo = "Cultivos de la Zona Ríos del Estado de Tabasco"
         # Crear gráfico de barras
         fig = px.bar(
             df_grouped,
             x='Nomcultivo',  # Usar la columna 'Nomcultivo' para las barras
             y='Sembrada',
-            title=titulo,
+            #titulo_g 
+            title=f"<b>{titulo}</b><br><span style='font-size:12px'>{info}</span></br>",
             labels={'Sembrada': 'Hectáreas Sembradas', 'Nommunicipio': 'Municipio', 'Nomcultivo': 'Cultivo'},  # Cambiar etiqueta a "Cultivo"
             color='Nommunicipio',  # Mantenemos el label de los municipios
             color_discrete_sequence=px.colors.qualitative.D3,
-            template='plotly_white',
+            template='ggplot2',
             width=950,
             height=500,
             text=None,  # No mostrar cantidades dentro de las barras
@@ -106,7 +114,7 @@ def generar_barras_anual(año, municipio, ciclo_productivo, modalidad, cultivo):
         # Ajustar el tamaño del título
         fig.update_layout(
             title_font=dict(size=14)  # Ajusta el tamaño del título (puedes cambiar el valor)
-)
+        )
         # Guardar el gráfico como HTML
         graph_html = pio.to_html(fig, full_html=False)
         return graph_html, True, None

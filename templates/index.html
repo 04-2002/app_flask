@@ -18,12 +18,12 @@
       <h1>Generador de Gráfico de Cultivos</h1>
       <div class="selector-superior">
         <form id="formulario-selector-pagina" method="GET" action="{{ url_for('index') }}">
-            <select id="selector-pagina" name="selector-pagina" onchange="window.location.href=this.value;">
-              <option value="{{ url_for('index') }}" {% if request.endpoint == 'index' %} selected {% endif %}>Anuario estadístico</option>
-              <option value="{{ url_for('variacion_anual') }}" {% if request.endpoint == 'variacion_anual' %} selected {% endif %}>Variación de cultivos</option>
-              <option value="{{ url_for('temporadas_mensual') }}" {% if request.endpoint == 'temporadas_mensual' %} selected {% endif %}>Temporadas Anuales</option>
-            </select>
-          </form>
+          <select id="selector-pagina" name="selector-pagina" onchange="window.location.href=this.value;">
+            <option value="{{ url_for('index') }}" {% if request.endpoint == 'index' %} selected {% endif %}>Anuario estadístico</option>
+            <option value="{{ url_for('variacion_anual') }}" {% if request.endpoint == 'variacion_anual' %} selected {% endif %}>Variación de cultivos</option>
+            <option value="{{ url_for('temporadas_mensual') }}" {% if request.endpoint == 'temporadas_mensual' %} selected {% endif %}>Temporadas Anuales</option>
+          </select>
+        </form>
       </div>
     </header>
 
@@ -88,45 +88,86 @@
     </div>
 
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
     <script>
-        $(document).ready(function() {
-            $('#boton-generar-grafico').click(function(event) {
-                event.preventDefault();
-                generarGraficoBarrasAnual(); 
-            });
+    $(document).ready(function() {
+        $('#boton-generar-grafico').click(function(event) {
+            event.preventDefault();
+            generarGraficoBarrasAnual(); 
         });
-        
-        function generarGraficoBarrasAnual() {
-            var año = $('#año').val();
-            var municipio = $('#municipio').val();
-            var ciclo_productivo = $('#ciclo_productivo').val();
-            var modalidad = $('#modalidad').val();
-            var cultivo = $('#cultivo').val();
-        
-            $('#cargando-spinner').show();
-            $('#contenedor-grafico').empty();
-            $('#mensaje-error').hide();
-        
-            var url = '/obtener_barras_anual';
-        
-            $.get(url, {
-                año: año,
-                municipio: municipio,
-                ciclo_productivo: ciclo_productivo,
-                modalidad: modalidad,
-                cultivo: cultivo
-            }, function(data) {
-                $('#cargando-spinner').hide();
-                if (data.success) {
-                    $('#contenedor-grafico').html(data.graph_html);
-                } else {
-                    $('#mensaje-error').show().text(data.error_message);
+    });
+
+    function generarGraficoBarrasAnual() {
+        var año = $('#año').val();
+        var municipio = $('#municipio').val();
+        var ciclo_productivo = $('#ciclo_productivo').val();
+        var modalidad = $('#modalidad').val();
+        var cultivo = $('#cultivo').val();
+    
+        $('#cargando-spinner').show();
+        $('#contenedor-grafico').empty();
+        $('#mensaje-error').hide();
+    
+        var url = '/obtener_barras_anual';
+    
+        $.get(url, {
+            año: año,
+            municipio: municipio,
+            ciclo_productivo: ciclo_productivo,
+            modalidad: modalidad,
+            cultivo: cultivo
+        }, function(data) {
+            $('#cargando-spinner').hide();
+            if (data.success) {
+                $('#contenedor-grafico').html(data.graph_html);
+                actualizarCantidadTotal(); // Llamamos a la función para actualizar la cantidad total
+            } else {
+                $('#mensaje-error').show().text(data.error_message);
+            }
+        }).fail(function() {
+            $('#cargando-spinner').hide();
+            $('#contenedor-grafico').html('<p>Error al cargar el gráfico.</p>');
+        });
+    }
+
+    function actualizarCantidadTotal() {
+        var grafico = document.getElementById('contenedor-grafico').querySelector('.plotly-graph-div');
+        if (grafico) {
+            var total = 0;
+            var data = grafico.data;
+            data.forEach(function(trace) {
+                if (trace.visible !== 'legendonly') {  // Solo sumar categorías visibles
+                    total += trace.y.reduce((a, b) => a + b, 0);
                 }
-            }).fail(function() {
-                $('#cargando-spinner').hide();
-                $('#contenedor-grafico').html('<p>Error al cargar el gráfico.</p>');
+            });
+
+            // Añadir la cantidad total al gráfico
+            var annotations = [{
+                x: 1,
+                y: 1,
+                xref: 'paper',
+                yref: 'paper',
+                text: `Total: ${total.toFixed(2)} Hectáreas`,
+                showarrow: false,
+                font: {
+                    size: 12,
+                    color: 'gray'
+                },
+                align: 'center',
+                bgcolor: 'rgba(255,255,255,0.8)',
+                borderpad: 4
+            }];
+            
+            // Añadir las anotaciones al gráfico
+            Plotly.relayout(grafico, { annotations: annotations });
+
+            // Escuchar cambios para actualizar el total cuando cambien las visibilidades
+            grafico.on('plotly_restyle', function(event) {
+                actualizarCantidadTotal(); // Recalcular el total cuando cambien las visibilidades
             });
         }
-    </script>
+    }
+</script>
+
   </body>
 </html>

@@ -70,7 +70,7 @@
 
             <label for="cultivo">Cultivo:</label>
             <select id="cultivo" name="cultivo">
-              <option value="">Todos</option>
+              <!-- <option value="">Todos</option> -->
               {% for cultivo in cultivos %}
               <option value="{{ cultivo }}">{{ cultivo }}</option>
               {% endfor %}
@@ -100,33 +100,34 @@
       });
 
       function generarGraficoAnual() {
-        const año = $('#años').val();
-        const municipio = $('#municipio').val();
-        const temporada = $('#temporada').val();
-        const mes = $('#mes').val();
-        const cultivo = $('#cultivo').val();
+  const año = $('#años').val();
+  const municipio = $('#municipio').val();
+  const temporada = $('#temporada').val();
+  const mes = $('#mes').val();
+  const cultivo = $('#cultivo').val();
 
-        console.log("Filtros aplicados:", año, municipio, temporada, mes, cultivo);
+  console.log("Filtros aplicados:", año, municipio, temporada, mes, cultivo);
 
-        $('#spinner').show();
-        $('#grafico').empty();
+  $('#spinner').show();
+  $('#grafico').empty();
 
-        $.get(
-          '/obtener_barras_temporal',
-          { año, municipio, temporada, mes, cultivo },
-          function (data) {
-            $('#spinner').hide();
-            if (data.success) {
-              $('#grafico').html(data.graph_html || '<p>No se encontraron datos para mostrar el gráfico.</p>');
-            } else {
-              $('#grafico').html('<p>' + data.error_message + '</p>');
-            }
-          }
-        ).fail(function () {
-          $('#spinner').hide();
-          $('#grafico').html('<p>Error al cargar los datos filtrados.</p>');
-        });
+  $.get(
+    '/obtener_barras_temporal',
+    { año, municipio, temporada, mes, cultivo },  // Asegúrate de que los parámetros están correctos
+    function (data) {
+      $('#spinner').hide();
+      if (data.success) {
+        $('#grafico').html(data.graph_html || '<p>No se encontraron datos para mostrar el gráfico.</p>');
+      } else {
+        $('#grafico').html('<p>' + data.error_message + '</p>');
       }
+    }
+  ).fail(function () {
+    $('#spinner').hide();
+    $('#grafico').html('<p>Error al cargar los datos filtrados.</p>');
+  });
+}
+
     </script>
   </body>
 </html>

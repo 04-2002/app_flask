@@ -126,14 +126,18 @@ def temporadas_mensual():
                            meses=meses)
 
 # Ruta para recibir los filtros del cliente y generar el gráfico de líneas
+# Ruta para recibir los filtros del cliente y generar el gráfico de barras
 @app.route('/obtener_barras_temporal', methods=['GET'])
 def obtener_barras_temporal():
     # Obtener los filtros del cliente
-    año = request.args.get('anio')
+    año = request.args.get('año')
     municipio = request.args.get('municipio')
     temporada = request.args.get('temporada')
     mes = request.args.get('mes')
     cultivo = request.args.get('cultivo')
+
+    # Imprimir los parámetros recibidos
+    print(f"Año: {año}, Municipio: {municipio}, Temporada: {temporada}, Mes: {mes}, Cultivo: {cultivo}")
 
     # Llamar a la función para generar el gráfico
     graph_html, error_message = generar_barras_temporal(df_temporadas, año, municipio, temporada, mes, cultivo)
@@ -142,6 +146,7 @@ def obtener_barras_temporal():
         return jsonify({'success': False, 'error_message': error_message})
     else:
         return jsonify({'success': True, 'graph_html': graph_html})
+
     
 
 if __name__ == '__main__':
