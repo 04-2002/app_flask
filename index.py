@@ -91,14 +91,17 @@ def obtener_lineal_anual():
     modalidad = request.args.get('modalidad')
     cultivo = request.args.get('cultivo')
 
-    # Definir tanto año_min como año_max y verificar que los valores sean válidos
+    # Validar combinación no permitida
+    if municipio == "Todos (Separados)" and cultivo == "Resumen cultivos":
+        return jsonify({'success': False, 'error': 'No se puede generar el gráfico con "Resumen Cultivos" cuando se selecciona "Todos (Separados)"'})
+
+    # Validar rangos de años
     try:
         año_min = int(año_min)
         año_max = int(año_max)
-    except (ValueError, TypeError):  # Capturamos tanto ValueError como TypeError
+    except (ValueError, TypeError):
         return jsonify({'success': False, 'error': 'Años no válidos.'})
 
-    # Aquí puedes hacer más validaciones si es necesario
     if año_min > año_max:
         return jsonify({'success': False, 'error': 'El año mínimo no puede ser mayor que el año máximo.'})
 
@@ -106,6 +109,7 @@ def obtener_lineal_anual():
     graph_html = generar_lineal_anual(df_datos, año_min, año_max, municipio, ciclo_productivo, modalidad, cultivo)
 
     return jsonify({'success': True, 'graph_html': graph_html})
+
 
 # Ruta para para las temporadas
 @app.route('/temporadas_mensual', methods=['GET'])

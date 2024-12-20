@@ -36,6 +36,7 @@
                         <label for="municipio">Municipio:</label>
                         <select id="municipio" name="municipio">
                             <option value="">Todos</option>
+                            <option value="Todos (Separados)">Todos (Separados)</option>
                             {% for municipio in municipios %}
                             <option value="{{ municipio }}">{{ municipio }}</option>
                             {% endfor %}
@@ -58,7 +59,7 @@
 
                         <label for="cultivo">Cultivo:</label>
                         <select id="cultivo" name="cultivo">
-                            <option value="">Resumen cultivos</option>
+                            <option value="Resumen cultivos" id="opcion-resumen">Resumen cultivos</option>
                             {% for cultivo in cultivos %}
                             <option value="{{ cultivo }}">{{ cultivo }}</option>
                             {% endfor %}
@@ -73,7 +74,7 @@
             </div>
 
             <div class="contenedor-grafico">
-                <h2>Gráfico de Cultivos</h2>
+                <h2>Gráfico de Cultivos </h2>
                 <div id="spinner-cargando" class="spinner-cargando"></div>
                 <div id="contenedor-grafico"></div>
             </div>
@@ -83,91 +84,104 @@
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/nouislider@15.6.0/dist/nouislider.min.js"></script>
     <script>
-      $(document).ready(function() {
-    $('#boton-generar-grafico').click(function(event) {
-        event.preventDefault();
-        generarGraficoLineal();
-    });
+        $(document).ready(function () {
+            // Verificar si "Todos (Separados)" está seleccionado y ocultar solo "Resumen cultivos"
+            $('#municipio').change(function () {
+                var municipioSeleccionado = $(this).val();
 
-    var años = {{ años | tojson }};
-    var minYear = Math.min(...años);
-    var maxYear = Math.max(...años);
-
-    var slider = document.getElementById('slider');
-    noUiSlider.create(slider, {
-        start: [minYear, maxYear],
-        connect: true,
-        range: {
-            'min': minYear,
-            'max': maxYear
-        },
-        step: 1,
-        format: {
-            to: function(value) {
-                return Math.round(value);
-            },
-            from: function(value) {
-                return Math.round(value);
-            }
-        }
-    });
-
-    slider.noUiSlider.on('update', function(values, handle) {
-        var minValue = values[0];
-        var maxValue = values[1];
-        $('#año-minimo').text(minValue);
-        $('#año-maximo').text(maxValue);
-    });
-});
-
-function generarGraficoLineal() {
-    var añoMin = $('#año-minimo').text();
-    var añoMax = $('#año-maximo').text();
-    var municipio = $('#municipio').val();
-    var ciclo_productivo = $('#ciclo-productivo').val();
-    var modalidad = $('#modalidad').val();
-    var cultivo = $('#cultivo').val();
-
-    $('#spinner-cargando').show();
-    $('#contenedor-grafico').empty();
-
-    $.get('/obtener_lineal_anual', {
-        año_min: añoMin,
-        año_max: añoMax,
-        municipio: municipio,
-        ciclo_productivo: ciclo_productivo,
-        modalidad: modalidad,
-        cultivo: cultivo
-    }, function(data) {
-        $('#spinner-cargando').hide();
-        if (data.success) {
-            $('#contenedor-grafico').html(data.graph_html);
-
-            // Asegúrate de redibujar el gráfico inmediatamente después de cargar
-            var graphElement = document.getElementById('contenedor-grafico').querySelector('.js-plotly-plot');
-            if (graphElement) {
-                Plotly.Plots.resize(graphElement); // Redibujar el gráfico en su contenedor
-            }
-
-            // Redibujar el gráfico también cuando se redimensione la ventana
-            window.onresize = function() {
-                var graphElement = document.getElementById('contenedor-grafico').querySelector('.js-plotly-plot');
-                if (graphElement) {
-                    Plotly.Plots.resize(graphElement);  // Redibujar el gráfico cuando el contenedor cambie
+                if (municipioSeleccionado === "Todos (Separados)") {
+                    // Ocultar la opción "Resumen cultivos"
+                    $('#cultivo option[value="Resumen cultivos"]').hide();
+                    // Si "Resumen cultivos" está seleccionado, cambiar el valor del select a un cultivo válido
+                    if ($('#cultivo').val() === "Resumen cultivos") {
+                        $('#cultivo').val("{{ cultivos[0] }}"); // Selecciona el primer cultivo de la lista
+                    }
+                } else {
+                    // Mostrar la opción "Resumen cultivos" nuevamente cuando no se selecciona "Todos (Separados)"
+                    $('#cultivo option[value="Resumen cultivos"]').show();
                 }
-            };
-        } else {
-            $('#contenedor-grafico').html('<p>Error al cargar el gráfico.</p>');
-        }
-    }).fail(function() {
-        $('#spinner-cargando').hide();
-        $('#contenedor-grafico').html('<p>Error al cargar el gráfico.</p>');
-    });
-}
+            });
 
+            // Si ya se carga la página con "Todos (Separados)", ocultar "Resumen cultivos"
+            if ($('#municipio').val() === "Todos (Separados)") {
+                $('#cultivo option[value="Resumen cultivos"]').hide(); // Ocultar "Resumen cultivos"
+                $('#cultivo').val("{{ cultivos[0] }}"); // Seleccionar el primer cultivo de la lista
+            }
 
-  </script>
-  
-  
+            $('#boton-generar-grafico').click(function (event) {
+                event.preventDefault();
+
+                var añoMin = $('#año-minimo').text();
+                var añoMax = $('#año-maximo').text();
+                var municipio = $('#municipio').val();
+                var ciclo_productivo = $('#ciclo-productivo').val();
+                var modalidad = $('#modalidad').val();
+                var cultivo = $('#cultivo').val();
+
+                if (municipio === "Todos (Separados)" && cultivo === "Resumen cultivos") {
+                    $('#mensaje-error').text('No se puede usar "Todos (Separados)" con "Resumen cultivos".').show();
+                    return;
+                }
+
+                if (municipio === "" && cultivo === "") {
+                    $('#mensaje-error').text('Por favor, seleccione al menos un municipio o un cultivo.').show();
+                    return;
+                }
+
+                $('#spinner-cargando').show();
+                $('#contenedor-grafico').empty();
+                $('#mensaje-error').hide();
+
+                $.get('/obtener_lineal_anual', {
+                    año_min: añoMin,
+                    año_max: añoMax,
+                    municipio: municipio,
+                    ciclo_productivo: ciclo_productivo,
+                    modalidad: modalidad,
+                    cultivo: cultivo
+                })
+                    .done(function (data) {
+                        $('#spinner-cargando').hide();
+                        if (data.success) {
+                            $('#contenedor-grafico').html(data.graph_html);
+                        } else {
+                            $('#contenedor-grafico').html('<p>No hay datos disponibles para los filtros seleccionados.</p>');
+                        }
+                    })
+                    .fail(function () {
+                        $('#spinner-cargando').hide();
+                        $('#contenedor-grafico').html('<p>Error al cargar el gráfico.</p>');
+                    });
+            });
+
+            var años = {{ años | tojson }};
+            var minYear = Math.min(...años);
+            var maxYear = Math.max(...años);
+
+            var slider = document.getElementById('slider');
+            noUiSlider.create(slider, {
+                start: [minYear, maxYear],
+                connect: true,
+                range: {
+                    'min': minYear,
+                    'max': maxYear
+                },
+                step: 1,
+                format: {
+                    to: function (value) {
+                        return Math.round(value);
+                    },
+                    from: function (value) {
+                        return Math.round(value);
+                    }
+                }
+            });
+
+            slider.noUiSlider.on('update', function (values) {
+                $('#año-minimo').text(values[0]);
+                $('#año-maximo').text(values[1]);
+            });
+        });
+    </script>
 </body>
 </html>
